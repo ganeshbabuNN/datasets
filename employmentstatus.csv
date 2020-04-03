@@ -1,0 +1,7 @@
+EmpStatusID,EmploymentStatus
+1,Active
+2,Terminated for Cause
+3,Future Start
+4,Leave of Absence
+5,Terminated for Cause
+6,Voluntarily Terminated
