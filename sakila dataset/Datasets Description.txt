@@ -1,0 +1,191 @@
+
+The Sakila sample database is designed to represent a DVD rental store.
+THere are total 16 tables
+
+1.The actor table
+=================
+The actor table lists information for all actors.
+The actor table is joined to the film table by means of the film_actor table.
+
+Columns
+actor_id: A surrogate primary key used to uniquely identify each actor in the table.
+first_name: The actor first name.
+last_name: The actor last name.
+last_update: When the row was created or most recently updated.
+
+
+2.The address Table
+===================
+The address table contains address information for customers, staff, and stores.
+The address table primary key appears as a foreign key in the customer, staff, and store tables.
+
+Columns
+address_id: A surrogate primary key used to uniquely identify each address in the table.
+address: The first line of an address.
+address2: An optional second line of an address.
+district: The region of an address, this may be a state, province, prefecture, etc.
+city_id: A foreign key pointing to the city table.
+postal_code: The postal code or ZIP code of the address (where applicable).
+phone: The telephone number for the address.
+last_update: When the row was created or most recently updated.
+location: A Geometry column with a spatial index on it.
+
+3 The category Table
+====================
+The category table lists the categories that can be assigned to a film.
+The category table is joined to the film table by means of the film_category table.
+
+Columns
+category_id: A surrogate primary key used to uniquely identify each category in the table.
+name: The name of the category.
+last_update: When the row was created or most recently updated.
+
+4 The city Table
+================
+The city table contains a list of cities.
+The city table is referred to by a foreign key in the address table and refers to the country table using a foreign key.
+
+Columns
+city_id: A surrogate primary key used to uniquely identify each city in the table.
+city: The name of the city.
+country_id: A foreign key identifying the country that the city belongs to.
+last_update: When the row was created or most recently updated
+
+5 The country Table
+===================
+The country table contains a list of countries.
+The country table is referred to by a foreign key in the city table.
+
+Columns
+country_id: A surrogate primary key used to uniquely identify each country in the table.
+country: The name of the country.
+last_update: When the row was created or most recently updated
+
+6 The customer Table
+====================
+The customer table contains a list of all customers.
+The customer table is referred to in the payment and rental tables and refers to the address and store tables using foreign keys.
+
+Columns
+customer_id: A surrogate primary key used to uniquely identify each customer in the table.
+store_id: A foreign key identifying the customer “home store.” Customers are not limited to renting only from this store, but this is the store at which they generally shop.
+first_name: The customer first name.
+last_name: The customer last name.
+email: The customer email address.
+address_id: A foreign key identifying the customer address in the address table.
+active: Indicates whether the customer is an active customer. Setting this to FALSE serves as an alternative to deleting a customer outright. Most queries should have a WHERE active = TRUE clause.
+create_date: The date the customer was added to the system. This date is automatically set using a trigger during an INSERT.
+last_update: When the row was created or most recently updated.
+
+7 The film Table
+================
+-The film table is a list of all films potentially in stock in the stores. The actual in-stock copies of each film are represented in the inventory table.
+-The film table refers to the language table and is referred to by the film_category, film_actor, and inventory tables.
+
+Columns
+film_id: A surrogate primary key used to uniquely identify each film in the table.
+title: The title of the film.
+description: A short description or plot summary of the film.
+release_year: The year in which the movie was released.
+language_id: A foreign key pointing at the language table; identifies the language of the film.
+original_language_id: A foreign key pointing at the language table; identifies the original language of the film. Used when a film has been dubbed into a new language.
+rental_duration: The length of the rental period, in days.
+rental_rate: The cost to rent the film for the period specified in the rental_duration column.
+length: The duration of the film, in minutes.
+replacement_cost: The amount charged to the customer if the film is not returned or is returned in a damaged state.
+rating: The rating assigned to the film. Can be one of: G, PG, PG-13, R, or NC-17.
+special_features: Lists which common special features are included on the DVD. Can be zero or more of: Trailers, Commentaries, Deleted Scenes, Behind the Scenes.
+last_update: When the row was created or most recently updated.
+
+8 The film_actor Table
+========================
+-The film_actor table is used to support a many-to-many relationship between films and actors. For each actor in a given film, there will be one row in the film_actor table listing the actor and film.
+-The film_actor table refers to the film and actor tables using foreign keys.
+
+Columns:
+actor_id: A foreign key identifying the actor.
+film_id: A foreign key identifying the film.
+last_update: When the row was created or most recently updated
+
+11 The inventory Table
+======================
+The inventory table contains one row for each copy of a given film in a given store.
+The inventory table refers to the film and store tables using foreign keys and is referred to by the rental table.
+
+Columns
+inventory_id: A surrogate primary key used to uniquely identify each item in inventory.
+film_id: A foreign key pointing to the film this item represents.
+store_id: A foreign key pointing to the store stocking this item.
+last_update: When the row was created or most recently updated
+
+12 The language Table
+=====================
+-The language table is a lookup table listing the possible languages that films can have for their language and original language values.
+-The language table is referred to by the film table
+
+Columns
+language_id: A surrogate primary key used to uniquely identify each language.
+name: The English name of the language.
+last_update: When the row was created or most recently updated.
+
+13 The payment Table
+====================
+-The payment table records each payment made by a customer, with information such as the amount and the rental being paid for (when applicable).
+-The payment table refers to the customer, rental, and staff tables.
+
+Columns
+payment_id: A surrogate primary key used to uniquely identify each payment.
+customer_id: The customer whose balance the payment is being applied to. This is a foreign key reference to the customer table.
+staff_id: The staff member who processed the payment. This is a foreign key reference to the staff table.
+rental_id: The rental that the payment is being applied to. This is optional because some payments are for outstanding fees and may not be directly related to a rental.
+amount: The amount of the payment.
+payment_date: The date the payment was processed.
+last_update: When the row was created or most recently updated.
+
+14 The rental Table
+===================
+-The rental table contains one row for each rental of each inventory item with information about who rented what item, when it was rented, and when it was returned.
+-The rental table refers to the inventory, customer, and staff tables and is referred to by the payment table
+
+Columns
+rental_id: A surrogate primary key that uniquely identifies the rental.
+rental_date: The date and time that the item was rented.
+inventory_id: The item being rented.
+customer_id: The customer renting the item.
+return_date: The date and time the item was returned.
+staff_id: The staff member who processed the rental.
+last_update: When the row was created or most recently updated.
+
+15 The staff Table
+==================
+-The staff table lists all staff members, including information for email address, login information, and picture.
+-The staff table refers to the store and address tables using foreign keys, and is referred to by the rental, payment, and store tables
+
+Columns
+staff_id: A surrogate primary key that uniquely identifies the staff member.
+first_name: The first name of the staff member.
+last_name: The last name of the staff member.
+address_id: A foreign key to the staff member address in the address table.
+picture: A BLOB containing a photograph of the employee.
+email: The staff member email address.
+store_id: The staff member “home store.” The employee can work at other stores but is generally assigned to the store listed.
+active: Whether this is an active employee. If employees leave, their rows are not deleted from this table; instead, this column is set to FALSE.
+username: The user name used by the staff member to access the rental system.
+password: The password used by the staff member to access the rental system. The password should be stored as a hash using the SHA2() function.
+last_update: When the row was created or most recently updated.
+
+16 The store Table
+==================
+-The store table lists all stores in the system. All inventory is assigned to specific stores, and staff and customers are assigned a “home store”.
+-The store table refers to the staff and address tables using foreign keys and is referred to by the staff, customer, and inventory tables.
+
+Columns
+store_id: A surrogate primary key that uniquely identifies the store.
+manager_staff_id: A foreign key identifying the manager of this store.
+address_id: A foreign key identifying the address of this store.
+last_update: When the row was created or most recently updated.
+
+
+Orginal source:- https://dev.mysql.com/doc/sakila/en/
+for DB scripts
+https://github.com/ivanceras/sakila
