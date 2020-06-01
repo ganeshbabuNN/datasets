@@ -1,0 +1,49 @@
+https://www.kaggle.com/rhuebner/human-resources-data-set
+
+
+ Cross-disciplinary data repositories, data collections and data search engines
+ =============================================================================
+
+https://www.kaggle.com/datasets
+
+https://opendata.socrata.com/
+
+https://www.data.gov/  --- US website
+
+https://data.gov.in/ --- india website
+
+https://github.com/fivethirtyeight/data
+
+https://cloud.google.com/bigquery/public-data/
+
+https://www.reddit.com/r/datasets/
+
+http://linkeddata.org
+http://figshare.com
+http://datacite.org
+http://databib.org
+http://aws.amazon.com/datasets
+http://usgovxml.com
+http://www.assetmacro.com
+
+http://datasource.kapsarc.org
+
+
+
+stack overflow survey datasets
+------------------------------
+https://insights.stackoverflow.com/survey
+
+
+
+
+generic websites
+===========
+https://cloud.google.com/bigquery/public-data/
+
+https://data.world/datasets
+
+
+Donal trump pooling
+-------------------
+https://data.fivethirtyeight.com/
