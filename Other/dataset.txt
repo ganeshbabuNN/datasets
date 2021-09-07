@@ -24,6 +24,7 @@ EDA:
 https://www.kaggle.com/kslarwtf/avocado-eda/data
 https://github.com/kishan0725/Avocado/blob/master/Avocado.ipynb 
 https://github.com/rohinegi548/EDA-and-Machine-Learning-Avocado-Prices-Predictions/blob/master/README.md
+https://www.kaggle.com/neuromusic/avocado-prices/code
 
 Tips Datasets
 ~~~~~~~~~~~~~
