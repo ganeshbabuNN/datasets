@@ -23,12 +23,10 @@ Columns Descriptions:
 EDA:
 https://www.kaggle.com/kslarwtf/avocado-eda/data
 https://github.com/kishan0725/Avocado/blob/master/Avocado.ipynb 
+https://github.com/rohinegi548/EDA-and-Machine-Learning-Avocado-Prices-Predictions/blob/master/README.md
 
 Tips Datasets
 ~~~~~~~~~~~~~
-https://www.kaggle.com/jsphyg/tipping
-https://www.kaggle.com/ranjeetjain3/seaborn-tips-dataset
-
 Descriptions:
 Food servers’ tips in restaurants may be influenced by many factors, including the nature of the restaurant, size of the party, and table locations in the restaurant. Restaurant managers need to know which factors
 matter when they assign tables to food servers. For the sake of staff morale,they usually want to avoid either the substance or the appearance of unfair treatment of the servers, for whom tips (at least in restaurants in the United
@@ -45,3 +43,7 @@ day : 3=Thur, 4=Fri, 5=Sat, 6=Sun
 time: 0=Day, 1=Night
 Size: number of people in party
 
+EDA:
+https://www.kaggle.com/jsphyg/tipping
+https://www.kaggle.com/ranjeetjain3/seaborn-tips-dataset
+https://github.com/JoshuaPark823/avocado-analyzer
