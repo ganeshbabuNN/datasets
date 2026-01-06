@@ -1,0 +1,156 @@
+STUDYID,DOMAIN,USUBJID,COSEQ,CODOMAIN,COSPID,COTERM,COVAL,COREF,CODTC,CODY
+STUDY001,CO,STUDY001-SUBJ0001,1,VS,VS1,Temperature reading may be inaccurate due to equipment malfunction.,,VSTESTCD,2025-10-26,68
+STUDY001,CO,STUDY001-SUBJ0001,2,AE,AE1,Adverse event severity was initially recorded incorrectly.,,AETESTCD,2025-08-29,10
+STUDY001,CO,STUDY001-SUBJ0001,3,LB,LB4,Sample collected after subject had eaten despite fasting instructions.,,LBTESTCD,2025-10-26,68
+STUDY001,CO,STUDY001-SUBJ0002,1,VS,VS1,Heart rate elevated due to subject anxiety.,,VSTESTCD,2025-07-11,128
+STUDY001,CO,STUDY001-SUBJ0003,1,VS,VS1,Temperature reading may be inaccurate due to equipment malfunction.,,VSTESTCD,2025-08-05,14
+STUDY001,CO,STUDY001-SUBJ0003,2,AE,AE2,AE resolved without sequelae after 3 days.,,AETESTCD,2025-10-20,90
+STUDY001,CO,STUDY001-SUBJ0003,3,EX,EX1,Subject administered medication incorrectly.,,EXTESTCD,2025-11-08,109
+STUDY001,CO,STUDY001-SUBJ0005,1,LB,LB2,Sample hemolyzed; results may be affected.,,LBTESTCD,2025-12-25,334
+STUDY001,CO,STUDY001-SUBJ0005,2,VS,VS3,Temperature reading may be inaccurate due to equipment malfunction.,,VSTESTCD,2025-10-23,271
+STUDY001,CO,STUDY001-SUBJ0006,1,DM,DM3,Date of birth confirmed via identity document.,,DMTESTCD,2025-09-13,163
+STUDY001,CO,STUDY001-SUBJ0010,1,DM,DM4,Subject demographics verified with clinic records.,,DMTESTCD,2025-10-25,37
+STUDY001,CO,STUDY001-SUBJ0011,1,AE,AE4,Adverse event severity was initially recorded incorrectly.,,AETESTCD,2025-10-26,126
+STUDY001,CO,STUDY001-SUBJ0011,2,EX,EX4,Subject administered medication incorrectly.,,EXTESTCD,2025-11-28,159
+STUDY001,CO,STUDY001-SUBJ0011,3,VS,VS4,Temperature reading may be inaccurate due to equipment malfunction.,,VSTESTCD,2025-08-15,54
+STUDY001,CO,STUDY001-SUBJ0012,1,EX,EX1,Pill count indicates 90% compliance.,,EXTESTCD,2025-07-26,63
+STUDY001,CO,STUDY001-SUBJ0013,1,DM,DM5,Subject demographics verified with clinic records.,,DMTESTCD,2025-10-06,35
+STUDY001,CO,STUDY001-SUBJ0013,2,DM,DM4,Subject demographics verified with clinic records.,,DMTESTCD,2025-09-26,25
+STUDY001,CO,STUDY001-SUBJ0014,1,DM,DM5,Date of birth confirmed via identity document.,,DMTESTCD,2025-09-18,54
+STUDY001,CO,STUDY001-SUBJ0015,1,DM,DM2,Subject demographics verified with clinic records.,,DMTESTCD,2025-09-05,226
+STUDY001,CO,STUDY001-SUBJ0015,2,LB,LB5,Sample hemolyzed; results may be affected.,,LBTESTCD,2025-03-01,38
+STUDY001,CO,STUDY001-SUBJ0016,1,VS,VS2,Temperature reading may be inaccurate due to equipment malfunction.,,VSTESTCD,2025-06-11,26
+STUDY001,CO,STUDY001-SUBJ0017,1,AE,AE1,Subject reported AE after leaving the clinic.,,AETESTCD,2025-05-15,63
+STUDY001,CO,STUDY001-SUBJ0019,1,DM,DM4,Subject demographics verified with clinic records.,,DMTESTCD,2025-12-14,18
+STUDY001,CO,STUDY001-SUBJ0019,2,DM,DM1,Patient reports different race than in screening visit.,,DMTESTCD,2025-12-02,6
+STUDY001,CO,STUDY001-SUBJ0019,3,AE,AE2,AE resolved without sequelae after 3 days.,,AETESTCD,2025-12-18,22
+STUDY001,CO,STUDY001-SUBJ0020,1,VS,VS1,Temperature reading may be inaccurate due to equipment malfunction.,,VSTESTCD,2025-11-18,7
+STUDY001,CO,STUDY001-SUBJ0020,2,LB,LB3,Repeat test scheduled due to abnormal values.,,LBTESTCD,2025-11-26,15
+STUDY001,CO,STUDY001-SUBJ0020,3,EX,EX3,Subject administered medication incorrectly.,,EXTESTCD,2025-11-24,13
+STUDY001,CO,STUDY001-SUBJ0022,1,AE,AE5,AE resolved without sequelae after 3 days.,,AETESTCD,2025-10-10,229
+STUDY001,CO,STUDY001-SUBJ0022,2,VS,VS3,Temperature reading may be inaccurate due to equipment malfunction.,,VSTESTCD,2025-06-06,103
+STUDY001,CO,STUDY001-SUBJ0022,3,DM,DM2,Patient reports different race than in screening visit.,,DMTESTCD,2025-09-14,203
+STUDY001,CO,STUDY001-SUBJ0024,1,DM,DM3,Date of birth confirmed via identity document.,,DMTESTCD,2025-08-14,178
+STUDY001,CO,STUDY001-SUBJ0025,1,AE,AE5,AE resolved without sequelae after 3 days.,,AETESTCD,2025-10-10,37
+STUDY001,CO,STUDY001-SUBJ0025,2,LB,LB2,Sample collected after subject had eaten despite fasting instructions.,,LBTESTCD,2025-09-30,27
+STUDY001,CO,STUDY001-SUBJ0025,3,VS,VS4,Temperature reading may be inaccurate due to equipment malfunction.,,VSTESTCD,2025-11-11,69
+STUDY001,CO,STUDY001-SUBJ0026,1,EX,EX1,Subject administered medication incorrectly.,,EXTESTCD,2025-08-07,113
+STUDY001,CO,STUDY001-SUBJ0027,1,EX,EX3,Pill count indicates 90% compliance.,,EXTESTCD,2025-07-11,93
+STUDY001,CO,STUDY001-SUBJ0027,2,EX,EX1,Subject reports missing one dose the previous day.,,EXTESTCD,2025-08-22,135
+STUDY001,CO,STUDY001-SUBJ0029,1,LB,LB4,Repeat test scheduled due to abnormal values.,,LBTESTCD,2025-11-20,7
+STUDY001,CO,STUDY001-SUBJ0029,2,VS,VS1,Heart rate elevated due to subject anxiety.,,VSTESTCD,2025-11-14,1
+STUDY001,CO,STUDY001-SUBJ0030,1,AE,AE3,Adverse event severity was initially recorded incorrectly.,,AETESTCD,2025-11-14,4
+STUDY001,CO,STUDY001-SUBJ0030,2,VS,VS3,Heart rate elevated due to subject anxiety.,,VSTESTCD,2025-12-03,23
+STUDY001,CO,STUDY001-SUBJ0030,3,VS,VS4,Blood pressure measured after subject was seated for 5 minutes.,,VSTESTCD,2025-11-19,9
+STUDY001,CO,STUDY001-SUBJ0031,1,DM,DM4,Patient reports different race than in screening visit.,,DMTESTCD,2025-09-07,137
+STUDY001,CO,STUDY001-SUBJ0031,2,VS,VS5,Blood pressure measured after subject was seated for 5 minutes.,,VSTESTCD,2025-05-23,30
+STUDY001,CO,STUDY001-SUBJ0032,1,DM,DM3,Date of birth confirmed via identity document.,,DMTESTCD,2025-11-27,316
+STUDY001,CO,STUDY001-SUBJ0032,2,DM,DM5,Patient reports different race than in screening visit.,,DMTESTCD,2025-10-27,285
+STUDY001,CO,STUDY001-SUBJ0033,1,DM,DM1,Subject demographics verified with clinic records.,,DMTESTCD,2025-10-05,253
+STUDY001,CO,STUDY001-SUBJ0033,2,LB,LB1,Sample hemolyzed; results may be affected.,,LBTESTCD,2025-02-28,34
+STUDY001,CO,STUDY001-SUBJ0033,3,DM,DM2,Date of birth confirmed via identity document.,,DMTESTCD,2025-12-04,313
+STUDY001,CO,STUDY001-SUBJ0034,1,DM,DM1,Patient reports different race than in screening visit.,,DMTESTCD,2025-09-12,12
+STUDY001,CO,STUDY001-SUBJ0035,1,DM,DM1,Subject demographics verified with clinic records.,,DMTESTCD,2025-11-17,25
+STUDY001,CO,STUDY001-SUBJ0035,2,AE,AE3,Subject reported AE after leaving the clinic.,,AETESTCD,2025-11-08,16
+STUDY001,CO,STUDY001-SUBJ0036,1,LB,LB3,Repeat test scheduled due to abnormal values.,,LBTESTCD,2025-05-13,16
+STUDY001,CO,STUDY001-SUBJ0036,2,EX,EX1,Subject administered medication incorrectly.,,EXTESTCD,2025-10-26,182
+STUDY001,CO,STUDY001-SUBJ0036,3,LB,LB3,Sample collected after subject had eaten despite fasting instructions.,,LBTESTCD,2025-10-08,164
+STUDY001,CO,STUDY001-SUBJ0037,1,LB,LB2,Repeat test scheduled due to abnormal values.,,LBTESTCD,2025-10-31,5
+STUDY001,CO,STUDY001-SUBJ0038,1,AE,AE4,Subject reported AE after leaving the clinic.,,AETESTCD,2025-12-31,255
+STUDY001,CO,STUDY001-SUBJ0038,2,DM,DM1,Subject demographics verified with clinic records.,,DMTESTCD,2025-09-27,160
+STUDY001,CO,STUDY001-SUBJ0038,3,LB,LB5,Sample collected after subject had eaten despite fasting instructions.,,LBTESTCD,2025-11-08,202
+STUDY001,CO,STUDY001-SUBJ0039,1,LB,LB2,Sample hemolyzed; results may be affected.,,LBTESTCD,2025-11-28,103
+STUDY001,CO,STUDY001-SUBJ0040,1,DM,DM2,Date of birth confirmed via identity document.,,DMTESTCD,2025-10-16,91
+STUDY001,CO,STUDY001-SUBJ0040,2,EX,EX1,Pill count indicates 90% compliance.,,EXTESTCD,2025-11-14,120
+STUDY001,CO,STUDY001-SUBJ0040,3,LB,LB3,Repeat test scheduled due to abnormal values.,,LBTESTCD,2025-10-21,96
+STUDY001,CO,STUDY001-SUBJ0041,1,DM,DM5,Date of birth confirmed via identity document.,,DMTESTCD,2025-08-05,11
+STUDY001,CO,STUDY001-SUBJ0042,1,VS,VS3,Temperature reading may be inaccurate due to equipment malfunction.,,VSTESTCD,2025-11-21,211
+STUDY001,CO,STUDY001-SUBJ0042,2,DM,DM5,Subject demographics verified with clinic records.,,DMTESTCD,2025-08-10,108
+STUDY001,CO,STUDY001-SUBJ0044,1,VS,VS1,Temperature reading may be inaccurate due to equipment malfunction.,,VSTESTCD,2025-10-30,95
+STUDY001,CO,STUDY001-SUBJ0045,1,AE,AE5,AE resolved without sequelae after 3 days.,,AETESTCD,2025-10-17,24
+STUDY001,CO,STUDY001-SUBJ0045,2,LB,LB2,Sample collected after subject had eaten despite fasting instructions.,,LBTESTCD,2025-12-11,79
+STUDY001,CO,STUDY001-SUBJ0045,3,VS,VS4,Blood pressure measured after subject was seated for 5 minutes.,,VSTESTCD,2025-12-14,82
+STUDY001,CO,STUDY001-SUBJ0047,1,DM,DM5,Subject demographics verified with clinic records.,,DMTESTCD,2025-09-20,233
+STUDY001,CO,STUDY001-SUBJ0047,2,VS,VS2,Temperature reading may be inaccurate due to equipment malfunction.,,VSTESTCD,2025-06-29,150
+STUDY001,CO,STUDY001-SUBJ0047,3,LB,LB4,Repeat test scheduled due to abnormal values.,,LBTESTCD,2025-03-19,48
+STUDY001,CO,STUDY001-SUBJ0048,1,EX,EX3,Subject administered medication incorrectly.,,EXTESTCD,2025-12-04,323
+STUDY001,CO,STUDY001-SUBJ0048,2,DM,DM4,Date of birth confirmed via identity document.,,DMTESTCD,2025-06-12,148
+STUDY001,CO,STUDY001-SUBJ0049,1,EX,EX2,Subject reports missing one dose the previous day.,,EXTESTCD,2025-08-10,120
+STUDY001,CO,STUDY001-SUBJ0050,1,VS,VS2,Blood pressure measured after subject was seated for 5 minutes.,,VSTESTCD,2025-11-15,92
+STUDY001,CO,STUDY001-SUBJ0050,2,VS,VS4,Blood pressure measured after subject was seated for 5 minutes.,,VSTESTCD,2025-10-24,70
+STUDY001,CO,STUDY001-SUBJ0050,3,DM,DM3,Patient reports different race than in screening visit.,,DMTESTCD,2025-11-17,94
+STUDY001,CO,STUDY001-SUBJ0051,1,DM,DM4,Date of birth confirmed via identity document.,,DMTESTCD,2025-06-10,72
+STUDY001,CO,STUDY001-SUBJ0051,2,VS,VS2,Temperature reading may be inaccurate due to equipment malfunction.,,VSTESTCD,2025-10-21,205
+STUDY001,CO,STUDY001-SUBJ0051,3,DM,DM1,Date of birth confirmed via identity document.,,DMTESTCD,2025-11-18,233
+STUDY001,CO,STUDY001-SUBJ0053,1,LB,LB5,Repeat test scheduled due to abnormal values.,,LBTESTCD,2025-07-03,42
+STUDY001,CO,STUDY001-SUBJ0053,2,LB,LB5,Sample collected after subject had eaten despite fasting instructions.,,LBTESTCD,2025-09-09,110
+STUDY001,CO,STUDY001-SUBJ0056,1,VS,VS4,Heart rate elevated due to subject anxiety.,,VSTESTCD,2025-11-10,25
+STUDY001,CO,STUDY001-SUBJ0056,2,AE,AE4,Subject reported AE after leaving the clinic.,,AETESTCD,2025-10-30,14
+STUDY001,CO,STUDY001-SUBJ0056,3,AE,AE2,Adverse event severity was initially recorded incorrectly.,,AETESTCD,2025-10-26,10
+STUDY001,CO,STUDY001-SUBJ0057,1,VS,VS2,Blood pressure measured after subject was seated for 5 minutes.,,VSTESTCD,2025-10-16,18
+STUDY001,CO,STUDY001-SUBJ0057,2,DM,DM1,Date of birth confirmed via identity document.,,DMTESTCD,2025-11-01,34
+STUDY001,CO,STUDY001-SUBJ0057,3,DM,DM5,Subject demographics verified with clinic records.,,DMTESTCD,2025-11-21,54
+STUDY001,CO,STUDY001-SUBJ0058,1,VS,VS4,Temperature reading may be inaccurate due to equipment malfunction.,,VSTESTCD,2025-09-10,197
+STUDY001,CO,STUDY001-SUBJ0058,2,AE,AE1,AE resolved without sequelae after 3 days.,,AETESTCD,2025-11-11,259
+STUDY001,CO,STUDY001-SUBJ0058,3,DM,DM5,Patient reports different race than in screening visit.,,DMTESTCD,2025-05-22,86
+STUDY001,CO,STUDY001-SUBJ0059,1,EX,EX5,Subject reports missing one dose the previous day.,,EXTESTCD,2025-11-01,80
+STUDY001,CO,STUDY001-SUBJ0060,1,AE,AE1,Subject reported AE after leaving the clinic.,,AETESTCD,2025-11-30,3
+STUDY001,CO,STUDY001-SUBJ0060,2,VS,VS4,Heart rate elevated due to subject anxiety.,,VSTESTCD,2025-12-03,6
+STUDY001,CO,STUDY001-SUBJ0061,1,LB,LB3,Sample hemolyzed; results may be affected.,,LBTESTCD,2025-10-18,279
+STUDY001,CO,STUDY001-SUBJ0061,2,AE,AE1,AE resolved without sequelae after 3 days.,,AETESTCD,2025-05-31,139
+STUDY001,CO,STUDY001-SUBJ0061,3,AE,AE1,AE resolved without sequelae after 3 days.,,AETESTCD,2025-04-07,85
+STUDY001,CO,STUDY001-SUBJ0062,1,DM,DM2,Date of birth confirmed via identity document.,,DMTESTCD,2025-06-28,80
+STUDY001,CO,STUDY001-SUBJ0062,2,DM,DM1,Date of birth confirmed via identity document.,,DMTESTCD,2025-11-10,215
+STUDY001,CO,STUDY001-SUBJ0063,1,DM,DM2,Date of birth confirmed via identity document.,,DMTESTCD,2025-04-16,39
+STUDY001,CO,STUDY001-SUBJ0063,2,LB,LB3,Repeat test scheduled due to abnormal values.,,LBTESTCD,2025-04-04,27
+STUDY001,CO,STUDY001-SUBJ0063,3,AE,AE4,Adverse event severity was initially recorded incorrectly.,,AETESTCD,2025-11-26,263
+STUDY001,CO,STUDY001-SUBJ0064,1,AE,AE1,Subject reported AE after leaving the clinic.,,AETESTCD,2025-12-18,342
+STUDY001,CO,STUDY001-SUBJ0065,1,EX,EX3,Subject reports missing one dose the previous day.,,EXTESTCD,2025-12-28,188
+STUDY001,CO,STUDY001-SUBJ0065,2,DM,DM1,Subject demographics verified with clinic records.,,DMTESTCD,2025-12-07,167
+STUDY001,CO,STUDY001-SUBJ0065,3,EX,EX1,Subject reports missing one dose the previous day.,,EXTESTCD,2025-10-25,124
+STUDY001,CO,STUDY001-SUBJ0066,1,EX,EX1,Subject reports missing one dose the previous day.,,EXTESTCD,2025-11-20,113
+STUDY001,CO,STUDY001-SUBJ0066,2,AE,AE4,Subject reported AE after leaving the clinic.,,AETESTCD,2025-10-13,75
+STUDY001,CO,STUDY001-SUBJ0067,1,AE,AE5,Subject reported AE after leaving the clinic.,,AETESTCD,2025-12-15,162
+STUDY001,CO,STUDY001-SUBJ0069,1,LB,LB2,Sample hemolyzed; results may be affected.,,LBTESTCD,2025-04-22,17
+STUDY001,CO,STUDY001-SUBJ0069,2,AE,AE5,Subject reported AE after leaving the clinic.,,AETESTCD,2025-09-15,163
+STUDY001,CO,STUDY001-SUBJ0070,1,EX,EX5,Pill count indicates 90% compliance.,,EXTESTCD,2025-11-13,267
+STUDY001,CO,STUDY001-SUBJ0071,1,EX,EX3,Subject administered medication incorrectly.,,EXTESTCD,2025-11-07,186
+STUDY001,CO,STUDY001-SUBJ0071,2,AE,AE5,AE resolved without sequelae after 3 days.,,AETESTCD,2025-12-06,215
+STUDY001,CO,STUDY001-SUBJ0074,1,AE,AE1,Subject reported AE after leaving the clinic.,,AETESTCD,2025-10-21,271
+STUDY001,CO,STUDY001-SUBJ0074,2,EX,EX3,Pill count indicates 90% compliance.,,EXTESTCD,2025-11-03,284
+STUDY001,CO,STUDY001-SUBJ0075,1,AE,AE5,AE resolved without sequelae after 3 days.,,AETESTCD,2025-10-31,165
+STUDY001,CO,STUDY001-SUBJ0075,2,VS,VS2,Heart rate elevated due to subject anxiety.,,VSTESTCD,2025-07-20,62
+STUDY001,CO,STUDY001-SUBJ0075,3,LB,LB3,Sample hemolyzed; results may be affected.,,LBTESTCD,2025-11-04,169
+STUDY001,CO,STUDY001-SUBJ0076,1,DM,DM3,Subject demographics verified with clinic records.,,DMTESTCD,2025-10-09,99
+STUDY001,CO,STUDY001-SUBJ0076,2,AE,AE3,Adverse event severity was initially recorded incorrectly.,,AETESTCD,2025-07-20,18
+STUDY001,CO,STUDY001-SUBJ0076,3,DM,DM2,Patient reports different race than in screening visit.,,DMTESTCD,2025-11-13,134
+STUDY001,CO,STUDY001-SUBJ0077,1,LB,LB4,Sample collected after subject had eaten despite fasting instructions.,,LBTESTCD,2025-05-31,60
+STUDY001,CO,STUDY001-SUBJ0077,2,LB,LB3,Sample hemolyzed; results may be affected.,,LBTESTCD,2025-04-27,26
+STUDY001,CO,STUDY001-SUBJ0078,1,VS,VS3,Temperature reading may be inaccurate due to equipment malfunction.,,VSTESTCD,2025-11-15,132
+STUDY001,CO,STUDY001-SUBJ0078,2,VS,VS3,Temperature reading may be inaccurate due to equipment malfunction.,,VSTESTCD,2025-07-17,11
+STUDY001,CO,STUDY001-SUBJ0079,1,EX,EX4,Pill count indicates 90% compliance.,,EXTESTCD,2025-11-02,182
+STUDY001,CO,STUDY001-SUBJ0080,1,EX,EX1,Pill count indicates 90% compliance.,,EXTESTCD,2025-12-01,314
+STUDY001,CO,STUDY001-SUBJ0080,2,EX,EX1,Subject reports missing one dose the previous day.,,EXTESTCD,2025-08-08,199
+STUDY001,CO,STUDY001-SUBJ0081,1,LB,LB1,Sample collected after subject had eaten despite fasting instructions.,,LBTESTCD,2025-12-13,341
+STUDY001,CO,STUDY001-SUBJ0085,1,AE,AE4,AE resolved without sequelae after 3 days.,,AETESTCD,2025-08-15,128
+STUDY001,CO,STUDY001-SUBJ0085,2,DM,DM4,Subject demographics verified with clinic records.,,DMTESTCD,2025-06-30,82
+STUDY001,CO,STUDY001-SUBJ0086,1,DM,DM1,Patient reports different race than in screening visit.,,DMTESTCD,2025-10-16,275
+STUDY001,CO,STUDY001-SUBJ0086,2,AE,AE1,Subject reported AE after leaving the clinic.,,AETESTCD,2025-02-06,23
+STUDY001,CO,STUDY001-SUBJ0087,1,AE,AE4,Adverse event severity was initially recorded incorrectly.,,AETESTCD,2025-05-24,47
+STUDY001,CO,STUDY001-SUBJ0088,1,LB,LB4,Sample collected after subject had eaten despite fasting instructions.,,LBTESTCD,2025-10-13,150
+STUDY001,CO,STUDY001-SUBJ0089,1,AE,AE1,AE resolved without sequelae after 3 days.,,AETESTCD,2025-12-15,147
+STUDY001,CO,STUDY001-SUBJ0090,1,LB,LB5,Sample hemolyzed; results may be affected.,,LBTESTCD,2025-11-26,2
+STUDY001,CO,STUDY001-SUBJ0090,2,DM,DM3,Patient reports different race than in screening visit.,,DMTESTCD,2025-12-02,8
+STUDY001,CO,STUDY001-SUBJ0091,1,AE,AE2,Subject reported AE after leaving the clinic.,,AETESTCD,2025-05-04,100
+STUDY001,CO,STUDY001-SUBJ0091,2,VS,VS4,Heart rate elevated due to subject anxiety.,,VSTESTCD,2025-03-08,43
+STUDY001,CO,STUDY001-SUBJ0091,3,EX,EX5,Pill count indicates 90% compliance.,,EXTESTCD,2025-09-22,241
+STUDY001,CO,STUDY001-SUBJ0092,1,DM,DM2,Patient reports different race than in screening visit.,,DMTESTCD,2025-08-09,110
+STUDY001,CO,STUDY001-SUBJ0093,1,AE,AE4,Subject reported AE after leaving the clinic.,,AETESTCD,2025-12-02,85
+STUDY001,CO,STUDY001-SUBJ0094,1,EX,EX1,Subject reports missing one dose the previous day.,,EXTESTCD,2025-12-29,29
+STUDY001,CO,STUDY001-SUBJ0094,2,LB,LB1,Repeat test scheduled due to abnormal values.,,LBTESTCD,2025-12-01,1
+STUDY001,CO,STUDY001-SUBJ0095,1,LB,LB4,Repeat test scheduled due to abnormal values.,,LBTESTCD,2025-08-15,187
+STUDY001,CO,STUDY001-SUBJ0096,1,LB,LB5,Repeat test scheduled due to abnormal values.,,LBTESTCD,2025-09-07,178
+STUDY001,CO,STUDY001-SUBJ0097,1,DM,DM3,Patient reports different race than in screening visit.,,DMTESTCD,2025-11-07,261
+STUDY001,CO,STUDY001-SUBJ0097,2,EX,EX4,Subject reports missing one dose the previous day.,,EXTESTCD,2025-07-31,162
+STUDY001,CO,STUDY001-SUBJ0099,1,VS,VS3,Blood pressure measured after subject was seated for 5 minutes.,,VSTESTCD,2025-07-13,145
+STUDY001,CO,STUDY001-SUBJ0099,2,VS,VS3,Blood pressure measured after subject was seated for 5 minutes.,,VSTESTCD,2025-02-28,10

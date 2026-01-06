@@ -1,0 +1,93 @@
+study_id,subject_id,medication_number,medication_name,generic_name,start_date,end_date,ongoing,dose,dose_unit,frequency,route,indication,prior_to_study,modified_during_study,clinically_relevant,reporter
+STUDY001,SUB0001,CM001,Lisinopril,No,2024-02-02,,Yes,82,mg,As needed,Subcutaneous,Hypertension,Yes,Yes,Yes,Subject
+STUDY001,SUB0002,CM001,Aspirin,No,2024-02-02,,Yes,38,mcg,Three times daily,Topical,Hypertension,Yes,No,No,Subject
+STUDY001,SUB0002,CM002,Atorvastatin,Yes,2024-01-20,,Yes,62,IU,Once daily,Oral,Hypertension,Yes,Yes,No,Subject
+STUDY001,SUB0003,CM001,Atorvastatin,No,2024-01-18,,Yes,84,mcg,Once daily,Topical,Other,Yes,No,Yes,Subject
+STUDY001,SUB0003,CM002,Metformin,Yes,2024-01-16,2024-05-19,No,72,mg,As needed,Intravenous,Pain,Yes,No,No,Subject
+STUDY001,SUB0003,CM003,Lisinopril,No,2024-02-16,,Yes,35,mL,As needed,Topical,Hypertension,No,No,Yes,Subject
+STUDY001,SUB0005,CM001,Lisinopril,Yes,2024-02-18,2024-04-27,No,31,mL,Three times daily,Topical,Infection,No,Yes,Yes,Subject
+STUDY001,SUB0005,CM002,Atorvastatin,No,2024-01-18,,Yes,38,mg,Twice daily,Oral,Hypertension,Yes,Yes,Yes,Subject
+STUDY001,SUB0006,CM001,Lisinopril,No,2024-01-20,2024-02-21,No,59,mcg,Once daily,Subcutaneous,Hypertension,Yes,No,No,Subject
+STUDY001,SUB0006,CM002,Metformin,No,2024-01-18,2024-04-10,No,31,mcg,Twice daily,Oral,Infection,Yes,Yes,Yes,Subject
+STUDY001,SUB0006,CM003,Atorvastatin,No,2024-02-20,2024-04-14,No,94,mcg,Twice daily,Oral,Infection,No,Yes,Yes,Subject
+STUDY001,SUB0006,CM004,Metformin,No,2024-02-07,,Yes,12,mL,Three times daily,Topical,Infection,Yes,Yes,No,Subject
+STUDY001,SUB0008,CM001,Metformin,No,2024-02-07,,Yes,22,mg,Twice daily,Topical,Diabetes,Yes,No,No,Subject
+STUDY001,SUB0008,CM002,Lisinopril,No,2024-01-20,2024-04-09,No,39,mcg,Three times daily,Subcutaneous,Other,Yes,No,Yes,Subject
+STUDY001,SUB0009,CM001,Atorvastatin,Yes,2024-01-18,2024-04-11,No,85,mcg,As needed,Topical,Pain,Yes,Yes,No,Subject
+STUDY001,SUB0009,CM002,Lisinopril,No,2024-02-01,,Yes,50,IU,As needed,Intravenous,Hypertension,Yes,Yes,No,Subject
+STUDY001,SUB0009,CM003,Metformin,No,2024-01-31,,Yes,21,mcg,Twice daily,Oral,Hypertension,Yes,Yes,Yes,Subject
+STUDY001,SUB0011,CM001,Metformin,Yes,2024-02-10,2024-05-17,No,63,mL,Once daily,Intravenous,Diabetes,Yes,No,Yes,Subject
+STUDY001,SUB0013,CM001,Metformin,No,2024-02-12,,Yes,41,mL,Twice daily,Intravenous,Other,Yes,No,Yes,Subject
+STUDY001,SUB0013,CM002,Metformin,Yes,2024-01-28,2024-02-07,No,100,mg,As needed,Oral,Pain,Yes,No,No,Subject
+STUDY001,SUB0013,CM003,Aspirin,No,2024-02-17,,Yes,10,IU,Twice daily,Subcutaneous,Infection,No,Yes,No,Subject
+STUDY001,SUB0013,CM004,Atorvastatin,No,2024-02-08,,Yes,40,IU,Three times daily,Subcutaneous,Other,Yes,Yes,Yes,Subject
+STUDY001,SUB0014,CM001,Metformin,No,2024-01-19,,Yes,58,IU,Three times daily,Intravenous,Hypertension,Yes,No,No,Subject
+STUDY001,SUB0015,CM001,Aspirin,No,2024-01-21,,Yes,63,mL,As needed,Intravenous,Pain,Yes,No,Yes,Subject
+STUDY001,SUB0016,CM001,Aspirin,No,2024-01-17,,Yes,80,IU,Three times daily,Subcutaneous,Hypertension,Yes,No,No,Subject
+STUDY001,SUB0016,CM002,Metformin,No,2024-02-09,,Yes,22,mcg,Twice daily,Topical,Other,Yes,Yes,No,Subject
+STUDY001,SUB0016,CM003,Aspirin,No,2024-01-30,,Yes,75,mcg,Twice daily,Subcutaneous,Diabetes,Yes,No,Yes,Subject
+STUDY001,SUB0017,CM001,Aspirin,Yes,2024-01-26,,Yes,99,mg,Twice daily,Oral,Diabetes,Yes,Yes,Yes,Subject
+STUDY001,SUB0018,CM001,Metformin,No,2024-02-03,,Yes,55,mg,Twice daily,Oral,Pain,Yes,No,Yes,Subject
+STUDY001,SUB0020,CM001,Metformin,No,2024-01-27,,Yes,32,IU,Twice daily,Topical,Other,Yes,No,Yes,Subject
+STUDY001,SUB0021,CM001,Atorvastatin,No,2024-02-06,,Yes,18,IU,Once daily,Intravenous,Infection,Yes,Yes,Yes,Subject
+STUDY001,SUB0021,CM002,Aspirin,No,2024-01-26,2024-03-03,No,86,mg,Once daily,Topical,Diabetes,Yes,Yes,Yes,Subject
+STUDY001,SUB0021,CM003,Atorvastatin,Yes,2024-02-06,2024-06-12,No,24,mcg,Three times daily,Intravenous,Other,Yes,No,Yes,Subject
+STUDY001,SUB0021,CM004,Lisinopril,Yes,2024-02-17,,Yes,46,mcg,Once daily,Topical,Infection,No,No,No,Subject
+STUDY001,SUB0022,CM001,Atorvastatin,No,2024-01-17,,Yes,30,mg,As needed,Topical,Infection,Yes,No,No,Subject
+STUDY001,SUB0022,CM002,Lisinopril,No,2024-02-12,,Yes,24,mL,Once daily,Intravenous,Pain,Yes,Yes,Yes,Subject
+STUDY001,SUB0024,CM001,Aspirin,Yes,2024-02-05,2024-05-25,No,45,mcg,As needed,Oral,Hypertension,Yes,Yes,Yes,Subject
+STUDY001,SUB0024,CM002,Aspirin,Yes,2024-01-22,2024-03-18,No,81,mcg,Three times daily,Topical,Diabetes,Yes,Yes,Yes,Subject
+STUDY001,SUB0024,CM003,Aspirin,Yes,2024-02-04,,Yes,19,mcg,Three times daily,Intravenous,Pain,Yes,No,Yes,Subject
+STUDY001,SUB0024,CM004,Lisinopril,Yes,2024-02-14,2024-05-24,No,59,mcg,As needed,Oral,Hypertension,Yes,No,No,Subject
+STUDY001,SUB0026,CM001,Lisinopril,No,2024-01-29,,Yes,40,mcg,Three times daily,Topical,Hypertension,Yes,Yes,No,Subject
+STUDY001,SUB0027,CM001,Aspirin,Yes,2024-02-17,2024-05-14,No,89,mcg,As needed,Intravenous,Infection,No,Yes,No,Subject
+STUDY001,SUB0027,CM002,Lisinopril,Yes,2024-02-09,2024-05-13,No,79,mL,Twice daily,Oral,Hypertension,Yes,No,Yes,Subject
+STUDY001,SUB0027,CM003,Lisinopril,Yes,2024-01-29,,Yes,16,mg,Once daily,Intravenous,Pain,Yes,Yes,Yes,Subject
+STUDY001,SUB0027,CM004,Aspirin,No,2024-01-25,,Yes,16,mg,Once daily,Intravenous,Other,Yes,No,No,Subject
+STUDY001,SUB0028,CM001,Metformin,Yes,2024-02-06,,Yes,47,mg,As needed,Subcutaneous,Hypertension,Yes,No,Yes,Subject
+STUDY001,SUB0028,CM002,Aspirin,Yes,2024-01-18,,Yes,20,mL,Twice daily,Oral,Other,Yes,No,No,Subject
+STUDY001,SUB0029,CM001,Atorvastatin,Yes,2024-01-16,,Yes,59,mg,As needed,Subcutaneous,Pain,Yes,No,Yes,Subject
+STUDY001,SUB0029,CM002,Lisinopril,No,2024-01-30,2024-03-10,No,43,IU,Once daily,Subcutaneous,Infection,Yes,Yes,No,Subject
+STUDY001,SUB0029,CM003,Aspirin,Yes,2024-01-26,2024-02-21,No,97,mL,Twice daily,Topical,Infection,Yes,Yes,No,Subject
+STUDY001,SUB0031,CM001,Aspirin,Yes,2024-02-10,,Yes,66,mg,Three times daily,Intravenous,Other,Yes,Yes,Yes,Subject
+STUDY001,SUB0032,CM001,Aspirin,No,2024-02-08,,Yes,62,mg,Three times daily,Intravenous,Infection,Yes,Yes,Yes,Subject
+STUDY001,SUB0033,CM001,Aspirin,No,2024-02-07,2024-04-26,No,8,mL,Once daily,Topical,Pain,Yes,Yes,No,Subject
+STUDY001,SUB0033,CM002,Aspirin,No,2024-02-20,,Yes,74,mcg,As needed,Topical,Other,No,No,No,Subject
+STUDY001,SUB0033,CM003,Lisinopril,No,2024-01-26,,Yes,16,mg,Once daily,Topical,Pain,Yes,No,Yes,Subject
+STUDY001,SUB0034,CM001,Metformin,No,2024-02-17,2024-04-26,No,31,mL,Three times daily,Intravenous,Infection,No,Yes,No,Subject
+STUDY001,SUB0035,CM001,Metformin,Yes,2024-02-05,,Yes,20,mg,Once daily,Oral,Hypertension,Yes,Yes,Yes,Subject
+STUDY001,SUB0035,CM002,Lisinopril,No,2024-01-17,,Yes,22,IU,Three times daily,Topical,Infection,Yes,Yes,No,Subject
+STUDY001,SUB0035,CM003,Metformin,No,2024-01-17,2024-04-19,No,52,mcg,Three times daily,Intravenous,Diabetes,Yes,No,Yes,Subject
+STUDY001,SUB0035,CM004,Atorvastatin,No,2024-01-31,,Yes,61,mcg,As needed,Subcutaneous,Infection,Yes,Yes,No,Subject
+STUDY001,SUB0036,CM001,Lisinopril,No,2024-01-19,,Yes,16,mL,Twice daily,Topical,Pain,Yes,Yes,Yes,Subject
+STUDY001,SUB0036,CM002,Lisinopril,Yes,2024-02-10,2024-03-01,No,68,mcg,Three times daily,Oral,Pain,Yes,Yes,Yes,Subject
+STUDY001,SUB0036,CM003,Lisinopril,Yes,2024-01-24,2024-04-14,No,71,mL,Once daily,Topical,Infection,Yes,No,Yes,Subject
+STUDY001,SUB0036,CM004,Aspirin,Yes,2024-01-17,,Yes,68,mcg,Twice daily,Intravenous,Pain,Yes,No,Yes,Subject
+STUDY001,SUB0037,CM001,Aspirin,Yes,2024-02-08,,Yes,46,IU,Three times daily,Oral,Diabetes,Yes,Yes,No,Subject
+STUDY001,SUB0038,CM001,Aspirin,No,2024-02-10,,Yes,79,mg,Three times daily,Topical,Infection,Yes,No,No,Subject
+STUDY001,SUB0039,CM001,Atorvastatin,No,2024-01-20,,Yes,81,mcg,Once daily,Topical,Diabetes,Yes,No,Yes,Subject
+STUDY001,SUB0039,CM002,Metformin,No,2024-02-06,,Yes,31,mcg,Twice daily,Subcutaneous,Diabetes,Yes,Yes,No,Subject
+STUDY001,SUB0039,CM003,Atorvastatin,No,2024-01-30,2024-02-23,No,56,mcg,Once daily,Topical,Other,Yes,Yes,Yes,Subject
+STUDY001,SUB0039,CM004,Lisinopril,Yes,2024-02-03,,Yes,5,IU,As needed,Topical,Diabetes,Yes,No,Yes,Subject
+STUDY001,SUB0040,CM001,Atorvastatin,No,2024-02-02,,Yes,100,mcg,Three times daily,Topical,Other,Yes,No,No,Subject
+STUDY001,SUB0040,CM002,Aspirin,No,2024-01-18,,Yes,67,mg,Twice daily,Topical,Other,Yes,Yes,Yes,Subject
+STUDY001,SUB0040,CM003,Aspirin,Yes,2024-02-16,,Yes,27,mcg,Three times daily,Subcutaneous,Hypertension,No,Yes,No,Subject
+STUDY001,SUB0041,CM001,Aspirin,No,2024-02-05,,Yes,84,mcg,Three times daily,Topical,Infection,Yes,No,Yes,Subject
+STUDY001,SUB0043,CM001,Metformin,No,2024-02-14,,Yes,35,mg,Once daily,Intravenous,Hypertension,Yes,Yes,No,Subject
+STUDY001,SUB0043,CM002,Aspirin,No,2024-01-25,,Yes,99,mcg,Three times daily,Subcutaneous,Hypertension,Yes,Yes,No,Subject
+STUDY001,SUB0043,CM003,Lisinopril,No,2024-01-21,,Yes,94,mL,As needed,Topical,Infection,Yes,Yes,No,Subject
+STUDY001,SUB0043,CM004,Aspirin,No,2024-01-17,,Yes,92,IU,Twice daily,Topical,Hypertension,Yes,Yes,Yes,Subject
+STUDY001,SUB0044,CM001,Metformin,No,2024-02-13,2024-06-02,No,38,IU,Three times daily,Subcutaneous,Pain,Yes,Yes,No,Subject
+STUDY001,SUB0044,CM002,Lisinopril,No,2024-01-21,,Yes,72,mL,As needed,Intravenous,Diabetes,Yes,No,No,Subject
+STUDY001,SUB0045,CM001,Metformin,Yes,2024-02-15,2024-05-18,No,8,mL,Once daily,Oral,Hypertension,No,Yes,No,Subject
+STUDY001,SUB0046,CM001,Aspirin,No,2024-01-29,2024-04-13,No,39,mcg,Three times daily,Intravenous,Infection,Yes,No,No,Subject
+STUDY001,SUB0046,CM002,Aspirin,No,2024-02-20,2024-03-01,No,85,mL,As needed,Intravenous,Diabetes,No,No,No,Subject
+STUDY001,SUB0047,CM001,Metformin,No,2024-01-29,,Yes,5,mg,Three times daily,Intravenous,Pain,Yes,Yes,Yes,Subject
+STUDY001,SUB0047,CM002,Metformin,No,2024-01-17,,Yes,80,mg,As needed,Subcutaneous,Hypertension,Yes,No,No,Subject
+STUDY001,SUB0047,CM003,Lisinopril,Yes,2024-02-02,2024-03-01,No,47,mL,As needed,Intravenous,Infection,Yes,No,Yes,Subject
+STUDY001,SUB0048,CM001,Aspirin,Yes,2024-02-01,,Yes,54,mcg,Three times daily,Oral,Other,Yes,Yes,No,Subject
+STUDY001,SUB0048,CM002,Atorvastatin,No,2024-01-18,2024-05-20,No,57,mcg,Twice daily,Subcutaneous,Diabetes,Yes,No,Yes,Subject
+STUDY001,SUB0049,CM001,Aspirin,No,2024-02-11,2024-04-29,No,7,mL,As needed,Oral,Hypertension,Yes,No,Yes,Subject
+STUDY001,SUB0049,CM002,Atorvastatin,Yes,2024-01-21,2024-04-09,No,56,IU,Once daily,Topical,Diabetes,Yes,No,Yes,Subject
+STUDY001,SUB0049,CM003,Atorvastatin,No,2024-02-13,2024-06-09,No,55,IU,As needed,Subcutaneous,Pain,Yes,No,No,Subject
+STUDY001,SUB0049,CM004,Atorvastatin,No,2024-01-16,,Yes,9,mL,Twice daily,Oral,Hypertension,Yes,Yes,No,Subject

@@ -1,0 +1,51 @@
+study_id,subject_id,site_number,birth_date,age_years,gender,race_category,ethnicity,country_code,enrollment_date,informed_consent_date,height_cm,weight_kg,bmi,medical_history,smoking_status,alcohol_use
+STUDY001,SUB0001,001,1959-05-13,65,Male,Asian,Hispanic or Latino,USA,2024-05-12,2024-05-04,169,66,23.1,Diabetes,Never,Occasional
+STUDY001,SUB0002,001,1964-02-01,60,Male,White,Not Hispanic or Latino,USA,2024-02-01,2024-01-18,160,63,24.6,None,Former,None
+STUDY001,SUB0003,001,1947-07-08,77,Male,Other,Not Hispanic or Latino,USA,2024-07-07,2024-07-04,180,66,20.4,Diabetes,Unknown,Heavy
+STUDY001,SUB0004,002,1973-05-04,51,Female,Black or African American,Not Hispanic or Latino,AUS,2024-05-03,2024-04-21,180,88,27.2,Depression,Former,Regular
+STUDY001,SUB0005,001,1963-03-27,61,Female,White,Not Hispanic or Latino,USA,2024-03-26,2024-03-13,167,65,23.3,Arthritis,Never,None
+STUDY001,SUB0006,001,1967-03-27,57,Female,Other,Not Hispanic or Latino,USA,2024-03-26,2024-03-15,177,65,20.7,Hypertension,Current,Occasional
+STUDY001,SUB0007,002,1967-04-30,57,Male,Black or African American,Not Hispanic or Latino,USA,2024-04-29,2024-04-25,166,93,33.7,Hypertension,Current,Heavy
+STUDY001,SUB0008,001,1954-07-10,70,Female,White,Hispanic or Latino,USA,2024-07-09,2024-07-02,175,76,24.8,Depression,Unknown,None
+STUDY001,SUB0009,001,1944-07-01,80,Female,White,Hispanic or Latino,USA,2024-07-01,2024-06-21,178,75,23.7,Diabetes,Former,Moderate
+STUDY001,SUB0010,002,1968-05-17,56,Male,Other,Hispanic or Latino,USA,2024-05-17,2024-05-09,190,84,23.3,Diabetes,Former,Moderate
+STUDY001,SUB0011,001,1949-02-12,75,Male,White,Hispanic or Latino,CAN,2024-02-12,2024-02-11,152,112,48.5,Hyperlipidemia,Current,Heavy
+STUDY001,SUB0012,001,1996-06-23,28,Male,Other,Hispanic or Latino,USA,2024-06-23,2024-06-12,163,66,24.8,None,Unknown,Regular
+STUDY001,SUB0013,002,1951-04-16,73,Female,White,Not Hispanic or Latino,USA,2024-04-15,2024-04-11,153,59,25.2,Diabetes,Former,Moderate
+STUDY001,SUB0014,001,1966-02-13,58,Female,Hispanic,Not Hispanic or Latino,USA,2024-02-13,2024-02-04,155,74,30.8,Hypertension,Never,Occasional
+STUDY001,SUB0015,001,1988-06-29,36,Female,Black or African American,Not Hispanic or Latino,USA,2024-06-29,2024-06-27,169,93,32.6,Arthritis,Never,None
+STUDY001,SUB0016,002,1972-02-02,52,Male,Other,Hispanic or Latino,USA,2024-02-02,2024-01-25,180,88,27.2,Arthritis,Never,Heavy
+STUDY001,SUB0017,002,1997-06-13,27,Female,White,Not Hispanic or Latino,GBR,2024-06-12,2024-06-09,165,80,29.4,Arthritis,Former,Regular
+STUDY001,SUB0018,001,1970-03-04,54,Female,Asian,Hispanic or Latino,GBR,2024-03-03,2024-02-19,165,80,29.4,None,Current,Regular
+STUDY001,SUB0019,002,1949-04-09,75,Male,White,Hispanic or Latino,USA,2024-04-08,2024-04-05,152,66,28.6,Hyperlipidemia,Unknown,Heavy
+STUDY001,SUB0020,002,1978-06-15,46,Male,White,Hispanic or Latino,USA,2024-06-14,2024-06-03,173,76,25.4,Diabetes,Former,Regular
+STUDY001,SUB0021,001,1968-02-21,56,Female,Hispanic,Not Hispanic or Latino,USA,2024-02-21,2024-02-17,180,61,18.8,Depression,Current,Occasional
+STUDY001,SUB0022,001,1982-06-02,42,Female,Other,Not Hispanic or Latino,USA,2024-06-01,2024-05-24,170,52,18.0,Arthritis,Current,None
+STUDY001,SUB0023,001,1955-04-18,69,Female,Other,Hispanic or Latino,USA,2024-04-17,2024-04-16,161,97,37.4,Diabetes,Current,Heavy
+STUDY001,SUB0024,001,1959-03-06,65,Male,Asian,Hispanic or Latino,USA,2024-03-05,2024-02-21,168,78,27.6,Hyperlipidemia,Never,Heavy
+STUDY001,SUB0025,001,1986-04-09,38,Male,Other,Not Hispanic or Latino,CAN,2024-04-08,2024-04-03,172,103,34.8,Arthritis,Unknown,Heavy
+STUDY001,SUB0026,001,1976-02-04,48,Female,Hispanic,Not Hispanic or Latino,USA,2024-02-04,2024-01-25,163,68,25.6,Hyperlipidemia,Former,Occasional
+STUDY001,SUB0027,002,1958-06-02,66,Female,Other,Not Hispanic or Latino,USA,2024-06-01,2024-05-29,160,58,22.7,Arthritis,Never,Heavy
+STUDY001,SUB0028,001,2006-04-03,18,Female,Black or African American,Not Hispanic or Latino,GBR,2024-04-02,2024-03-25,171,87,29.8,None,Never,Heavy
+STUDY001,SUB0029,001,1955-05-22,69,Male,Asian,Not Hispanic or Latino,USA,2024-05-21,2024-05-09,172,102,34.5,Hypertension,Unknown,Moderate
+STUDY001,SUB0030,002,1991-04-12,33,Male,Black or African American,Not Hispanic or Latino,USA,2024-04-11,2024-04-05,151,61,26.8,Hyperlipidemia,Former,Occasional
+STUDY001,SUB0031,002,1948-03-22,76,Female,White,Hispanic or Latino,USA,2024-03-22,2024-03-10,158,52,20.8,Diabetes,Never,Heavy
+STUDY001,SUB0032,001,1994-02-12,30,Male,Asian,Not Hispanic or Latino,USA,2024-02-12,2024-02-05,160,79,30.9,None,Unknown,Occasional
+STUDY001,SUB0033,001,2006-04-25,18,Female,White,Not Hispanic or Latino,USA,2024-04-24,2024-04-16,176,79,25.5,Hypertension,Never,Heavy
+STUDY001,SUB0034,001,1972-05-04,52,Female,Black or African American,Hispanic or Latino,CAN,2024-05-04,2024-04-21,171,93,31.8,Arthritis,Never,None
+STUDY001,SUB0035,001,1944-06-16,80,Male,White,Hispanic or Latino,CAN,2024-06-16,2024-06-14,170,68,23.5,Hypertension,Never,Occasional
+STUDY001,SUB0036,001,1983-03-01,41,Male,Asian,Not Hispanic or Latino,USA,2024-02-29,2024-02-23,156,78,32.1,Depression,Current,None
+STUDY001,SUB0037,001,1962-05-26,62,Female,Black or African American,Hispanic or Latino,GBR,2024-05-25,2024-05-13,163,68,25.6,Hypertension,Unknown,Moderate
+STUDY001,SUB0038,001,1991-01-26,33,Male,Black or African American,Not Hispanic or Latino,USA,2024-01-26,2024-01-21,167,73,26.2,Hyperlipidemia,Never,Occasional
+STUDY001,SUB0039,001,2006-05-26,18,Female,Black or African American,Hispanic or Latino,USA,2024-05-25,2024-05-13,149,52,23.4,Diabetes,Never,Heavy
+STUDY001,SUB0040,002,1997-07-02,27,Female,Other,Not Hispanic or Latino,USA,2024-07-01,2024-06-26,147,77,35.6,Depression,Unknown,None
+STUDY001,SUB0041,002,1962-02-12,62,Female,Hispanic,Not Hispanic or Latino,USA,2024-02-12,2024-02-05,170,97,33.6,Depression,Former,Moderate
+STUDY001,SUB0042,002,1967-05-09,57,Female,Black or African American,Not Hispanic or Latino,USA,2024-05-08,2024-05-05,164,100,37.2,None,Unknown,Heavy
+STUDY001,SUB0043,001,1993-02-01,31,Male,Black or African American,Not Hispanic or Latino,USA,2024-02-01,2024-01-24,179,79,24.7,Arthritis,Unknown,Occasional
+STUDY001,SUB0044,001,1983-02-12,41,Female,Black or African American,Not Hispanic or Latino,USA,2024-02-12,2024-02-01,158,76,30.4,Arthritis,Never,None
+STUDY001,SUB0045,001,1994-05-03,30,Male,Hispanic,Hispanic or Latino,CAN,2024-05-02,2024-04-26,176,114,36.8,Hypertension,Unknown,Heavy
+STUDY001,SUB0046,002,1962-05-30,62,Female,Hispanic,Not Hispanic or Latino,USA,2024-05-29,2024-05-21,168,86,30.5,Hypertension,Former,Regular
+STUDY001,SUB0047,001,1980-04-13,44,Female,Black or African American,Not Hispanic or Latino,USA,2024-04-13,2024-04-08,154,92,38.8,Arthritis,Current,None
+STUDY001,SUB0048,001,1960-01-19,64,Female,Hispanic,Hispanic or Latino,USA,2024-01-19,2024-01-16,159,85,33.6,Hypertension,Never,Heavy
+STUDY001,SUB0049,001,1961-05-20,63,Female,Asian,Not Hispanic or Latino,AUS,2024-05-19,2024-05-10,158,64,25.6,Diabetes,Unknown,Heavy
+STUDY001,SUB0050,001,1988-03-25,36,Male,Asian,Not Hispanic or Latino,USA,2024-03-25,2024-03-15,185,111,32.4,Arthritis,Unknown,Heavy

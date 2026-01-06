@@ -1,0 +1,301 @@
+study_id,subject_id,visit_name,assessment_date,assessment_time,systolic_bp_mmhg,diastolic_bp_mmhg,pulse_rate_bpm,temperature_celsius,respiratory_rate_breaths_per_min,oxygen_saturation_percent,position_during_measurement,measurement_location,clinician_initials,comments
+STUDY001,SUB0001,Screening,2024-02-15,08:09,149,93,77,36.2,20,96,Sitting,Right arm,GH,Normal
+STUDY001,SUB0001,Baseline,2024-02-29,16:15,155,93,91,36.8,19,97,Sitting,Right arm,GH,
+STUDY001,SUB0001,Week 2,2024-03-14,09:26,140,85,95,36.9,20,99,Sitting,Right arm,GH,
+STUDY001,SUB0001,Week 4,2024-03-28,09:01,144,95,84,36.7,19,95,Sitting,Right arm,CD,Within normal limits
+STUDY001,SUB0001,Week 8,2024-04-11,14:56,145,87,94,36.4,12,99,Sitting,Right arm,EF,
+STUDY001,SUB0001,Week 12,2024-04-25,11:23,148,88,91,36.8,18,96,Sitting,Right arm,AB,No abnormalities noted
+STUDY001,SUB0002,Screening,2024-02-15,16:20,136,82,74,36.2,14,99,Sitting,Right arm,EF,Within normal limits
+STUDY001,SUB0002,Baseline,2024-02-29,09:14,132,82,67,36.9,14,95,Sitting,Right arm,CD,
+STUDY001,SUB0002,Week 2,2024-03-14,13:01,125,83,60,36.4,13,99,Sitting,Right arm,EF,Normal
+STUDY001,SUB0002,Week 4,2024-03-28,13:09,134,79,78,36.7,18,98,Sitting,Right arm,EF,No abnormalities noted
+STUDY001,SUB0002,Week 8,2024-04-11,15:02,117,84,67,36.6,17,95,Sitting,Right arm,AB,Normal
+STUDY001,SUB0002,Week 12,2024-04-25,13:18,137,84,63,36.8,17,95,Sitting,Right arm,EF,Within normal limits
+STUDY001,SUB0003,Screening,2024-02-15,16:16,147,89,82,36.3,15,100,Sitting,Right arm,CD,Within normal limits
+STUDY001,SUB0003,Baseline,2024-02-29,12:41,144,87,78,36.2,20,99,Sitting,Right arm,EF,Normal
+STUDY001,SUB0003,Week 2,2024-03-14,08:11,158,84,77,36.3,15,96,Sitting,Right arm,EF,No abnormalities noted
+STUDY001,SUB0003,Week 4,2024-03-28,15:51,149,84,85,36.8,18,99,Sitting,Right arm,CD,Within normal limits
+STUDY001,SUB0003,Week 8,2024-04-11,13:40,146,90,85,36.6,14,98,Sitting,Right arm,AB,Within normal limits
+STUDY001,SUB0003,Week 12,2024-04-25,08:43,161,92,78,36.8,18,100,Sitting,Right arm,CD,
+STUDY001,SUB0004,Screening,2024-02-15,16:32,112,79,81,36.5,15,100,Sitting,Right arm,CD,Normal
+STUDY001,SUB0004,Baseline,2024-02-29,12:28,116,75,76,36.8,12,95,Sitting,Right arm,EF,Normal
+STUDY001,SUB0004,Week 2,2024-03-14,13:38,127,78,86,36.9,15,99,Sitting,Right arm,EF,No abnormalities noted
+STUDY001,SUB0004,Week 4,2024-03-28,12:07,126,74,89,36.4,15,99,Sitting,Right arm,GH,Within normal limits
+STUDY001,SUB0004,Week 8,2024-04-11,12:19,111,72,79,36.7,14,95,Sitting,Right arm,GH,Within normal limits
+STUDY001,SUB0004,Week 12,2024-04-25,16:17,128,76,87,36.1,15,98,Sitting,Right arm,AB,Within normal limits
+STUDY001,SUB0005,Screening,2024-02-15,09:29,107,90,100,36.7,18,95,Sitting,Right arm,CD,Within normal limits
+STUDY001,SUB0005,Baseline,2024-02-29,08:29,121,88,87,36.3,12,95,Sitting,Right arm,AB,Normal
+STUDY001,SUB0005,Week 2,2024-03-14,11:45,123,88,90,37.1,20,100,Sitting,Right arm,GH,
+STUDY001,SUB0005,Week 4,2024-03-28,14:11,108,85,91,36.9,16,95,Sitting,Right arm,EF,No abnormalities noted
+STUDY001,SUB0005,Week 8,2024-04-11,13:30,117,91,86,36.9,15,98,Sitting,Right arm,AB,Within normal limits
+STUDY001,SUB0005,Week 12,2024-04-25,10:47,123,88,92,36.3,19,96,Sitting,Right arm,AB,
+STUDY001,SUB0006,Screening,2024-02-15,16:02,121,70,73,37.1,13,96,Sitting,Right arm,GH,Within normal limits
+STUDY001,SUB0006,Baseline,2024-02-29,13:06,110,70,82,36.4,15,100,Sitting,Right arm,GH,Normal
+STUDY001,SUB0006,Week 2,2024-03-14,12:01,115,66,88,36.4,19,97,Sitting,Right arm,AB,
+STUDY001,SUB0006,Week 4,2024-03-28,13:01,118,75,83,37.2,20,95,Sitting,Right arm,CD,No abnormalities noted
+STUDY001,SUB0006,Week 8,2024-04-11,11:35,120,70,71,36.4,12,98,Sitting,Right arm,CD,Normal
+STUDY001,SUB0006,Week 12,2024-04-25,11:05,124,74,73,36.6,16,100,Sitting,Right arm,AB,
+STUDY001,SUB0007,Screening,2024-02-15,16:07,131,82,65,36.6,16,97,Sitting,Right arm,GH,Normal
+STUDY001,SUB0007,Baseline,2024-02-29,13:50,122,85,62,36.5,20,98,Sitting,Right arm,CD,Within normal limits
+STUDY001,SUB0007,Week 2,2024-03-14,16:16,124,86,60,36.3,18,96,Sitting,Right arm,EF,Within normal limits
+STUDY001,SUB0007,Week 4,2024-03-28,15:17,136,80,77,36.9,18,97,Sitting,Right arm,CD,
+STUDY001,SUB0007,Week 8,2024-04-11,16:24,122,80,77,36.8,18,100,Sitting,Right arm,GH,Within normal limits
+STUDY001,SUB0007,Week 12,2024-04-25,09:06,126,78,60,36.6,16,95,Sitting,Right arm,CD,Normal
+STUDY001,SUB0008,Screening,2024-02-15,11:40,125,99,74,36.9,12,99,Sitting,Right arm,GH,Within normal limits
+STUDY001,SUB0008,Baseline,2024-02-29,15:30,128,89,81,36.5,14,100,Sitting,Right arm,EF,
+STUDY001,SUB0008,Week 2,2024-03-14,14:26,135,97,68,36.5,12,100,Sitting,Right arm,EF,Within normal limits
+STUDY001,SUB0008,Week 4,2024-03-28,08:55,126,89,66,36.3,14,100,Sitting,Right arm,CD,Within normal limits
+STUDY001,SUB0008,Week 8,2024-04-11,11:04,115,94,70,36.7,15,99,Sitting,Right arm,EF,Normal
+STUDY001,SUB0008,Week 12,2024-04-25,12:16,128,91,64,36.2,16,100,Sitting,Right arm,EF,No abnormalities noted
+STUDY001,SUB0009,Screening,2024-02-15,09:16,150,85,78,36.4,20,98,Sitting,Right arm,CD,No abnormalities noted
+STUDY001,SUB0009,Baseline,2024-02-29,11:58,152,87,78,36.5,16,97,Sitting,Right arm,CD,
+STUDY001,SUB0009,Week 2,2024-03-14,14:26,168,82,78,37.2,17,97,Sitting,Right arm,GH,
+STUDY001,SUB0009,Week 4,2024-03-28,08:16,157,82,70,36.6,18,95,Sitting,Right arm,EF,
+STUDY001,SUB0009,Week 8,2024-04-11,15:45,156,82,70,36.6,20,100,Sitting,Right arm,CD,
+STUDY001,SUB0009,Week 12,2024-04-25,08:40,159,84,79,36.6,14,95,Sitting,Right arm,GH,Normal
+STUDY001,SUB0010,Screening,2024-02-15,12:58,142,85,57,36.8,14,98,Sitting,Right arm,CD,Normal
+STUDY001,SUB0010,Baseline,2024-02-29,16:25,129,93,59,36.6,12,95,Sitting,Right arm,GH,
+STUDY001,SUB0010,Week 2,2024-03-14,11:21,136,92,70,36.2,18,98,Sitting,Right arm,EF,Normal
+STUDY001,SUB0010,Week 4,2024-03-28,16:58,138,92,72,36.8,13,95,Sitting,Right arm,EF,Normal
+STUDY001,SUB0010,Week 8,2024-04-11,15:33,124,86,60,37.1,17,99,Sitting,Right arm,GH,No abnormalities noted
+STUDY001,SUB0010,Week 12,2024-04-25,15:38,125,88,61,36.9,17,97,Sitting,Right arm,GH,Normal
+STUDY001,SUB0011,Screening,2024-02-15,14:24,147,88,94,36.7,13,96,Sitting,Right arm,GH,No abnormalities noted
+STUDY001,SUB0011,Baseline,2024-02-29,11:45,152,90,88,36.7,19,99,Sitting,Right arm,AB,No abnormalities noted
+STUDY001,SUB0011,Week 2,2024-03-14,09:43,164,87,96,36.9,17,96,Sitting,Right arm,GH,
+STUDY001,SUB0011,Week 4,2024-03-28,15:37,156,92,101,37.1,16,100,Sitting,Right arm,AB,No abnormalities noted
+STUDY001,SUB0011,Week 8,2024-04-11,09:49,160,91,91,36.9,15,95,Sitting,Right arm,AB,No abnormalities noted
+STUDY001,SUB0011,Week 12,2024-04-25,10:28,159,90,102,36.7,13,98,Sitting,Right arm,GH,
+STUDY001,SUB0012,Screening,2024-02-15,14:46,146,76,75,37.1,16,98,Sitting,Right arm,GH,Within normal limits
+STUDY001,SUB0012,Baseline,2024-02-29,10:31,139,76,80,36.8,19,100,Sitting,Right arm,GH,No abnormalities noted
+STUDY001,SUB0012,Week 2,2024-03-14,10:12,144,76,71,37.1,13,95,Sitting,Right arm,GH,No abnormalities noted
+STUDY001,SUB0012,Week 4,2024-03-28,14:08,140,73,72,36.8,16,99,Sitting,Right arm,GH,Within normal limits
+STUDY001,SUB0012,Week 8,2024-04-11,15:17,145,69,85,37.2,12,96,Sitting,Right arm,CD,
+STUDY001,SUB0012,Week 12,2024-04-25,14:47,143,68,81,36.5,19,95,Sitting,Right arm,EF,Normal
+STUDY001,SUB0013,Screening,2024-02-15,08:37,153,82,74,36.1,13,98,Sitting,Right arm,GH,No abnormalities noted
+STUDY001,SUB0013,Baseline,2024-02-29,10:26,141,88,74,37.0,17,96,Sitting,Right arm,GH,
+STUDY001,SUB0013,Week 2,2024-03-14,10:46,143,89,79,36.7,13,97,Sitting,Right arm,EF,No abnormalities noted
+STUDY001,SUB0013,Week 4,2024-03-28,11:11,150,83,89,36.7,19,97,Sitting,Right arm,EF,Normal
+STUDY001,SUB0013,Week 8,2024-04-11,09:31,151,88,76,37.1,15,100,Sitting,Right arm,AB,No abnormalities noted
+STUDY001,SUB0013,Week 12,2024-04-25,09:57,145,86,81,36.5,14,96,Sitting,Right arm,AB,Normal
+STUDY001,SUB0014,Screening,2024-02-15,15:15,135,81,76,37.1,20,95,Sitting,Right arm,GH,No abnormalities noted
+STUDY001,SUB0014,Baseline,2024-02-29,08:54,147,73,73,37.1,17,96,Sitting,Right arm,CD,
+STUDY001,SUB0014,Week 2,2024-03-14,15:57,138,74,85,36.7,20,100,Sitting,Right arm,GH,No abnormalities noted
+STUDY001,SUB0014,Week 4,2024-03-28,13:22,136,76,82,36.4,12,97,Sitting,Right arm,GH,Normal
+STUDY001,SUB0014,Week 8,2024-04-11,08:44,135,80,70,36.8,16,98,Sitting,Right arm,GH,
+STUDY001,SUB0014,Week 12,2024-04-25,16:07,147,74,80,37.1,20,97,Sitting,Right arm,CD,No abnormalities noted
+STUDY001,SUB0015,Screening,2024-02-15,16:09,125,74,69,37.2,20,97,Sitting,Right arm,CD,
+STUDY001,SUB0015,Baseline,2024-02-29,14:28,121,72,77,36.5,20,98,Sitting,Right arm,GH,Within normal limits
+STUDY001,SUB0015,Week 2,2024-03-14,09:12,119,70,78,36.7,15,96,Sitting,Right arm,GH,Normal
+STUDY001,SUB0015,Week 4,2024-03-28,10:15,122,73,81,36.9,15,96,Sitting,Right arm,GH,No abnormalities noted
+STUDY001,SUB0015,Week 8,2024-04-11,13:56,123,79,78,36.3,16,99,Sitting,Right arm,EF,No abnormalities noted
+STUDY001,SUB0015,Week 12,2024-04-25,13:27,128,72,69,36.4,19,98,Sitting,Right arm,EF,No abnormalities noted
+STUDY001,SUB0016,Screening,2024-02-15,15:30,111,72,65,36.7,18,98,Sitting,Right arm,AB,
+STUDY001,SUB0016,Baseline,2024-02-29,16:09,120,77,75,36.5,19,99,Sitting,Right arm,EF,Normal
+STUDY001,SUB0016,Week 2,2024-03-14,13:40,108,73,63,37.2,12,95,Sitting,Right arm,AB,No abnormalities noted
+STUDY001,SUB0016,Week 4,2024-03-28,10:30,119,76,60,36.2,16,97,Sitting,Right arm,AB,Within normal limits
+STUDY001,SUB0016,Week 8,2024-04-11,09:19,107,80,61,36.4,12,95,Sitting,Right arm,EF,
+STUDY001,SUB0016,Week 12,2024-04-25,09:01,106,78,58,36.4,13,98,Sitting,Right arm,CD,
+STUDY001,SUB0017,Screening,2024-02-15,16:08,123,84,89,36.9,15,99,Sitting,Right arm,CD,No abnormalities noted
+STUDY001,SUB0017,Baseline,2024-02-29,10:15,132,92,74,36.5,13,96,Sitting,Right arm,CD,Within normal limits
+STUDY001,SUB0017,Week 2,2024-03-14,15:14,129,87,71,36.4,13,99,Sitting,Right arm,CD,Within normal limits
+STUDY001,SUB0017,Week 4,2024-03-28,16:48,118,93,76,36.3,16,98,Sitting,Right arm,AB,Normal
+STUDY001,SUB0017,Week 8,2024-04-11,15:55,113,84,74,36.2,16,99,Sitting,Right arm,AB,
+STUDY001,SUB0017,Week 12,2024-04-25,08:14,120,89,71,36.5,13,100,Sitting,Right arm,AB,Normal
+STUDY001,SUB0018,Screening,2024-02-15,11:55,131,76,87,36.9,16,95,Sitting,Right arm,GH,
+STUDY001,SUB0018,Baseline,2024-02-29,10:54,129,70,91,36.9,15,98,Sitting,Right arm,EF,Normal
+STUDY001,SUB0018,Week 2,2024-03-14,08:30,131,79,83,36.3,13,97,Sitting,Right arm,GH,Within normal limits
+STUDY001,SUB0018,Week 4,2024-03-28,10:16,141,70,72,37.0,20,98,Sitting,Right arm,EF,Within normal limits
+STUDY001,SUB0018,Week 8,2024-04-11,12:10,132,72,75,36.2,18,99,Sitting,Right arm,GH,Normal
+STUDY001,SUB0018,Week 12,2024-04-25,15:01,129,72,86,36.6,14,97,Sitting,Right arm,CD,Within normal limits
+STUDY001,SUB0019,Screening,2024-02-15,09:48,137,78,91,36.7,14,95,Sitting,Right arm,CD,Normal
+STUDY001,SUB0019,Baseline,2024-02-29,10:52,132,77,91,36.2,20,100,Sitting,Right arm,GH,Normal
+STUDY001,SUB0019,Week 2,2024-03-14,11:10,131,76,88,37.1,12,98,Sitting,Right arm,CD,
+STUDY001,SUB0019,Week 4,2024-03-28,12:12,138,72,93,36.2,12,100,Sitting,Right arm,AB,No abnormalities noted
+STUDY001,SUB0019,Week 8,2024-04-11,15:35,127,78,82,36.6,15,99,Sitting,Right arm,AB,Within normal limits
+STUDY001,SUB0019,Week 12,2024-04-25,10:09,144,72,97,36.7,17,96,Sitting,Right arm,GH,
+STUDY001,SUB0020,Screening,2024-02-15,08:22,122,84,74,36.7,15,100,Sitting,Right arm,EF,Within normal limits
+STUDY001,SUB0020,Baseline,2024-02-29,09:18,114,79,82,36.6,13,97,Sitting,Right arm,GH,
+STUDY001,SUB0020,Week 2,2024-03-14,10:15,107,84,74,36.3,14,98,Sitting,Right arm,EF,Normal
+STUDY001,SUB0020,Week 4,2024-03-28,08:17,106,78,75,36.4,15,98,Sitting,Right arm,CD,No abnormalities noted
+STUDY001,SUB0020,Week 8,2024-04-11,13:24,120,76,89,36.1,19,95,Sitting,Right arm,AB,Within normal limits
+STUDY001,SUB0020,Week 12,2024-04-25,11:10,107,75,84,37.2,12,95,Sitting,Right arm,EF,Within normal limits
+STUDY001,SUB0021,Screening,2024-02-15,09:41,132,83,75,36.8,12,97,Sitting,Right arm,GH,Normal
+STUDY001,SUB0021,Baseline,2024-02-29,15:38,137,83,74,36.5,15,97,Sitting,Right arm,EF,Normal
+STUDY001,SUB0021,Week 2,2024-03-14,13:58,144,76,73,37.0,15,99,Sitting,Right arm,CD,Within normal limits
+STUDY001,SUB0021,Week 4,2024-03-28,13:50,128,77,75,37.1,17,97,Sitting,Right arm,EF,
+STUDY001,SUB0021,Week 8,2024-04-11,08:46,127,79,74,37.1,14,95,Sitting,Right arm,EF,Normal
+STUDY001,SUB0021,Week 12,2024-04-25,14:48,144,77,81,37.0,15,97,Sitting,Right arm,EF,
+STUDY001,SUB0022,Screening,2024-02-15,09:40,112,84,90,36.6,16,95,Sitting,Right arm,EF,
+STUDY001,SUB0022,Baseline,2024-02-29,08:49,119,93,88,36.4,13,99,Sitting,Right arm,AB,Within normal limits
+STUDY001,SUB0022,Week 2,2024-03-14,11:36,131,90,95,37.0,20,97,Sitting,Right arm,AB,
+STUDY001,SUB0022,Week 4,2024-03-28,12:24,126,87,90,36.5,12,100,Sitting,Right arm,EF,
+STUDY001,SUB0022,Week 8,2024-04-11,13:07,124,88,86,37.0,19,98,Sitting,Right arm,GH,Normal
+STUDY001,SUB0022,Week 12,2024-04-25,10:20,116,93,83,36.8,12,97,Sitting,Right arm,CD,
+STUDY001,SUB0023,Screening,2024-02-15,12:24,131,90,85,37.2,14,95,Sitting,Right arm,EF,
+STUDY001,SUB0023,Baseline,2024-02-29,15:00,129,89,97,37.2,15,96,Sitting,Right arm,GH,Within normal limits
+STUDY001,SUB0023,Week 2,2024-03-14,14:11,127,87,99,37.2,14,97,Sitting,Right arm,EF,No abnormalities noted
+STUDY001,SUB0023,Week 4,2024-03-28,15:24,129,81,104,36.7,14,95,Sitting,Right arm,GH,
+STUDY001,SUB0023,Week 8,2024-04-11,08:05,128,80,100,36.7,17,97,Sitting,Right arm,EF,Normal
+STUDY001,SUB0023,Week 12,2024-04-25,14:01,118,88,102,36.8,17,95,Sitting,Right arm,AB,Within normal limits
+STUDY001,SUB0024,Screening,2024-02-15,09:31,146,85,98,37.1,18,98,Sitting,Right arm,EF,No abnormalities noted
+STUDY001,SUB0024,Baseline,2024-02-29,10:58,147,81,101,36.1,15,98,Sitting,Right arm,AB,Within normal limits
+STUDY001,SUB0024,Week 2,2024-03-14,16:51,146,80,98,36.2,14,99,Sitting,Right arm,GH,Within normal limits
+STUDY001,SUB0024,Week 4,2024-03-28,11:28,131,78,96,36.4,18,99,Sitting,Right arm,CD,Normal
+STUDY001,SUB0024,Week 8,2024-04-11,08:18,143,76,92,36.6,13,99,Sitting,Right arm,GH,No abnormalities noted
+STUDY001,SUB0024,Week 12,2024-04-25,14:15,146,76,103,36.2,19,100,Sitting,Right arm,CD,
+STUDY001,SUB0025,Screening,2024-02-15,16:05,146,92,89,36.4,13,100,Sitting,Right arm,CD,Normal
+STUDY001,SUB0025,Baseline,2024-02-29,11:54,147,87,107,37.1,12,100,Sitting,Right arm,CD,Within normal limits
+STUDY001,SUB0025,Week 2,2024-03-14,12:08,132,86,94,36.1,16,96,Sitting,Right arm,EF,No abnormalities noted
+STUDY001,SUB0025,Week 4,2024-03-28,11:01,138,89,107,37.1,15,95,Sitting,Right arm,EF,Normal
+STUDY001,SUB0025,Week 8,2024-04-11,15:13,148,85,95,37.2,12,100,Sitting,Right arm,EF,Normal
+STUDY001,SUB0025,Week 12,2024-04-25,14:33,149,89,87,36.5,13,98,Sitting,Right arm,GH,Within normal limits
+STUDY001,SUB0026,Screening,2024-02-15,14:45,122,77,81,37.0,12,95,Sitting,Right arm,GH,Normal
+STUDY001,SUB0026,Baseline,2024-02-29,10:09,130,72,70,36.7,13,96,Sitting,Right arm,EF,Within normal limits
+STUDY001,SUB0026,Week 2,2024-03-14,08:41,114,81,82,36.8,15,96,Sitting,Right arm,CD,Normal
+STUDY001,SUB0026,Week 4,2024-03-28,14:16,133,81,64,36.6,12,99,Sitting,Right arm,EF,Normal
+STUDY001,SUB0026,Week 8,2024-04-11,12:01,123,77,82,36.4,20,97,Sitting,Right arm,GH,Normal
+STUDY001,SUB0026,Week 12,2024-04-25,09:11,114,79,63,36.2,15,96,Sitting,Right arm,EF,No abnormalities noted
+STUDY001,SUB0027,Screening,2024-02-15,10:50,151,90,79,37.2,20,97,Sitting,Right arm,AB,No abnormalities noted
+STUDY001,SUB0027,Baseline,2024-02-29,16:57,144,86,74,36.4,16,96,Sitting,Right arm,CD,Within normal limits
+STUDY001,SUB0027,Week 2,2024-03-14,11:37,143,86,83,37.0,20,95,Sitting,Right arm,CD,No abnormalities noted
+STUDY001,SUB0027,Week 4,2024-03-28,09:51,152,95,79,36.4,16,95,Sitting,Right arm,EF,Normal
+STUDY001,SUB0027,Week 8,2024-04-11,15:44,136,86,86,36.7,13,99,Sitting,Right arm,CD,No abnormalities noted
+STUDY001,SUB0027,Week 12,2024-04-25,09:07,146,86,82,37.0,18,97,Sitting,Right arm,CD,Within normal limits
+STUDY001,SUB0028,Screening,2024-02-15,14:19,131,70,64,36.3,17,100,Sitting,Right arm,CD,No abnormalities noted
+STUDY001,SUB0028,Baseline,2024-02-29,16:00,130,71,69,36.9,12,98,Sitting,Right arm,AB,Normal
+STUDY001,SUB0028,Week 2,2024-03-14,08:30,127,71,75,36.5,17,98,Sitting,Right arm,GH,
+STUDY001,SUB0028,Week 4,2024-03-28,16:26,138,70,57,36.7,19,99,Sitting,Right arm,GH,Within normal limits
+STUDY001,SUB0028,Week 8,2024-04-11,13:53,132,79,67,36.6,16,99,Sitting,Right arm,GH,Within normal limits
+STUDY001,SUB0028,Week 12,2024-04-25,10:51,136,78,71,36.5,16,96,Sitting,Right arm,AB,No abnormalities noted
+STUDY001,SUB0029,Screening,2024-02-15,11:19,126,77,60,36.3,18,98,Sitting,Right arm,EF,Normal
+STUDY001,SUB0029,Baseline,2024-02-29,16:11,136,76,71,36.7,14,95,Sitting,Right arm,AB,Normal
+STUDY001,SUB0029,Week 2,2024-03-14,11:43,123,82,72,36.2,15,95,Sitting,Right arm,AB,No abnormalities noted
+STUDY001,SUB0029,Week 4,2024-03-28,14:04,143,79,67,37.0,19,96,Sitting,Right arm,AB,Within normal limits
+STUDY001,SUB0029,Week 8,2024-04-11,15:44,123,84,68,36.3,13,99,Sitting,Right arm,EF,Within normal limits
+STUDY001,SUB0029,Week 12,2024-04-25,15:20,128,83,66,36.9,14,96,Sitting,Right arm,CD,
+STUDY001,SUB0030,Screening,2024-02-15,12:20,110,76,72,36.7,18,99,Sitting,Right arm,GH,Normal
+STUDY001,SUB0030,Baseline,2024-02-29,16:26,119,68,71,37.1,13,99,Sitting,Right arm,EF,No abnormalities noted
+STUDY001,SUB0030,Week 2,2024-03-14,16:04,120,73,91,36.3,13,99,Sitting,Right arm,EF,Within normal limits
+STUDY001,SUB0030,Week 4,2024-03-28,11:46,110,76,73,37.0,18,96,Sitting,Right arm,CD,Normal
+STUDY001,SUB0030,Week 8,2024-04-11,13:14,105,71,81,36.7,15,100,Sitting,Right arm,AB,No abnormalities noted
+STUDY001,SUB0030,Week 12,2024-04-25,08:47,121,73,80,36.9,14,98,Sitting,Right arm,CD,Normal
+STUDY001,SUB0031,Screening,2024-02-15,12:12,140,93,57,37.2,18,99,Sitting,Right arm,CD,No abnormalities noted
+STUDY001,SUB0031,Baseline,2024-02-29,10:21,140,95,71,36.9,12,98,Sitting,Right arm,AB,
+STUDY001,SUB0031,Week 2,2024-03-14,08:30,132,95,59,37.0,12,95,Sitting,Right arm,CD,Within normal limits
+STUDY001,SUB0031,Week 4,2024-03-28,15:41,134,88,64,36.8,12,98,Sitting,Right arm,AB,No abnormalities noted
+STUDY001,SUB0031,Week 8,2024-04-11,10:49,137,90,60,36.6,20,97,Sitting,Right arm,GH,No abnormalities noted
+STUDY001,SUB0031,Week 12,2024-04-25,15:51,129,97,73,36.4,17,96,Sitting,Right arm,EF,No abnormalities noted
+STUDY001,SUB0032,Screening,2024-02-15,11:22,105,91,107,36.4,18,99,Sitting,Right arm,GH,Within normal limits
+STUDY001,SUB0032,Baseline,2024-02-29,15:21,108,90,109,36.2,14,97,Sitting,Right arm,AB,
+STUDY001,SUB0032,Week 2,2024-03-14,09:27,104,86,93,37.2,13,95,Sitting,Right arm,EF,
+STUDY001,SUB0032,Week 4,2024-03-28,14:28,115,85,90,36.5,12,99,Sitting,Right arm,AB,No abnormalities noted
+STUDY001,SUB0032,Week 8,2024-04-11,14:06,120,91,101,36.7,19,99,Sitting,Right arm,CD,Normal
+STUDY001,SUB0032,Week 12,2024-04-25,09:57,110,91,97,36.1,14,98,Sitting,Right arm,AB,Normal
+STUDY001,SUB0033,Screening,2024-02-15,12:24,131,82,67,36.2,18,100,Sitting,Right arm,GH,No abnormalities noted
+STUDY001,SUB0033,Baseline,2024-02-29,14:12,132,92,77,36.4,17,96,Sitting,Right arm,EF,
+STUDY001,SUB0033,Week 2,2024-03-14,16:08,126,84,69,37.0,16,97,Sitting,Right arm,CD,No abnormalities noted
+STUDY001,SUB0033,Week 4,2024-03-28,10:29,132,86,75,37.1,12,97,Sitting,Right arm,EF,Within normal limits
+STUDY001,SUB0033,Week 8,2024-04-11,16:45,124,86,58,37.2,12,99,Sitting,Right arm,AB,Normal
+STUDY001,SUB0033,Week 12,2024-04-25,15:38,126,89,71,37.2,20,97,Sitting,Right arm,EF,No abnormalities noted
+STUDY001,SUB0034,Screening,2024-02-15,12:37,142,81,85,36.8,16,99,Sitting,Right arm,GH,Within normal limits
+STUDY001,SUB0034,Baseline,2024-02-29,11:26,126,91,94,36.7,14,98,Sitting,Right arm,GH,Normal
+STUDY001,SUB0034,Week 2,2024-03-14,10:47,136,88,92,36.6,18,98,Sitting,Right arm,EF,Normal
+STUDY001,SUB0034,Week 4,2024-03-28,12:31,126,81,88,36.4,14,95,Sitting,Right arm,EF,
+STUDY001,SUB0034,Week 8,2024-04-11,10:34,132,83,84,36.4,16,100,Sitting,Right arm,CD,Normal
+STUDY001,SUB0034,Week 12,2024-04-25,11:10,128,86,91,36.7,16,99,Sitting,Right arm,AB,No abnormalities noted
+STUDY001,SUB0035,Screening,2024-02-15,16:05,136,87,63,37.1,18,96,Sitting,Right arm,GH,
+STUDY001,SUB0035,Baseline,2024-02-29,14:01,124,89,69,37.2,15,95,Sitting,Right arm,AB,No abnormalities noted
+STUDY001,SUB0035,Week 2,2024-03-14,09:52,122,88,63,36.6,19,96,Sitting,Right arm,CD,Normal
+STUDY001,SUB0035,Week 4,2024-03-28,11:58,132,82,69,36.3,17,99,Sitting,Right arm,GH,No abnormalities noted
+STUDY001,SUB0035,Week 8,2024-04-11,12:10,136,80,75,36.7,12,99,Sitting,Right arm,CD,Within normal limits
+STUDY001,SUB0035,Week 12,2024-04-25,12:44,128,82,66,36.2,12,98,Sitting,Right arm,CD,No abnormalities noted
+STUDY001,SUB0036,Screening,2024-02-15,15:49,139,74,94,36.3,17,95,Sitting,Right arm,CD,Normal
+STUDY001,SUB0036,Baseline,2024-02-29,14:57,147,77,103,37.0,14,100,Sitting,Right arm,CD,No abnormalities noted
+STUDY001,SUB0036,Week 2,2024-03-14,09:28,128,77,98,37.0,16,99,Sitting,Right arm,CD,Normal
+STUDY001,SUB0036,Week 4,2024-03-28,11:43,137,79,104,36.6,17,100,Sitting,Right arm,AB,Normal
+STUDY001,SUB0036,Week 8,2024-04-11,09:17,147,77,105,36.5,17,97,Sitting,Right arm,GH,
+STUDY001,SUB0036,Week 12,2024-04-25,08:17,128,77,99,36.4,15,97,Sitting,Right arm,EF,Within normal limits
+STUDY001,SUB0037,Screening,2024-02-15,14:29,128,86,91,36.8,20,100,Sitting,Right arm,CD,Normal
+STUDY001,SUB0037,Baseline,2024-02-29,09:53,122,83,96,36.5,20,98,Sitting,Right arm,AB,Normal
+STUDY001,SUB0037,Week 2,2024-03-14,14:09,112,84,107,36.6,19,96,Sitting,Right arm,AB,Within normal limits
+STUDY001,SUB0037,Week 4,2024-03-28,16:34,115,83,106,36.7,16,95,Sitting,Right arm,CD,
+STUDY001,SUB0037,Week 8,2024-04-11,08:15,123,82,98,36.4,14,96,Sitting,Right arm,GH,
+STUDY001,SUB0037,Week 12,2024-04-25,11:22,131,89,91,36.2,14,95,Sitting,Right arm,AB,
+STUDY001,SUB0038,Screening,2024-02-15,10:32,116,69,68,36.9,15,98,Sitting,Right arm,EF,Within normal limits
+STUDY001,SUB0038,Baseline,2024-02-29,13:14,120,74,67,36.3,18,99,Sitting,Right arm,AB,
+STUDY001,SUB0038,Week 2,2024-03-14,16:30,124,76,70,36.5,16,96,Sitting,Right arm,CD,Within normal limits
+STUDY001,SUB0038,Week 4,2024-03-28,11:02,124,73,70,36.7,16,95,Sitting,Right arm,CD,Normal
+STUDY001,SUB0038,Week 8,2024-04-11,10:42,121,73,78,36.7,13,97,Sitting,Right arm,GH,No abnormalities noted
+STUDY001,SUB0038,Week 12,2024-04-25,13:49,122,76,74,36.6,18,100,Sitting,Right arm,AB,
+STUDY001,SUB0039,Screening,2024-02-15,12:20,127,82,61,36.9,14,100,Sitting,Right arm,EF,Normal
+STUDY001,SUB0039,Baseline,2024-02-29,11:39,134,75,75,36.8,14,95,Sitting,Right arm,AB,Normal
+STUDY001,SUB0039,Week 2,2024-03-14,12:21,121,78,70,37.0,19,98,Sitting,Right arm,EF,Within normal limits
+STUDY001,SUB0039,Week 4,2024-03-28,13:50,132,82,68,36.4,20,95,Sitting,Right arm,CD,Within normal limits
+STUDY001,SUB0039,Week 8,2024-04-11,09:26,133,77,58,37.0,16,98,Sitting,Right arm,GH,No abnormalities noted
+STUDY001,SUB0039,Week 12,2024-04-25,08:24,132,72,61,37.1,16,98,Sitting,Right arm,EF,
+STUDY001,SUB0040,Screening,2024-02-15,15:45,141,80,77,36.8,12,96,Sitting,Right arm,CD,No abnormalities noted
+STUDY001,SUB0040,Baseline,2024-02-29,10:27,142,85,95,36.3,13,96,Sitting,Right arm,EF,
+STUDY001,SUB0040,Week 2,2024-03-14,10:28,137,83,87,36.4,20,100,Sitting,Right arm,EF,Normal
+STUDY001,SUB0040,Week 4,2024-03-28,08:44,140,76,84,37.0,20,96,Sitting,Right arm,GH,Normal
+STUDY001,SUB0040,Week 8,2024-04-11,08:14,128,85,93,36.7,15,96,Sitting,Right arm,CD,No abnormalities noted
+STUDY001,SUB0040,Week 12,2024-04-25,10:19,132,76,93,37.1,13,99,Sitting,Right arm,AB,Within normal limits
+STUDY001,SUB0041,Screening,2024-02-15,09:16,127,87,83,36.3,16,99,Sitting,Right arm,CD,Normal
+STUDY001,SUB0041,Baseline,2024-02-29,13:40,114,88,88,36.3,12,99,Sitting,Right arm,CD,
+STUDY001,SUB0041,Week 2,2024-03-14,15:53,129,85,83,37.0,15,95,Sitting,Right arm,EF,No abnormalities noted
+STUDY001,SUB0041,Week 4,2024-03-28,15:40,122,83,83,36.3,17,99,Sitting,Right arm,CD,No abnormalities noted
+STUDY001,SUB0041,Week 8,2024-04-11,09:52,117,81,93,36.9,19,95,Sitting,Right arm,EF,Normal
+STUDY001,SUB0041,Week 12,2024-04-25,11:30,122,88,102,36.3,13,97,Sitting,Right arm,AB,
+STUDY001,SUB0042,Screening,2024-02-15,08:52,109,87,57,36.8,13,95,Sitting,Right arm,AB,Normal
+STUDY001,SUB0042,Baseline,2024-02-29,11:34,109,91,73,37.1,17,95,Sitting,Right arm,AB,Normal
+STUDY001,SUB0042,Week 2,2024-03-14,16:45,114,90,71,36.5,13,95,Sitting,Right arm,GH,Normal
+STUDY001,SUB0042,Week 4,2024-03-28,15:31,119,85,69,37.1,13,96,Sitting,Right arm,AB,
+STUDY001,SUB0042,Week 8,2024-04-11,10:12,105,87,59,36.3,20,95,Sitting,Right arm,AB,
+STUDY001,SUB0042,Week 12,2024-04-25,14:02,123,93,59,36.4,14,98,Sitting,Right arm,AB,Normal
+STUDY001,SUB0043,Screening,2024-02-15,11:08,125,78,73,36.9,19,97,Sitting,Right arm,EF,Normal
+STUDY001,SUB0043,Baseline,2024-02-29,08:31,121,79,89,36.9,13,96,Sitting,Right arm,AB,No abnormalities noted
+STUDY001,SUB0043,Week 2,2024-03-14,12:46,106,82,80,36.6,13,97,Sitting,Right arm,AB,
+STUDY001,SUB0043,Week 4,2024-03-28,13:14,125,84,85,36.8,17,97,Sitting,Right arm,CD,Normal
+STUDY001,SUB0043,Week 8,2024-04-11,09:38,110,83,88,36.1,12,97,Sitting,Right arm,EF,Within normal limits
+STUDY001,SUB0043,Week 12,2024-04-25,14:36,114,81,85,36.9,20,99,Sitting,Right arm,GH,No abnormalities noted
+STUDY001,SUB0044,Screening,2024-02-15,11:19,111,76,77,36.9,16,98,Sitting,Right arm,GH,Within normal limits
+STUDY001,SUB0044,Baseline,2024-02-29,12:20,123,76,68,36.8,20,97,Sitting,Right arm,AB,Within normal limits
+STUDY001,SUB0044,Week 2,2024-03-14,13:27,110,69,62,36.9,17,100,Sitting,Right arm,GH,No abnormalities noted
+STUDY001,SUB0044,Week 4,2024-03-28,16:45,123,76,74,36.2,15,98,Sitting,Right arm,EF,
+STUDY001,SUB0044,Week 8,2024-04-11,13:43,122,74,71,36.5,15,100,Sitting,Right arm,GH,Normal
+STUDY001,SUB0044,Week 12,2024-04-25,08:05,108,78,62,36.8,18,96,Sitting,Right arm,AB,Within normal limits
+STUDY001,SUB0045,Screening,2024-02-15,13:28,103,78,64,37.0,13,100,Sitting,Right arm,AB,No abnormalities noted
+STUDY001,SUB0045,Baseline,2024-02-29,16:41,113,75,67,36.2,12,95,Sitting,Right arm,CD,Within normal limits
+STUDY001,SUB0045,Week 2,2024-03-14,08:34,103,81,54,36.7,20,95,Sitting,Right arm,GH,Normal
+STUDY001,SUB0045,Week 4,2024-03-28,14:19,117,78,72,36.6,18,98,Sitting,Right arm,GH,Within normal limits
+STUDY001,SUB0045,Week 8,2024-04-11,13:16,109,80,68,36.8,19,96,Sitting,Right arm,EF,No abnormalities noted
+STUDY001,SUB0045,Week 12,2024-04-25,10:18,100,83,64,36.9,20,97,Sitting,Right arm,GH,No abnormalities noted
+STUDY001,SUB0046,Screening,2024-02-15,10:00,137,84,71,36.2,12,98,Sitting,Right arm,AB,No abnormalities noted
+STUDY001,SUB0046,Baseline,2024-02-29,12:41,122,91,70,36.3,17,97,Sitting,Right arm,GH,Normal
+STUDY001,SUB0046,Week 2,2024-03-14,11:02,141,91,63,36.7,17,100,Sitting,Right arm,GH,Within normal limits
+STUDY001,SUB0046,Week 4,2024-03-28,11:00,138,83,56,36.5,15,100,Sitting,Right arm,AB,Within normal limits
+STUDY001,SUB0046,Week 8,2024-04-11,12:55,122,83,74,36.8,12,98,Sitting,Right arm,EF,Within normal limits
+STUDY001,SUB0046,Week 12,2024-04-25,11:55,132,83,56,36.4,14,99,Sitting,Right arm,EF,No abnormalities noted
+STUDY001,SUB0047,Screening,2024-02-15,09:31,128,69,101,36.2,14,100,Sitting,Right arm,CD,
+STUDY001,SUB0047,Baseline,2024-02-29,11:32,137,67,101,36.5,15,98,Sitting,Right arm,CD,Normal
+STUDY001,SUB0047,Week 2,2024-03-14,13:55,137,74,99,36.2,14,95,Sitting,Right arm,AB,
+STUDY001,SUB0047,Week 4,2024-03-28,08:51,131,67,104,36.4,13,97,Sitting,Right arm,CD,
+STUDY001,SUB0047,Week 8,2024-04-11,14:05,145,74,101,37.1,17,97,Sitting,Right arm,GH,Within normal limits
+STUDY001,SUB0047,Week 12,2024-04-25,14:28,141,66,93,36.4,13,95,Sitting,Right arm,AB,No abnormalities noted
+STUDY001,SUB0048,Screening,2024-02-15,12:50,121,74,64,36.6,17,99,Sitting,Right arm,EF,Within normal limits
+STUDY001,SUB0048,Baseline,2024-02-29,13:46,129,75,57,37.0,14,95,Sitting,Right arm,AB,Within normal limits
+STUDY001,SUB0048,Week 2,2024-03-14,08:50,123,82,60,37.0,20,99,Sitting,Right arm,GH,Normal
+STUDY001,SUB0048,Week 4,2024-03-28,09:58,131,76,53,36.1,15,96,Sitting,Right arm,AB,No abnormalities noted
+STUDY001,SUB0048,Week 8,2024-04-11,15:20,126,81,58,36.9,14,99,Sitting,Right arm,EF,
+STUDY001,SUB0048,Week 12,2024-04-25,11:04,138,75,58,36.9,13,96,Sitting,Right arm,EF,No abnormalities noted
+STUDY001,SUB0049,Screening,2024-02-15,11:19,115,89,55,36.7,20,97,Sitting,Right arm,GH,
+STUDY001,SUB0049,Baseline,2024-02-29,08:37,131,91,56,36.7,12,95,Sitting,Right arm,GH,Within normal limits
+STUDY001,SUB0049,Week 2,2024-03-14,08:16,118,88,74,36.6,12,97,Sitting,Right arm,EF,Normal
+STUDY001,SUB0049,Week 4,2024-03-28,08:16,132,83,58,36.4,19,95,Sitting,Right arm,CD,
+STUDY001,SUB0049,Week 8,2024-04-11,15:14,133,87,56,36.8,12,99,Sitting,Right arm,GH,Within normal limits
+STUDY001,SUB0049,Week 12,2024-04-25,16:49,124,89,73,36.5,12,97,Sitting,Right arm,GH,
+STUDY001,SUB0050,Screening,2024-02-15,12:07,120,71,59,37.2,12,99,Sitting,Right arm,AB,Normal
+STUDY001,SUB0050,Baseline,2024-02-29,08:32,123,73,65,36.3,16,100,Sitting,Right arm,GH,Within normal limits
+STUDY001,SUB0050,Week 2,2024-03-14,10:29,127,70,70,36.4,12,97,Sitting,Right arm,GH,No abnormalities noted
+STUDY001,SUB0050,Week 4,2024-03-28,10:42,129,78,66,36.7,18,98,Sitting,Right arm,EF,Within normal limits
+STUDY001,SUB0050,Week 8,2024-04-11,11:56,127,71,70,37.2,17,98,Sitting,Right arm,AB,Normal
+STUDY001,SUB0050,Week 12,2024-04-25,12:23,119,69,73,37.1,12,100,Sitting,Right arm,CD,Normal

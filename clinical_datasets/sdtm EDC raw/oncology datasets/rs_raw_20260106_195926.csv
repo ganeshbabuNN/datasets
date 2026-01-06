@@ -1,0 +1,4 @@
+study_id,subject_id,overall_response
+STUDY001,SUB0001,Stable Disease
+STUDY001,SUB0002,Partial Response
+STUDY001,SUB0003,Progressive Disease

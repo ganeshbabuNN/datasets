@@ -1,0 +1,427 @@
+study_id,subject_id,visit_name,assessment_date,lesion_id,lesion_type,lesion_location,measurement_method,longest_diameter_mm,perpendicular_diameter_mm,lesion_present,target_lesion,evaluable,response_assessment,radiologist_name,scan_type,scan_date,dataset_name
+STUDY001,SUB0001,Screening,2024-02-15,N01,New,Peritoneum,Multiple imaging,20,13,Yes,No,Yes,Baseline,Dr. Johnson,CT,2024-02-15,rawtu3
+STUDY001,SUB0001,Week 6,2024-03-28,N01,New,Peritoneum,Multiple imaging,,,No,No,No,Not present,Dr. Brown,CT,2024-03-28,rawtu3
+STUDY001,SUB0001,Week 12,2024-05-09,N01,New,Peritoneum,Multiple imaging,,,No,No,No,Not present,Dr. Johnson,PET-CT,2024-05-09,rawtu3
+STUDY001,SUB0001,Week 18,2024-06-20,N01,New,Peritoneum,Multiple imaging,12,9,Yes,No,Yes,New lesion detected,Dr. Smith,MRI,2024-06-20,rawtu3
+STUDY001,SUB0001,Week 24,2024-08-01,N01,New,Peritoneum,Multiple imaging,18,13,Yes,No,Yes,New lesion detected,Dr. Smith,CT,2024-08-01,rawtu3
+STUDY001,SUB0001,End of Study,2024-09-12,N01,New,Peritoneum,Multiple imaging,11,6,Yes,No,Yes,New lesion detected,Dr. Smith,CT,2024-09-12,rawtu3
+STUDY001,SUB0001,Screening,2024-02-15,N02,New,Soft tissue,Multiple imaging,12,8,Yes,No,Yes,Baseline,Dr. Smith,CT,2024-02-15,rawtu3
+STUDY001,SUB0001,Week 6,2024-03-28,N02,New,Soft tissue,Multiple imaging,,,No,No,No,Not present,Dr. Johnson,MRI,2024-03-28,rawtu3
+STUDY001,SUB0001,Week 12,2024-05-09,N02,New,Soft tissue,Multiple imaging,,,No,No,No,Not present,Dr. Johnson,PET-CT,2024-05-09,rawtu3
+STUDY001,SUB0001,Week 18,2024-06-20,N02,New,Soft tissue,Multiple imaging,5,3,Yes,No,Yes,New lesion detected,Dr. Smith,CT,2024-06-20,rawtu3
+STUDY001,SUB0001,Week 24,2024-08-01,N02,New,Soft tissue,Multiple imaging,19,13,Yes,No,Yes,New lesion detected,Dr. Smith,MRI,2024-08-01,rawtu3
+STUDY001,SUB0001,End of Study,2024-09-12,N02,New,Soft tissue,Multiple imaging,8,6,Yes,No,Yes,New lesion detected,Dr. Brown,PET-CT,2024-09-12,rawtu3
+STUDY001,SUB0002,Screening,2024-02-15,N01,New,Peritoneum,Multiple imaging,17,11,Yes,No,Yes,Baseline,Dr. Johnson,CT,2024-02-15,rawtu3
+STUDY001,SUB0002,Week 6,2024-03-28,N01,New,Peritoneum,Multiple imaging,,,No,No,No,Not present,Dr. Brown,MRI,2024-03-28,rawtu3
+STUDY001,SUB0002,Week 12,2024-05-09,N01,New,Peritoneum,Multiple imaging,,,No,No,No,Not present,Dr. Brown,CT,2024-05-09,rawtu3
+STUDY001,SUB0002,Week 18,2024-06-20,N01,New,Peritoneum,Multiple imaging,12,8,Yes,No,Yes,New lesion detected,Dr. Johnson,MRI,2024-06-20,rawtu3
+STUDY001,SUB0002,Week 24,2024-08-01,N01,New,Peritoneum,Multiple imaging,13,9,Yes,No,Yes,New lesion detected,Dr. Brown,MRI,2024-08-01,rawtu3
+STUDY001,SUB0002,End of Study,2024-09-12,N01,New,Peritoneum,Multiple imaging,6,5,Yes,No,Yes,New lesion detected,Dr. Smith,CT,2024-09-12,rawtu3
+STUDY001,SUB0003,Screening,2024-02-15,N01,New,Soft tissue,Multiple imaging,22,15,Yes,No,Yes,Baseline,Dr. Brown,MRI,2024-02-15,rawtu3
+STUDY001,SUB0003,Week 6,2024-03-28,N01,New,Soft tissue,Multiple imaging,,,No,No,No,Not present,Dr. Smith,MRI,2024-03-28,rawtu3
+STUDY001,SUB0003,Week 12,2024-05-09,N01,New,Soft tissue,Multiple imaging,,,No,No,No,Not present,Dr. Johnson,PET-CT,2024-05-09,rawtu3
+STUDY001,SUB0003,Week 18,2024-06-20,N01,New,Soft tissue,Multiple imaging,14,8,Yes,No,Yes,New lesion detected,Dr. Johnson,MRI,2024-06-20,rawtu3
+STUDY001,SUB0003,Week 24,2024-08-01,N01,New,Soft tissue,Multiple imaging,8,6,Yes,No,Yes,New lesion detected,Dr. Brown,PET-CT,2024-08-01,rawtu3
+STUDY001,SUB0003,End of Study,2024-09-12,N01,New,Soft tissue,Multiple imaging,6,4,Yes,No,Yes,New lesion detected,Dr. Johnson,CT,2024-09-12,rawtu3
+STUDY001,SUB0003,Screening,2024-02-15,N02,New,Peritoneum,Multiple imaging,7,6,Yes,No,Yes,Baseline,Dr. Brown,MRI,2024-02-15,rawtu3
+STUDY001,SUB0003,Week 6,2024-03-28,N02,New,Peritoneum,Multiple imaging,,,No,No,No,Not present,Dr. Smith,PET-CT,2024-03-28,rawtu3
+STUDY001,SUB0003,Week 12,2024-05-09,N02,New,Peritoneum,Multiple imaging,,,No,No,No,Not present,Dr. Johnson,PET-CT,2024-05-09,rawtu3
+STUDY001,SUB0003,Week 18,2024-06-20,N02,New,Peritoneum,Multiple imaging,17,15,Yes,No,Yes,New lesion detected,Dr. Brown,PET-CT,2024-06-20,rawtu3
+STUDY001,SUB0003,Week 24,2024-08-01,N02,New,Peritoneum,Multiple imaging,8,6,Yes,No,Yes,New lesion detected,Dr. Smith,MRI,2024-08-01,rawtu3
+STUDY001,SUB0003,End of Study,2024-09-12,N02,New,Peritoneum,Multiple imaging,16,11,Yes,No,Yes,New lesion detected,Dr. Johnson,PET-CT,2024-09-12,rawtu3
+STUDY001,SUB0004,Screening,2024-02-15,N01,New,Other,Multiple imaging,12,8,Yes,No,Yes,Baseline,Dr. Smith,PET-CT,2024-02-15,rawtu3
+STUDY001,SUB0004,Week 6,2024-03-28,N01,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Smith,PET-CT,2024-03-28,rawtu3
+STUDY001,SUB0004,Week 12,2024-05-09,N01,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Smith,PET-CT,2024-05-09,rawtu3
+STUDY001,SUB0004,Week 18,2024-06-20,N01,New,Other,Multiple imaging,12,7,Yes,No,Yes,New lesion detected,Dr. Johnson,PET-CT,2024-06-20,rawtu3
+STUDY001,SUB0004,Week 24,2024-08-01,N01,New,Other,Multiple imaging,11,7,Yes,No,Yes,New lesion detected,Dr. Smith,CT,2024-08-01,rawtu3
+STUDY001,SUB0004,End of Study,2024-09-12,N01,New,Other,Multiple imaging,7,6,Yes,No,Yes,New lesion detected,Dr. Smith,CT,2024-09-12,rawtu3
+STUDY001,SUB0004,Screening,2024-02-15,N02,New,Other,Multiple imaging,24,19,Yes,No,Yes,Baseline,Dr. Johnson,CT,2024-02-15,rawtu3
+STUDY001,SUB0004,Week 6,2024-03-28,N02,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Johnson,MRI,2024-03-28,rawtu3
+STUDY001,SUB0004,Week 12,2024-05-09,N02,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Smith,MRI,2024-05-09,rawtu3
+STUDY001,SUB0004,Week 18,2024-06-20,N02,New,Other,Multiple imaging,6,4,Yes,No,Yes,New lesion detected,Dr. Brown,PET-CT,2024-06-20,rawtu3
+STUDY001,SUB0004,Week 24,2024-08-01,N02,New,Other,Multiple imaging,8,5,Yes,No,Yes,New lesion detected,Dr. Smith,MRI,2024-08-01,rawtu3
+STUDY001,SUB0004,End of Study,2024-09-12,N02,New,Other,Multiple imaging,20,15,Yes,No,Yes,New lesion detected,Dr. Smith,CT,2024-09-12,rawtu3
+STUDY001,SUB0005,Screening,2024-02-15,N01,New,Other,Multiple imaging,20,12,Yes,No,Yes,Baseline,Dr. Johnson,PET-CT,2024-02-15,rawtu3
+STUDY001,SUB0005,Week 6,2024-03-28,N01,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Johnson,MRI,2024-03-28,rawtu3
+STUDY001,SUB0005,Week 12,2024-05-09,N01,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Smith,MRI,2024-05-09,rawtu3
+STUDY001,SUB0005,Week 18,2024-06-20,N01,New,Other,Multiple imaging,17,11,Yes,No,Yes,New lesion detected,Dr. Brown,CT,2024-06-20,rawtu3
+STUDY001,SUB0005,Week 24,2024-08-01,N01,New,Other,Multiple imaging,11,7,Yes,No,Yes,New lesion detected,Dr. Johnson,MRI,2024-08-01,rawtu3
+STUDY001,SUB0005,End of Study,2024-09-12,N01,New,Other,Multiple imaging,15,12,Yes,No,Yes,New lesion detected,Dr. Brown,CT,2024-09-12,rawtu3
+STUDY001,SUB0005,Screening,2024-02-15,N02,New,Pleura,Multiple imaging,15,10,Yes,No,Yes,Baseline,Dr. Smith,PET-CT,2024-02-15,rawtu3
+STUDY001,SUB0005,Week 6,2024-03-28,N02,New,Pleura,Multiple imaging,,,No,No,No,Not present,Dr. Johnson,CT,2024-03-28,rawtu3
+STUDY001,SUB0005,Week 12,2024-05-09,N02,New,Pleura,Multiple imaging,,,No,No,No,Not present,Dr. Brown,CT,2024-05-09,rawtu3
+STUDY001,SUB0005,Week 18,2024-06-20,N02,New,Pleura,Multiple imaging,6,3,Yes,No,Yes,New lesion detected,Dr. Brown,PET-CT,2024-06-20,rawtu3
+STUDY001,SUB0005,Week 24,2024-08-01,N02,New,Pleura,Multiple imaging,9,7,Yes,No,Yes,New lesion detected,Dr. Johnson,CT,2024-08-01,rawtu3
+STUDY001,SUB0005,End of Study,2024-09-12,N02,New,Pleura,Multiple imaging,6,4,Yes,No,Yes,New lesion detected,Dr. Smith,MRI,2024-09-12,rawtu3
+STUDY001,SUB0006,Screening,2024-02-15,N01,New,Soft tissue,Multiple imaging,11,9,Yes,No,Yes,Baseline,Dr. Smith,PET-CT,2024-02-15,rawtu3
+STUDY001,SUB0006,Week 6,2024-03-28,N01,New,Soft tissue,Multiple imaging,,,No,No,No,Not present,Dr. Brown,CT,2024-03-28,rawtu3
+STUDY001,SUB0006,Week 12,2024-05-09,N01,New,Soft tissue,Multiple imaging,,,No,No,No,Not present,Dr. Brown,MRI,2024-05-09,rawtu3
+STUDY001,SUB0006,Week 18,2024-06-20,N01,New,Soft tissue,Multiple imaging,17,10,Yes,No,Yes,New lesion detected,Dr. Johnson,PET-CT,2024-06-20,rawtu3
+STUDY001,SUB0006,Week 24,2024-08-01,N01,New,Soft tissue,Multiple imaging,14,11,Yes,No,Yes,New lesion detected,Dr. Brown,MRI,2024-08-01,rawtu3
+STUDY001,SUB0006,End of Study,2024-09-12,N01,New,Soft tissue,Multiple imaging,16,11,Yes,No,Yes,New lesion detected,Dr. Johnson,MRI,2024-09-12,rawtu3
+STUDY001,SUB0007,Screening,2024-02-15,N01,New,Other,Multiple imaging,18,10,Yes,No,Yes,Baseline,Dr. Smith,PET-CT,2024-02-15,rawtu3
+STUDY001,SUB0007,Week 6,2024-03-28,N01,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Johnson,PET-CT,2024-03-28,rawtu3
+STUDY001,SUB0007,Week 12,2024-05-09,N01,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Johnson,MRI,2024-05-09,rawtu3
+STUDY001,SUB0007,Week 18,2024-06-20,N01,New,Other,Multiple imaging,13,9,Yes,No,Yes,New lesion detected,Dr. Brown,PET-CT,2024-06-20,rawtu3
+STUDY001,SUB0007,Week 24,2024-08-01,N01,New,Other,Multiple imaging,19,13,Yes,No,Yes,New lesion detected,Dr. Smith,CT,2024-08-01,rawtu3
+STUDY001,SUB0007,End of Study,2024-09-12,N01,New,Other,Multiple imaging,18,12,Yes,No,Yes,New lesion detected,Dr. Brown,MRI,2024-09-12,rawtu3
+STUDY001,SUB0007,Screening,2024-02-15,N02,New,Other,Multiple imaging,14,12,Yes,No,Yes,Baseline,Dr. Smith,CT,2024-02-15,rawtu3
+STUDY001,SUB0007,Week 6,2024-03-28,N02,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Brown,PET-CT,2024-03-28,rawtu3
+STUDY001,SUB0007,Week 12,2024-05-09,N02,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Smith,MRI,2024-05-09,rawtu3
+STUDY001,SUB0007,Week 18,2024-06-20,N02,New,Other,Multiple imaging,13,10,Yes,No,Yes,New lesion detected,Dr. Johnson,PET-CT,2024-06-20,rawtu3
+STUDY001,SUB0007,Week 24,2024-08-01,N02,New,Other,Multiple imaging,12,7,Yes,No,Yes,New lesion detected,Dr. Johnson,CT,2024-08-01,rawtu3
+STUDY001,SUB0007,End of Study,2024-09-12,N02,New,Other,Multiple imaging,5,4,Yes,No,Yes,New lesion detected,Dr. Smith,PET-CT,2024-09-12,rawtu3
+STUDY001,SUB0008,Screening,2024-02-15,N01,New,Other,Multiple imaging,12,10,Yes,No,Yes,Baseline,Dr. Johnson,CT,2024-02-15,rawtu3
+STUDY001,SUB0008,Week 6,2024-03-28,N01,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Smith,MRI,2024-03-28,rawtu3
+STUDY001,SUB0008,Week 12,2024-05-09,N01,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Brown,PET-CT,2024-05-09,rawtu3
+STUDY001,SUB0008,Week 18,2024-06-20,N01,New,Other,Multiple imaging,12,8,Yes,No,Yes,New lesion detected,Dr. Johnson,MRI,2024-06-20,rawtu3
+STUDY001,SUB0008,Week 24,2024-08-01,N01,New,Other,Multiple imaging,16,11,Yes,No,Yes,New lesion detected,Dr. Brown,PET-CT,2024-08-01,rawtu3
+STUDY001,SUB0008,End of Study,2024-09-12,N01,New,Other,Multiple imaging,8,5,Yes,No,Yes,New lesion detected,Dr. Smith,MRI,2024-09-12,rawtu3
+STUDY001,SUB0009,Screening,2024-02-15,N01,New,Peritoneum,Multiple imaging,25,18,Yes,No,Yes,Baseline,Dr. Johnson,PET-CT,2024-02-15,rawtu3
+STUDY001,SUB0009,Week 6,2024-03-28,N01,New,Peritoneum,Multiple imaging,,,No,No,No,Not present,Dr. Johnson,MRI,2024-03-28,rawtu3
+STUDY001,SUB0009,Week 12,2024-05-09,N01,New,Peritoneum,Multiple imaging,,,No,No,No,Not present,Dr. Johnson,PET-CT,2024-05-09,rawtu3
+STUDY001,SUB0009,Week 18,2024-06-20,N01,New,Peritoneum,Multiple imaging,14,8,Yes,No,Yes,New lesion detected,Dr. Johnson,PET-CT,2024-06-20,rawtu3
+STUDY001,SUB0009,Week 24,2024-08-01,N01,New,Peritoneum,Multiple imaging,9,7,Yes,No,Yes,New lesion detected,Dr. Johnson,MRI,2024-08-01,rawtu3
+STUDY001,SUB0009,End of Study,2024-09-12,N01,New,Peritoneum,Multiple imaging,12,9,Yes,No,Yes,New lesion detected,Dr. Johnson,CT,2024-09-12,rawtu3
+STUDY001,SUB0010,Screening,2024-02-15,N01,New,Other,Multiple imaging,19,16,Yes,No,Yes,Baseline,Dr. Brown,CT,2024-02-15,rawtu3
+STUDY001,SUB0010,Week 6,2024-03-28,N01,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Brown,MRI,2024-03-28,rawtu3
+STUDY001,SUB0010,Week 12,2024-05-09,N01,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Smith,MRI,2024-05-09,rawtu3
+STUDY001,SUB0010,Week 18,2024-06-20,N01,New,Other,Multiple imaging,13,10,Yes,No,Yes,New lesion detected,Dr. Brown,PET-CT,2024-06-20,rawtu3
+STUDY001,SUB0010,Week 24,2024-08-01,N01,New,Other,Multiple imaging,10,7,Yes,No,Yes,New lesion detected,Dr. Smith,CT,2024-08-01,rawtu3
+STUDY001,SUB0010,End of Study,2024-09-12,N01,New,Other,Multiple imaging,14,12,Yes,No,Yes,New lesion detected,Dr. Smith,MRI,2024-09-12,rawtu3
+STUDY001,SUB0011,Screening,2024-02-15,N01,New,Soft tissue,Multiple imaging,16,9,Yes,No,Yes,Baseline,Dr. Smith,PET-CT,2024-02-15,rawtu3
+STUDY001,SUB0011,Week 6,2024-03-28,N01,New,Soft tissue,Multiple imaging,,,No,No,No,Not present,Dr. Smith,MRI,2024-03-28,rawtu3
+STUDY001,SUB0011,Week 12,2024-05-09,N01,New,Soft tissue,Multiple imaging,,,No,No,No,Not present,Dr. Johnson,PET-CT,2024-05-09,rawtu3
+STUDY001,SUB0011,Week 18,2024-06-20,N01,New,Soft tissue,Multiple imaging,5,4,Yes,No,Yes,New lesion detected,Dr. Brown,MRI,2024-06-20,rawtu3
+STUDY001,SUB0011,Week 24,2024-08-01,N01,New,Soft tissue,Multiple imaging,7,6,Yes,No,Yes,New lesion detected,Dr. Brown,CT,2024-08-01,rawtu3
+STUDY001,SUB0011,End of Study,2024-09-12,N01,New,Soft tissue,Multiple imaging,13,11,Yes,No,Yes,New lesion detected,Dr. Smith,MRI,2024-09-12,rawtu3
+STUDY001,SUB0012,Screening,2024-02-15,N01,New,Other,Multiple imaging,20,13,Yes,No,Yes,Baseline,Dr. Smith,CT,2024-02-15,rawtu3
+STUDY001,SUB0012,Week 6,2024-03-28,N01,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Johnson,CT,2024-03-28,rawtu3
+STUDY001,SUB0012,Week 12,2024-05-09,N01,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Brown,MRI,2024-05-09,rawtu3
+STUDY001,SUB0012,Week 18,2024-06-20,N01,New,Other,Multiple imaging,16,10,Yes,No,Yes,New lesion detected,Dr. Smith,MRI,2024-06-20,rawtu3
+STUDY001,SUB0012,Week 24,2024-08-01,N01,New,Other,Multiple imaging,18,12,Yes,No,Yes,New lesion detected,Dr. Brown,PET-CT,2024-08-01,rawtu3
+STUDY001,SUB0012,End of Study,2024-09-12,N01,New,Other,Multiple imaging,7,4,Yes,No,Yes,New lesion detected,Dr. Johnson,MRI,2024-09-12,rawtu3
+STUDY001,SUB0012,Screening,2024-02-15,N02,New,Other,Multiple imaging,6,5,Yes,No,Yes,Baseline,Dr. Smith,CT,2024-02-15,rawtu3
+STUDY001,SUB0012,Week 6,2024-03-28,N02,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Brown,CT,2024-03-28,rawtu3
+STUDY001,SUB0012,Week 12,2024-05-09,N02,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Smith,MRI,2024-05-09,rawtu3
+STUDY001,SUB0012,Week 18,2024-06-20,N02,New,Other,Multiple imaging,18,10,Yes,No,Yes,New lesion detected,Dr. Johnson,CT,2024-06-20,rawtu3
+STUDY001,SUB0012,Week 24,2024-08-01,N02,New,Other,Multiple imaging,10,6,Yes,No,Yes,New lesion detected,Dr. Smith,CT,2024-08-01,rawtu3
+STUDY001,SUB0012,End of Study,2024-09-12,N02,New,Other,Multiple imaging,17,14,Yes,No,Yes,New lesion detected,Dr. Brown,MRI,2024-09-12,rawtu3
+STUDY001,SUB0013,Screening,2024-02-15,N01,New,Soft tissue,Multiple imaging,15,13,Yes,No,Yes,Baseline,Dr. Johnson,CT,2024-02-15,rawtu3
+STUDY001,SUB0013,Week 6,2024-03-28,N01,New,Soft tissue,Multiple imaging,,,No,No,No,Not present,Dr. Johnson,PET-CT,2024-03-28,rawtu3
+STUDY001,SUB0013,Week 12,2024-05-09,N01,New,Soft tissue,Multiple imaging,,,No,No,No,Not present,Dr. Smith,PET-CT,2024-05-09,rawtu3
+STUDY001,SUB0013,Week 18,2024-06-20,N01,New,Soft tissue,Multiple imaging,7,5,Yes,No,Yes,New lesion detected,Dr. Smith,MRI,2024-06-20,rawtu3
+STUDY001,SUB0013,Week 24,2024-08-01,N01,New,Soft tissue,Multiple imaging,18,15,Yes,No,Yes,New lesion detected,Dr. Johnson,MRI,2024-08-01,rawtu3
+STUDY001,SUB0013,End of Study,2024-09-12,N01,New,Soft tissue,Multiple imaging,16,13,Yes,No,Yes,New lesion detected,Dr. Brown,PET-CT,2024-09-12,rawtu3
+STUDY001,SUB0014,Screening,2024-02-15,N01,New,Other,Multiple imaging,19,15,Yes,No,Yes,Baseline,Dr. Smith,CT,2024-02-15,rawtu3
+STUDY001,SUB0014,Week 6,2024-03-28,N01,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Brown,PET-CT,2024-03-28,rawtu3
+STUDY001,SUB0014,Week 12,2024-05-09,N01,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Smith,MRI,2024-05-09,rawtu3
+STUDY001,SUB0014,Week 18,2024-06-20,N01,New,Other,Multiple imaging,8,7,Yes,No,Yes,New lesion detected,Dr. Brown,PET-CT,2024-06-20,rawtu3
+STUDY001,SUB0014,Week 24,2024-08-01,N01,New,Other,Multiple imaging,12,10,Yes,No,Yes,New lesion detected,Dr. Brown,PET-CT,2024-08-01,rawtu3
+STUDY001,SUB0014,End of Study,2024-09-12,N01,New,Other,Multiple imaging,9,6,Yes,No,Yes,New lesion detected,Dr. Johnson,CT,2024-09-12,rawtu3
+STUDY001,SUB0015,Screening,2024-02-15,N01,New,Pleura,Multiple imaging,22,13,Yes,No,Yes,Baseline,Dr. Johnson,CT,2024-02-15,rawtu3
+STUDY001,SUB0015,Week 6,2024-03-28,N01,New,Pleura,Multiple imaging,,,No,No,No,Not present,Dr. Smith,CT,2024-03-28,rawtu3
+STUDY001,SUB0015,Week 12,2024-05-09,N01,New,Pleura,Multiple imaging,,,No,No,No,Not present,Dr. Johnson,PET-CT,2024-05-09,rawtu3
+STUDY001,SUB0015,Week 18,2024-06-20,N01,New,Pleura,Multiple imaging,16,11,Yes,No,Yes,New lesion detected,Dr. Brown,CT,2024-06-20,rawtu3
+STUDY001,SUB0015,Week 24,2024-08-01,N01,New,Pleura,Multiple imaging,15,11,Yes,No,Yes,New lesion detected,Dr. Brown,PET-CT,2024-08-01,rawtu3
+STUDY001,SUB0015,End of Study,2024-09-12,N01,New,Pleura,Multiple imaging,5,3,Yes,No,Yes,New lesion detected,Dr. Johnson,PET-CT,2024-09-12,rawtu3
+STUDY001,SUB0015,Screening,2024-02-15,N02,New,Peritoneum,Multiple imaging,7,4,Yes,No,Yes,Baseline,Dr. Brown,MRI,2024-02-15,rawtu3
+STUDY001,SUB0015,Week 6,2024-03-28,N02,New,Peritoneum,Multiple imaging,,,No,No,No,Not present,Dr. Johnson,MRI,2024-03-28,rawtu3
+STUDY001,SUB0015,Week 12,2024-05-09,N02,New,Peritoneum,Multiple imaging,,,No,No,No,Not present,Dr. Johnson,CT,2024-05-09,rawtu3
+STUDY001,SUB0015,Week 18,2024-06-20,N02,New,Peritoneum,Multiple imaging,15,12,Yes,No,Yes,New lesion detected,Dr. Johnson,PET-CT,2024-06-20,rawtu3
+STUDY001,SUB0015,Week 24,2024-08-01,N02,New,Peritoneum,Multiple imaging,20,14,Yes,No,Yes,New lesion detected,Dr. Brown,PET-CT,2024-08-01,rawtu3
+STUDY001,SUB0015,End of Study,2024-09-12,N02,New,Peritoneum,Multiple imaging,10,7,Yes,No,Yes,New lesion detected,Dr. Smith,PET-CT,2024-09-12,rawtu3
+STUDY001,SUB0016,Screening,2024-02-15,N01,New,Pleura,Multiple imaging,11,8,Yes,No,Yes,Baseline,Dr. Johnson,CT,2024-02-15,rawtu3
+STUDY001,SUB0016,Week 6,2024-03-28,N01,New,Pleura,Multiple imaging,,,No,No,No,Not present,Dr. Smith,PET-CT,2024-03-28,rawtu3
+STUDY001,SUB0016,Week 12,2024-05-09,N01,New,Pleura,Multiple imaging,,,No,No,No,Not present,Dr. Brown,MRI,2024-05-09,rawtu3
+STUDY001,SUB0016,Week 18,2024-06-20,N01,New,Pleura,Multiple imaging,11,7,Yes,No,Yes,New lesion detected,Dr. Johnson,MRI,2024-06-20,rawtu3
+STUDY001,SUB0016,Week 24,2024-08-01,N01,New,Pleura,Multiple imaging,11,7,Yes,No,Yes,New lesion detected,Dr. Johnson,PET-CT,2024-08-01,rawtu3
+STUDY001,SUB0016,End of Study,2024-09-12,N01,New,Pleura,Multiple imaging,11,8,Yes,No,Yes,New lesion detected,Dr. Smith,PET-CT,2024-09-12,rawtu3
+STUDY001,SUB0017,Screening,2024-02-15,N01,New,Peritoneum,Multiple imaging,12,8,Yes,No,Yes,Baseline,Dr. Johnson,CT,2024-02-15,rawtu3
+STUDY001,SUB0017,Week 6,2024-03-28,N01,New,Peritoneum,Multiple imaging,,,No,No,No,Not present,Dr. Brown,CT,2024-03-28,rawtu3
+STUDY001,SUB0017,Week 12,2024-05-09,N01,New,Peritoneum,Multiple imaging,,,No,No,No,Not present,Dr. Smith,MRI,2024-05-09,rawtu3
+STUDY001,SUB0017,Week 18,2024-06-20,N01,New,Peritoneum,Multiple imaging,7,6,Yes,No,Yes,New lesion detected,Dr. Smith,PET-CT,2024-06-20,rawtu3
+STUDY001,SUB0017,Week 24,2024-08-01,N01,New,Peritoneum,Multiple imaging,18,15,Yes,No,Yes,New lesion detected,Dr. Brown,CT,2024-08-01,rawtu3
+STUDY001,SUB0017,End of Study,2024-09-12,N01,New,Peritoneum,Multiple imaging,16,11,Yes,No,Yes,New lesion detected,Dr. Smith,PET-CT,2024-09-12,rawtu3
+STUDY001,SUB0017,Screening,2024-02-15,N02,New,Other,Multiple imaging,12,9,Yes,No,Yes,Baseline,Dr. Smith,PET-CT,2024-02-15,rawtu3
+STUDY001,SUB0017,Week 6,2024-03-28,N02,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Smith,PET-CT,2024-03-28,rawtu3
+STUDY001,SUB0017,Week 12,2024-05-09,N02,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Brown,CT,2024-05-09,rawtu3
+STUDY001,SUB0017,Week 18,2024-06-20,N02,New,Other,Multiple imaging,7,4,Yes,No,Yes,New lesion detected,Dr. Johnson,PET-CT,2024-06-20,rawtu3
+STUDY001,SUB0017,Week 24,2024-08-01,N02,New,Other,Multiple imaging,16,11,Yes,No,Yes,New lesion detected,Dr. Smith,MRI,2024-08-01,rawtu3
+STUDY001,SUB0017,End of Study,2024-09-12,N02,New,Other,Multiple imaging,7,4,Yes,No,Yes,New lesion detected,Dr. Smith,CT,2024-09-12,rawtu3
+STUDY001,SUB0018,Screening,2024-02-15,N01,New,Pleura,Multiple imaging,5,3,Yes,No,Yes,Baseline,Dr. Smith,CT,2024-02-15,rawtu3
+STUDY001,SUB0018,Week 6,2024-03-28,N01,New,Pleura,Multiple imaging,,,No,No,No,Not present,Dr. Brown,PET-CT,2024-03-28,rawtu3
+STUDY001,SUB0018,Week 12,2024-05-09,N01,New,Pleura,Multiple imaging,,,No,No,No,Not present,Dr. Smith,CT,2024-05-09,rawtu3
+STUDY001,SUB0018,Week 18,2024-06-20,N01,New,Pleura,Multiple imaging,9,7,Yes,No,Yes,New lesion detected,Dr. Johnson,PET-CT,2024-06-20,rawtu3
+STUDY001,SUB0018,Week 24,2024-08-01,N01,New,Pleura,Multiple imaging,12,10,Yes,No,Yes,New lesion detected,Dr. Johnson,MRI,2024-08-01,rawtu3
+STUDY001,SUB0018,End of Study,2024-09-12,N01,New,Pleura,Multiple imaging,6,3,Yes,No,Yes,New lesion detected,Dr. Smith,PET-CT,2024-09-12,rawtu3
+STUDY001,SUB0019,Screening,2024-02-15,N01,New,Pleura,Multiple imaging,17,10,Yes,No,Yes,Baseline,Dr. Johnson,CT,2024-02-15,rawtu3
+STUDY001,SUB0019,Week 6,2024-03-28,N01,New,Pleura,Multiple imaging,,,No,No,No,Not present,Dr. Smith,CT,2024-03-28,rawtu3
+STUDY001,SUB0019,Week 12,2024-05-09,N01,New,Pleura,Multiple imaging,,,No,No,No,Not present,Dr. Brown,MRI,2024-05-09,rawtu3
+STUDY001,SUB0019,Week 18,2024-06-20,N01,New,Pleura,Multiple imaging,12,8,Yes,No,Yes,New lesion detected,Dr. Smith,CT,2024-06-20,rawtu3
+STUDY001,SUB0019,Week 24,2024-08-01,N01,New,Pleura,Multiple imaging,13,8,Yes,No,Yes,New lesion detected,Dr. Johnson,MRI,2024-08-01,rawtu3
+STUDY001,SUB0019,End of Study,2024-09-12,N01,New,Pleura,Multiple imaging,8,4,Yes,No,Yes,New lesion detected,Dr. Smith,PET-CT,2024-09-12,rawtu3
+STUDY001,SUB0020,Screening,2024-02-15,N01,New,Pleura,Multiple imaging,14,11,Yes,No,Yes,Baseline,Dr. Smith,CT,2024-02-15,rawtu3
+STUDY001,SUB0020,Week 6,2024-03-28,N01,New,Pleura,Multiple imaging,,,No,No,No,Not present,Dr. Brown,CT,2024-03-28,rawtu3
+STUDY001,SUB0020,Week 12,2024-05-09,N01,New,Pleura,Multiple imaging,,,No,No,No,Not present,Dr. Johnson,CT,2024-05-09,rawtu3
+STUDY001,SUB0020,Week 18,2024-06-20,N01,New,Pleura,Multiple imaging,6,3,Yes,No,Yes,New lesion detected,Dr. Johnson,MRI,2024-06-20,rawtu3
+STUDY001,SUB0020,Week 24,2024-08-01,N01,New,Pleura,Multiple imaging,19,11,Yes,No,Yes,New lesion detected,Dr. Johnson,PET-CT,2024-08-01,rawtu3
+STUDY001,SUB0020,End of Study,2024-09-12,N01,New,Pleura,Multiple imaging,17,13,Yes,No,Yes,New lesion detected,Dr. Johnson,PET-CT,2024-09-12,rawtu3
+STUDY001,SUB0021,Screening,2024-02-15,N01,New,Peritoneum,Multiple imaging,9,7,Yes,No,Yes,Baseline,Dr. Johnson,PET-CT,2024-02-15,rawtu3
+STUDY001,SUB0021,Week 6,2024-03-28,N01,New,Peritoneum,Multiple imaging,,,No,No,No,Not present,Dr. Smith,PET-CT,2024-03-28,rawtu3
+STUDY001,SUB0021,Week 12,2024-05-09,N01,New,Peritoneum,Multiple imaging,,,No,No,No,Not present,Dr. Brown,PET-CT,2024-05-09,rawtu3
+STUDY001,SUB0021,Week 18,2024-06-20,N01,New,Peritoneum,Multiple imaging,6,4,Yes,No,Yes,New lesion detected,Dr. Brown,MRI,2024-06-20,rawtu3
+STUDY001,SUB0021,Week 24,2024-08-01,N01,New,Peritoneum,Multiple imaging,12,10,Yes,No,Yes,New lesion detected,Dr. Johnson,CT,2024-08-01,rawtu3
+STUDY001,SUB0021,End of Study,2024-09-12,N01,New,Peritoneum,Multiple imaging,12,8,Yes,No,Yes,New lesion detected,Dr. Smith,MRI,2024-09-12,rawtu3
+STUDY001,SUB0022,Screening,2024-02-15,N01,New,Pleura,Multiple imaging,14,12,Yes,No,Yes,Baseline,Dr. Smith,MRI,2024-02-15,rawtu3
+STUDY001,SUB0022,Week 6,2024-03-28,N01,New,Pleura,Multiple imaging,,,No,No,No,Not present,Dr. Johnson,PET-CT,2024-03-28,rawtu3
+STUDY001,SUB0022,Week 12,2024-05-09,N01,New,Pleura,Multiple imaging,,,No,No,No,Not present,Dr. Smith,CT,2024-05-09,rawtu3
+STUDY001,SUB0022,Week 18,2024-06-20,N01,New,Pleura,Multiple imaging,10,8,Yes,No,Yes,New lesion detected,Dr. Johnson,MRI,2024-06-20,rawtu3
+STUDY001,SUB0022,Week 24,2024-08-01,N01,New,Pleura,Multiple imaging,11,8,Yes,No,Yes,New lesion detected,Dr. Smith,PET-CT,2024-08-01,rawtu3
+STUDY001,SUB0022,End of Study,2024-09-12,N01,New,Pleura,Multiple imaging,16,13,Yes,No,Yes,New lesion detected,Dr. Brown,PET-CT,2024-09-12,rawtu3
+STUDY001,SUB0022,Screening,2024-02-15,N02,New,Other,Multiple imaging,18,11,Yes,No,Yes,Baseline,Dr. Johnson,PET-CT,2024-02-15,rawtu3
+STUDY001,SUB0022,Week 6,2024-03-28,N02,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Johnson,MRI,2024-03-28,rawtu3
+STUDY001,SUB0022,Week 12,2024-05-09,N02,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Johnson,CT,2024-05-09,rawtu3
+STUDY001,SUB0022,Week 18,2024-06-20,N02,New,Other,Multiple imaging,20,15,Yes,No,Yes,New lesion detected,Dr. Brown,PET-CT,2024-06-20,rawtu3
+STUDY001,SUB0022,Week 24,2024-08-01,N02,New,Other,Multiple imaging,16,10,Yes,No,Yes,New lesion detected,Dr. Smith,MRI,2024-08-01,rawtu3
+STUDY001,SUB0022,End of Study,2024-09-12,N02,New,Other,Multiple imaging,20,15,Yes,No,Yes,New lesion detected,Dr. Smith,CT,2024-09-12,rawtu3
+STUDY001,SUB0023,Screening,2024-02-15,N01,New,Other,Multiple imaging,12,8,Yes,No,Yes,Baseline,Dr. Smith,PET-CT,2024-02-15,rawtu3
+STUDY001,SUB0023,Week 6,2024-03-28,N01,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Johnson,PET-CT,2024-03-28,rawtu3
+STUDY001,SUB0023,Week 12,2024-05-09,N01,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Johnson,PET-CT,2024-05-09,rawtu3
+STUDY001,SUB0023,Week 18,2024-06-20,N01,New,Other,Multiple imaging,5,3,Yes,No,Yes,New lesion detected,Dr. Brown,CT,2024-06-20,rawtu3
+STUDY001,SUB0023,Week 24,2024-08-01,N01,New,Other,Multiple imaging,14,8,Yes,No,Yes,New lesion detected,Dr. Smith,PET-CT,2024-08-01,rawtu3
+STUDY001,SUB0023,End of Study,2024-09-12,N01,New,Other,Multiple imaging,5,3,Yes,No,Yes,New lesion detected,Dr. Smith,CT,2024-09-12,rawtu3
+STUDY001,SUB0024,Screening,2024-02-15,N01,New,Soft tissue,Multiple imaging,22,13,Yes,No,Yes,Baseline,Dr. Johnson,PET-CT,2024-02-15,rawtu3
+STUDY001,SUB0024,Week 6,2024-03-28,N01,New,Soft tissue,Multiple imaging,,,No,No,No,Not present,Dr. Brown,CT,2024-03-28,rawtu3
+STUDY001,SUB0024,Week 12,2024-05-09,N01,New,Soft tissue,Multiple imaging,,,No,No,No,Not present,Dr. Johnson,PET-CT,2024-05-09,rawtu3
+STUDY001,SUB0024,Week 18,2024-06-20,N01,New,Soft tissue,Multiple imaging,18,15,Yes,No,Yes,New lesion detected,Dr. Johnson,MRI,2024-06-20,rawtu3
+STUDY001,SUB0024,Week 24,2024-08-01,N01,New,Soft tissue,Multiple imaging,9,5,Yes,No,Yes,New lesion detected,Dr. Brown,PET-CT,2024-08-01,rawtu3
+STUDY001,SUB0024,End of Study,2024-09-12,N01,New,Soft tissue,Multiple imaging,5,4,Yes,No,Yes,New lesion detected,Dr. Johnson,CT,2024-09-12,rawtu3
+STUDY001,SUB0024,Screening,2024-02-15,N02,New,Pleura,Multiple imaging,15,13,Yes,No,Yes,Baseline,Dr. Smith,CT,2024-02-15,rawtu3
+STUDY001,SUB0024,Week 6,2024-03-28,N02,New,Pleura,Multiple imaging,,,No,No,No,Not present,Dr. Johnson,MRI,2024-03-28,rawtu3
+STUDY001,SUB0024,Week 12,2024-05-09,N02,New,Pleura,Multiple imaging,,,No,No,No,Not present,Dr. Brown,MRI,2024-05-09,rawtu3
+STUDY001,SUB0024,Week 18,2024-06-20,N02,New,Pleura,Multiple imaging,14,9,Yes,No,Yes,New lesion detected,Dr. Brown,MRI,2024-06-20,rawtu3
+STUDY001,SUB0024,Week 24,2024-08-01,N02,New,Pleura,Multiple imaging,12,7,Yes,No,Yes,New lesion detected,Dr. Johnson,MRI,2024-08-01,rawtu3
+STUDY001,SUB0024,End of Study,2024-09-12,N02,New,Pleura,Multiple imaging,15,10,Yes,No,Yes,New lesion detected,Dr. Brown,CT,2024-09-12,rawtu3
+STUDY001,SUB0025,Screening,2024-02-15,N01,New,Other,Multiple imaging,21,17,Yes,No,Yes,Baseline,Dr. Johnson,CT,2024-02-15,rawtu3
+STUDY001,SUB0025,Week 6,2024-03-28,N01,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Smith,MRI,2024-03-28,rawtu3
+STUDY001,SUB0025,Week 12,2024-05-09,N01,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Johnson,MRI,2024-05-09,rawtu3
+STUDY001,SUB0025,Week 18,2024-06-20,N01,New,Other,Multiple imaging,5,3,Yes,No,Yes,New lesion detected,Dr. Johnson,MRI,2024-06-20,rawtu3
+STUDY001,SUB0025,Week 24,2024-08-01,N01,New,Other,Multiple imaging,9,7,Yes,No,Yes,New lesion detected,Dr. Smith,PET-CT,2024-08-01,rawtu3
+STUDY001,SUB0025,End of Study,2024-09-12,N01,New,Other,Multiple imaging,15,11,Yes,No,Yes,New lesion detected,Dr. Johnson,MRI,2024-09-12,rawtu3
+STUDY001,SUB0026,Screening,2024-02-15,N01,New,Other,Multiple imaging,8,6,Yes,No,Yes,Baseline,Dr. Brown,PET-CT,2024-02-15,rawtu3
+STUDY001,SUB0026,Week 6,2024-03-28,N01,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Smith,PET-CT,2024-03-28,rawtu3
+STUDY001,SUB0026,Week 12,2024-05-09,N01,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Johnson,PET-CT,2024-05-09,rawtu3
+STUDY001,SUB0026,Week 18,2024-06-20,N01,New,Other,Multiple imaging,9,7,Yes,No,Yes,New lesion detected,Dr. Smith,MRI,2024-06-20,rawtu3
+STUDY001,SUB0026,Week 24,2024-08-01,N01,New,Other,Multiple imaging,14,11,Yes,No,Yes,New lesion detected,Dr. Brown,PET-CT,2024-08-01,rawtu3
+STUDY001,SUB0026,End of Study,2024-09-12,N01,New,Other,Multiple imaging,19,15,Yes,No,Yes,New lesion detected,Dr. Smith,CT,2024-09-12,rawtu3
+STUDY001,SUB0027,Screening,2024-02-15,N01,New,Pleura,Multiple imaging,19,15,Yes,No,Yes,Baseline,Dr. Smith,CT,2024-02-15,rawtu3
+STUDY001,SUB0027,Week 6,2024-03-28,N01,New,Pleura,Multiple imaging,,,No,No,No,Not present,Dr. Brown,CT,2024-03-28,rawtu3
+STUDY001,SUB0027,Week 12,2024-05-09,N01,New,Pleura,Multiple imaging,,,No,No,No,Not present,Dr. Johnson,CT,2024-05-09,rawtu3
+STUDY001,SUB0027,Week 18,2024-06-20,N01,New,Pleura,Multiple imaging,13,8,Yes,No,Yes,New lesion detected,Dr. Brown,CT,2024-06-20,rawtu3
+STUDY001,SUB0027,Week 24,2024-08-01,N01,New,Pleura,Multiple imaging,7,5,Yes,No,Yes,New lesion detected,Dr. Brown,MRI,2024-08-01,rawtu3
+STUDY001,SUB0027,End of Study,2024-09-12,N01,New,Pleura,Multiple imaging,5,3,Yes,No,Yes,New lesion detected,Dr. Johnson,PET-CT,2024-09-12,rawtu3
+STUDY001,SUB0028,Screening,2024-02-15,N01,New,Soft tissue,Multiple imaging,6,3,Yes,No,Yes,Baseline,Dr. Johnson,CT,2024-02-15,rawtu3
+STUDY001,SUB0028,Week 6,2024-03-28,N01,New,Soft tissue,Multiple imaging,,,No,No,No,Not present,Dr. Brown,CT,2024-03-28,rawtu3
+STUDY001,SUB0028,Week 12,2024-05-09,N01,New,Soft tissue,Multiple imaging,,,No,No,No,Not present,Dr. Smith,PET-CT,2024-05-09,rawtu3
+STUDY001,SUB0028,Week 18,2024-06-20,N01,New,Soft tissue,Multiple imaging,8,6,Yes,No,Yes,New lesion detected,Dr. Brown,MRI,2024-06-20,rawtu3
+STUDY001,SUB0028,Week 24,2024-08-01,N01,New,Soft tissue,Multiple imaging,20,15,Yes,No,Yes,New lesion detected,Dr. Smith,CT,2024-08-01,rawtu3
+STUDY001,SUB0028,End of Study,2024-09-12,N01,New,Soft tissue,Multiple imaging,15,13,Yes,No,Yes,New lesion detected,Dr. Brown,MRI,2024-09-12,rawtu3
+STUDY001,SUB0029,Screening,2024-02-15,N01,New,Other,Multiple imaging,7,5,Yes,No,Yes,Baseline,Dr. Johnson,PET-CT,2024-02-15,rawtu3
+STUDY001,SUB0029,Week 6,2024-03-28,N01,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Brown,MRI,2024-03-28,rawtu3
+STUDY001,SUB0029,Week 12,2024-05-09,N01,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Johnson,PET-CT,2024-05-09,rawtu3
+STUDY001,SUB0029,Week 18,2024-06-20,N01,New,Other,Multiple imaging,15,13,Yes,No,Yes,New lesion detected,Dr. Johnson,CT,2024-06-20,rawtu3
+STUDY001,SUB0029,Week 24,2024-08-01,N01,New,Other,Multiple imaging,9,6,Yes,No,Yes,New lesion detected,Dr. Brown,CT,2024-08-01,rawtu3
+STUDY001,SUB0029,End of Study,2024-09-12,N01,New,Other,Multiple imaging,7,5,Yes,No,Yes,New lesion detected,Dr. Brown,MRI,2024-09-12,rawtu3
+STUDY001,SUB0029,Screening,2024-02-15,N02,New,Other,Multiple imaging,14,8,Yes,No,Yes,Baseline,Dr. Johnson,PET-CT,2024-02-15,rawtu3
+STUDY001,SUB0029,Week 6,2024-03-28,N02,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Brown,MRI,2024-03-28,rawtu3
+STUDY001,SUB0029,Week 12,2024-05-09,N02,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Johnson,CT,2024-05-09,rawtu3
+STUDY001,SUB0029,Week 18,2024-06-20,N02,New,Other,Multiple imaging,8,6,Yes,No,Yes,New lesion detected,Dr. Smith,CT,2024-06-20,rawtu3
+STUDY001,SUB0029,Week 24,2024-08-01,N02,New,Other,Multiple imaging,15,11,Yes,No,Yes,New lesion detected,Dr. Brown,PET-CT,2024-08-01,rawtu3
+STUDY001,SUB0029,End of Study,2024-09-12,N02,New,Other,Multiple imaging,19,16,Yes,No,Yes,New lesion detected,Dr. Smith,CT,2024-09-12,rawtu3
+STUDY001,SUB0030,Screening,2024-02-15,N01,New,Peritoneum,Multiple imaging,15,13,Yes,No,Yes,Baseline,Dr. Johnson,MRI,2024-02-15,rawtu3
+STUDY001,SUB0030,Week 6,2024-03-28,N01,New,Peritoneum,Multiple imaging,,,No,No,No,Not present,Dr. Smith,CT,2024-03-28,rawtu3
+STUDY001,SUB0030,Week 12,2024-05-09,N01,New,Peritoneum,Multiple imaging,,,No,No,No,Not present,Dr. Smith,CT,2024-05-09,rawtu3
+STUDY001,SUB0030,Week 18,2024-06-20,N01,New,Peritoneum,Multiple imaging,14,9,Yes,No,Yes,New lesion detected,Dr. Brown,PET-CT,2024-06-20,rawtu3
+STUDY001,SUB0030,Week 24,2024-08-01,N01,New,Peritoneum,Multiple imaging,18,14,Yes,No,Yes,New lesion detected,Dr. Smith,PET-CT,2024-08-01,rawtu3
+STUDY001,SUB0030,End of Study,2024-09-12,N01,New,Peritoneum,Multiple imaging,10,8,Yes,No,Yes,New lesion detected,Dr. Johnson,CT,2024-09-12,rawtu3
+STUDY001,SUB0031,Screening,2024-02-15,N01,New,Pleura,Multiple imaging,12,9,Yes,No,Yes,Baseline,Dr. Brown,CT,2024-02-15,rawtu3
+STUDY001,SUB0031,Week 6,2024-03-28,N01,New,Pleura,Multiple imaging,,,No,No,No,Not present,Dr. Brown,MRI,2024-03-28,rawtu3
+STUDY001,SUB0031,Week 12,2024-05-09,N01,New,Pleura,Multiple imaging,,,No,No,No,Not present,Dr. Johnson,MRI,2024-05-09,rawtu3
+STUDY001,SUB0031,Week 18,2024-06-20,N01,New,Pleura,Multiple imaging,6,3,Yes,No,Yes,New lesion detected,Dr. Johnson,CT,2024-06-20,rawtu3
+STUDY001,SUB0031,Week 24,2024-08-01,N01,New,Pleura,Multiple imaging,12,9,Yes,No,Yes,New lesion detected,Dr. Brown,PET-CT,2024-08-01,rawtu3
+STUDY001,SUB0031,End of Study,2024-09-12,N01,New,Pleura,Multiple imaging,17,13,Yes,No,Yes,New lesion detected,Dr. Brown,PET-CT,2024-09-12,rawtu3
+STUDY001,SUB0031,Screening,2024-02-15,N02,New,Pleura,Multiple imaging,12,7,Yes,No,Yes,Baseline,Dr. Smith,CT,2024-02-15,rawtu3
+STUDY001,SUB0031,Week 6,2024-03-28,N02,New,Pleura,Multiple imaging,,,No,No,No,Not present,Dr. Brown,CT,2024-03-28,rawtu3
+STUDY001,SUB0031,Week 12,2024-05-09,N02,New,Pleura,Multiple imaging,,,No,No,No,Not present,Dr. Smith,MRI,2024-05-09,rawtu3
+STUDY001,SUB0031,Week 18,2024-06-20,N02,New,Pleura,Multiple imaging,7,5,Yes,No,Yes,New lesion detected,Dr. Johnson,MRI,2024-06-20,rawtu3
+STUDY001,SUB0031,Week 24,2024-08-01,N02,New,Pleura,Multiple imaging,20,15,Yes,No,Yes,New lesion detected,Dr. Smith,MRI,2024-08-01,rawtu3
+STUDY001,SUB0031,End of Study,2024-09-12,N02,New,Pleura,Multiple imaging,19,11,Yes,No,Yes,New lesion detected,Dr. Brown,PET-CT,2024-09-12,rawtu3
+STUDY001,SUB0032,Screening,2024-02-15,N01,New,Peritoneum,Multiple imaging,11,7,Yes,No,Yes,Baseline,Dr. Brown,CT,2024-02-15,rawtu3
+STUDY001,SUB0032,Week 6,2024-03-28,N01,New,Peritoneum,Multiple imaging,,,No,No,No,Not present,Dr. Smith,CT,2024-03-28,rawtu3
+STUDY001,SUB0032,Week 12,2024-05-09,N01,New,Peritoneum,Multiple imaging,,,No,No,No,Not present,Dr. Brown,MRI,2024-05-09,rawtu3
+STUDY001,SUB0032,Week 18,2024-06-20,N01,New,Peritoneum,Multiple imaging,5,3,Yes,No,Yes,New lesion detected,Dr. Smith,MRI,2024-06-20,rawtu3
+STUDY001,SUB0032,Week 24,2024-08-01,N01,New,Peritoneum,Multiple imaging,14,10,Yes,No,Yes,New lesion detected,Dr. Johnson,CT,2024-08-01,rawtu3
+STUDY001,SUB0032,End of Study,2024-09-12,N01,New,Peritoneum,Multiple imaging,17,15,Yes,No,Yes,New lesion detected,Dr. Smith,CT,2024-09-12,rawtu3
+STUDY001,SUB0032,Screening,2024-02-15,N02,New,Soft tissue,Multiple imaging,24,19,Yes,No,Yes,Baseline,Dr. Brown,MRI,2024-02-15,rawtu3
+STUDY001,SUB0032,Week 6,2024-03-28,N02,New,Soft tissue,Multiple imaging,,,No,No,No,Not present,Dr. Johnson,MRI,2024-03-28,rawtu3
+STUDY001,SUB0032,Week 12,2024-05-09,N02,New,Soft tissue,Multiple imaging,,,No,No,No,Not present,Dr. Brown,CT,2024-05-09,rawtu3
+STUDY001,SUB0032,Week 18,2024-06-20,N02,New,Soft tissue,Multiple imaging,7,5,Yes,No,Yes,New lesion detected,Dr. Brown,PET-CT,2024-06-20,rawtu3
+STUDY001,SUB0032,Week 24,2024-08-01,N02,New,Soft tissue,Multiple imaging,6,3,Yes,No,Yes,New lesion detected,Dr. Johnson,PET-CT,2024-08-01,rawtu3
+STUDY001,SUB0032,End of Study,2024-09-12,N02,New,Soft tissue,Multiple imaging,17,11,Yes,No,Yes,New lesion detected,Dr. Johnson,MRI,2024-09-12,rawtu3
+STUDY001,SUB0033,Screening,2024-02-15,N01,New,Pleura,Multiple imaging,21,18,Yes,No,Yes,Baseline,Dr. Johnson,CT,2024-02-15,rawtu3
+STUDY001,SUB0033,Week 6,2024-03-28,N01,New,Pleura,Multiple imaging,,,No,No,No,Not present,Dr. Smith,MRI,2024-03-28,rawtu3
+STUDY001,SUB0033,Week 12,2024-05-09,N01,New,Pleura,Multiple imaging,,,No,No,No,Not present,Dr. Smith,PET-CT,2024-05-09,rawtu3
+STUDY001,SUB0033,Week 18,2024-06-20,N01,New,Pleura,Multiple imaging,16,13,Yes,No,Yes,New lesion detected,Dr. Smith,CT,2024-06-20,rawtu3
+STUDY001,SUB0033,Week 24,2024-08-01,N01,New,Pleura,Multiple imaging,11,7,Yes,No,Yes,New lesion detected,Dr. Brown,CT,2024-08-01,rawtu3
+STUDY001,SUB0033,End of Study,2024-09-12,N01,New,Pleura,Multiple imaging,15,9,Yes,No,Yes,New lesion detected,Dr. Brown,MRI,2024-09-12,rawtu3
+STUDY001,SUB0034,Screening,2024-02-15,N01,New,Soft tissue,Multiple imaging,9,7,Yes,No,Yes,Baseline,Dr. Brown,MRI,2024-02-15,rawtu3
+STUDY001,SUB0034,Week 6,2024-03-28,N01,New,Soft tissue,Multiple imaging,,,No,No,No,Not present,Dr. Smith,PET-CT,2024-03-28,rawtu3
+STUDY001,SUB0034,Week 12,2024-05-09,N01,New,Soft tissue,Multiple imaging,,,No,No,No,Not present,Dr. Smith,MRI,2024-05-09,rawtu3
+STUDY001,SUB0034,Week 18,2024-06-20,N01,New,Soft tissue,Multiple imaging,18,15,Yes,No,Yes,New lesion detected,Dr. Brown,PET-CT,2024-06-20,rawtu3
+STUDY001,SUB0034,Week 24,2024-08-01,N01,New,Soft tissue,Multiple imaging,8,6,Yes,No,Yes,New lesion detected,Dr. Brown,MRI,2024-08-01,rawtu3
+STUDY001,SUB0034,End of Study,2024-09-12,N01,New,Soft tissue,Multiple imaging,10,7,Yes,No,Yes,New lesion detected,Dr. Brown,CT,2024-09-12,rawtu3
+STUDY001,SUB0035,Screening,2024-02-15,N01,New,Soft tissue,Multiple imaging,21,17,Yes,No,Yes,Baseline,Dr. Johnson,PET-CT,2024-02-15,rawtu3
+STUDY001,SUB0035,Week 6,2024-03-28,N01,New,Soft tissue,Multiple imaging,,,No,No,No,Not present,Dr. Brown,CT,2024-03-28,rawtu3
+STUDY001,SUB0035,Week 12,2024-05-09,N01,New,Soft tissue,Multiple imaging,,,No,No,No,Not present,Dr. Johnson,CT,2024-05-09,rawtu3
+STUDY001,SUB0035,Week 18,2024-06-20,N01,New,Soft tissue,Multiple imaging,5,4,Yes,No,Yes,New lesion detected,Dr. Smith,MRI,2024-06-20,rawtu3
+STUDY001,SUB0035,Week 24,2024-08-01,N01,New,Soft tissue,Multiple imaging,7,5,Yes,No,Yes,New lesion detected,Dr. Brown,PET-CT,2024-08-01,rawtu3
+STUDY001,SUB0035,End of Study,2024-09-12,N01,New,Soft tissue,Multiple imaging,19,15,Yes,No,Yes,New lesion detected,Dr. Johnson,MRI,2024-09-12,rawtu3
+STUDY001,SUB0035,Screening,2024-02-15,N02,New,Soft tissue,Multiple imaging,24,18,Yes,No,Yes,Baseline,Dr. Smith,MRI,2024-02-15,rawtu3
+STUDY001,SUB0035,Week 6,2024-03-28,N02,New,Soft tissue,Multiple imaging,,,No,No,No,Not present,Dr. Brown,CT,2024-03-28,rawtu3
+STUDY001,SUB0035,Week 12,2024-05-09,N02,New,Soft tissue,Multiple imaging,,,No,No,No,Not present,Dr. Johnson,MRI,2024-05-09,rawtu3
+STUDY001,SUB0035,Week 18,2024-06-20,N02,New,Soft tissue,Multiple imaging,18,12,Yes,No,Yes,New lesion detected,Dr. Brown,CT,2024-06-20,rawtu3
+STUDY001,SUB0035,Week 24,2024-08-01,N02,New,Soft tissue,Multiple imaging,17,11,Yes,No,Yes,New lesion detected,Dr. Brown,CT,2024-08-01,rawtu3
+STUDY001,SUB0035,End of Study,2024-09-12,N02,New,Soft tissue,Multiple imaging,15,10,Yes,No,Yes,New lesion detected,Dr. Johnson,CT,2024-09-12,rawtu3
+STUDY001,SUB0036,Screening,2024-02-15,N01,New,Peritoneum,Multiple imaging,11,7,Yes,No,Yes,Baseline,Dr. Smith,PET-CT,2024-02-15,rawtu3
+STUDY001,SUB0036,Week 6,2024-03-28,N01,New,Peritoneum,Multiple imaging,,,No,No,No,Not present,Dr. Smith,PET-CT,2024-03-28,rawtu3
+STUDY001,SUB0036,Week 12,2024-05-09,N01,New,Peritoneum,Multiple imaging,,,No,No,No,Not present,Dr. Smith,CT,2024-05-09,rawtu3
+STUDY001,SUB0036,Week 18,2024-06-20,N01,New,Peritoneum,Multiple imaging,6,3,Yes,No,Yes,New lesion detected,Dr. Brown,MRI,2024-06-20,rawtu3
+STUDY001,SUB0036,Week 24,2024-08-01,N01,New,Peritoneum,Multiple imaging,20,12,Yes,No,Yes,New lesion detected,Dr. Brown,CT,2024-08-01,rawtu3
+STUDY001,SUB0036,End of Study,2024-09-12,N01,New,Peritoneum,Multiple imaging,7,5,Yes,No,Yes,New lesion detected,Dr. Johnson,MRI,2024-09-12,rawtu3
+STUDY001,SUB0037,Screening,2024-02-15,N01,New,Soft tissue,Multiple imaging,12,9,Yes,No,Yes,Baseline,Dr. Smith,CT,2024-02-15,rawtu3
+STUDY001,SUB0037,Week 6,2024-03-28,N01,New,Soft tissue,Multiple imaging,,,No,No,No,Not present,Dr. Johnson,MRI,2024-03-28,rawtu3
+STUDY001,SUB0037,Week 12,2024-05-09,N01,New,Soft tissue,Multiple imaging,,,No,No,No,Not present,Dr. Johnson,PET-CT,2024-05-09,rawtu3
+STUDY001,SUB0037,Week 18,2024-06-20,N01,New,Soft tissue,Multiple imaging,9,6,Yes,No,Yes,New lesion detected,Dr. Brown,CT,2024-06-20,rawtu3
+STUDY001,SUB0037,Week 24,2024-08-01,N01,New,Soft tissue,Multiple imaging,14,8,Yes,No,Yes,New lesion detected,Dr. Smith,MRI,2024-08-01,rawtu3
+STUDY001,SUB0037,End of Study,2024-09-12,N01,New,Soft tissue,Multiple imaging,5,4,Yes,No,Yes,New lesion detected,Dr. Brown,CT,2024-09-12,rawtu3
+STUDY001,SUB0037,Screening,2024-02-15,N02,New,Soft tissue,Multiple imaging,14,8,Yes,No,Yes,Baseline,Dr. Brown,MRI,2024-02-15,rawtu3
+STUDY001,SUB0037,Week 6,2024-03-28,N02,New,Soft tissue,Multiple imaging,,,No,No,No,Not present,Dr. Brown,MRI,2024-03-28,rawtu3
+STUDY001,SUB0037,Week 12,2024-05-09,N02,New,Soft tissue,Multiple imaging,,,No,No,No,Not present,Dr. Smith,MRI,2024-05-09,rawtu3
+STUDY001,SUB0037,Week 18,2024-06-20,N02,New,Soft tissue,Multiple imaging,17,11,Yes,No,Yes,New lesion detected,Dr. Smith,PET-CT,2024-06-20,rawtu3
+STUDY001,SUB0037,Week 24,2024-08-01,N02,New,Soft tissue,Multiple imaging,16,11,Yes,No,Yes,New lesion detected,Dr. Brown,PET-CT,2024-08-01,rawtu3
+STUDY001,SUB0037,End of Study,2024-09-12,N02,New,Soft tissue,Multiple imaging,9,7,Yes,No,Yes,New lesion detected,Dr. Smith,CT,2024-09-12,rawtu3
+STUDY001,SUB0038,Screening,2024-02-15,N01,New,Soft tissue,Multiple imaging,9,5,Yes,No,Yes,Baseline,Dr. Brown,CT,2024-02-15,rawtu3
+STUDY001,SUB0038,Week 6,2024-03-28,N01,New,Soft tissue,Multiple imaging,,,No,No,No,Not present,Dr. Smith,CT,2024-03-28,rawtu3
+STUDY001,SUB0038,Week 12,2024-05-09,N01,New,Soft tissue,Multiple imaging,,,No,No,No,Not present,Dr. Brown,CT,2024-05-09,rawtu3
+STUDY001,SUB0038,Week 18,2024-06-20,N01,New,Soft tissue,Multiple imaging,18,12,Yes,No,Yes,New lesion detected,Dr. Johnson,PET-CT,2024-06-20,rawtu3
+STUDY001,SUB0038,Week 24,2024-08-01,N01,New,Soft tissue,Multiple imaging,13,9,Yes,No,Yes,New lesion detected,Dr. Smith,PET-CT,2024-08-01,rawtu3
+STUDY001,SUB0038,End of Study,2024-09-12,N01,New,Soft tissue,Multiple imaging,5,3,Yes,No,Yes,New lesion detected,Dr. Brown,CT,2024-09-12,rawtu3
+STUDY001,SUB0038,Screening,2024-02-15,N02,New,Other,Multiple imaging,11,9,Yes,No,Yes,Baseline,Dr. Johnson,CT,2024-02-15,rawtu3
+STUDY001,SUB0038,Week 6,2024-03-28,N02,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Smith,PET-CT,2024-03-28,rawtu3
+STUDY001,SUB0038,Week 12,2024-05-09,N02,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Johnson,CT,2024-05-09,rawtu3
+STUDY001,SUB0038,Week 18,2024-06-20,N02,New,Other,Multiple imaging,18,14,Yes,No,Yes,New lesion detected,Dr. Smith,CT,2024-06-20,rawtu3
+STUDY001,SUB0038,Week 24,2024-08-01,N02,New,Other,Multiple imaging,10,8,Yes,No,Yes,New lesion detected,Dr. Brown,CT,2024-08-01,rawtu3
+STUDY001,SUB0038,End of Study,2024-09-12,N02,New,Other,Multiple imaging,9,7,Yes,No,Yes,New lesion detected,Dr. Brown,MRI,2024-09-12,rawtu3
+STUDY001,SUB0039,Screening,2024-02-15,N01,New,Pleura,Multiple imaging,19,14,Yes,No,Yes,Baseline,Dr. Brown,CT,2024-02-15,rawtu3
+STUDY001,SUB0039,Week 6,2024-03-28,N01,New,Pleura,Multiple imaging,,,No,No,No,Not present,Dr. Brown,PET-CT,2024-03-28,rawtu3
+STUDY001,SUB0039,Week 12,2024-05-09,N01,New,Pleura,Multiple imaging,,,No,No,No,Not present,Dr. Johnson,MRI,2024-05-09,rawtu3
+STUDY001,SUB0039,Week 18,2024-06-20,N01,New,Pleura,Multiple imaging,10,8,Yes,No,Yes,New lesion detected,Dr. Brown,CT,2024-06-20,rawtu3
+STUDY001,SUB0039,Week 24,2024-08-01,N01,New,Pleura,Multiple imaging,11,9,Yes,No,Yes,New lesion detected,Dr. Smith,CT,2024-08-01,rawtu3
+STUDY001,SUB0039,End of Study,2024-09-12,N01,New,Pleura,Multiple imaging,9,6,Yes,No,Yes,New lesion detected,Dr. Brown,CT,2024-09-12,rawtu3
+STUDY001,SUB0039,Screening,2024-02-15,N02,New,Other,Multiple imaging,13,8,Yes,No,Yes,Baseline,Dr. Brown,MRI,2024-02-15,rawtu3
+STUDY001,SUB0039,Week 6,2024-03-28,N02,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Johnson,CT,2024-03-28,rawtu3
+STUDY001,SUB0039,Week 12,2024-05-09,N02,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Johnson,PET-CT,2024-05-09,rawtu3
+STUDY001,SUB0039,Week 18,2024-06-20,N02,New,Other,Multiple imaging,7,5,Yes,No,Yes,New lesion detected,Dr. Johnson,CT,2024-06-20,rawtu3
+STUDY001,SUB0039,Week 24,2024-08-01,N02,New,Other,Multiple imaging,8,7,Yes,No,Yes,New lesion detected,Dr. Brown,CT,2024-08-01,rawtu3
+STUDY001,SUB0039,End of Study,2024-09-12,N02,New,Other,Multiple imaging,11,8,Yes,No,Yes,New lesion detected,Dr. Smith,MRI,2024-09-12,rawtu3
+STUDY001,SUB0040,Screening,2024-02-15,N01,New,Other,Multiple imaging,10,8,Yes,No,Yes,Baseline,Dr. Smith,PET-CT,2024-02-15,rawtu3
+STUDY001,SUB0040,Week 6,2024-03-28,N01,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Brown,PET-CT,2024-03-28,rawtu3
+STUDY001,SUB0040,Week 12,2024-05-09,N01,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Brown,PET-CT,2024-05-09,rawtu3
+STUDY001,SUB0040,Week 18,2024-06-20,N01,New,Other,Multiple imaging,8,5,Yes,No,Yes,New lesion detected,Dr. Brown,CT,2024-06-20,rawtu3
+STUDY001,SUB0040,Week 24,2024-08-01,N01,New,Other,Multiple imaging,9,7,Yes,No,Yes,New lesion detected,Dr. Brown,CT,2024-08-01,rawtu3
+STUDY001,SUB0040,End of Study,2024-09-12,N01,New,Other,Multiple imaging,11,6,Yes,No,Yes,New lesion detected,Dr. Brown,MRI,2024-09-12,rawtu3
+STUDY001,SUB0041,Screening,2024-02-15,N01,New,Other,Multiple imaging,17,13,Yes,No,Yes,Baseline,Dr. Johnson,MRI,2024-02-15,rawtu3
+STUDY001,SUB0041,Week 6,2024-03-28,N01,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Brown,MRI,2024-03-28,rawtu3
+STUDY001,SUB0041,Week 12,2024-05-09,N01,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Brown,MRI,2024-05-09,rawtu3
+STUDY001,SUB0041,Week 18,2024-06-20,N01,New,Other,Multiple imaging,5,3,Yes,No,Yes,New lesion detected,Dr. Johnson,PET-CT,2024-06-20,rawtu3
+STUDY001,SUB0041,Week 24,2024-08-01,N01,New,Other,Multiple imaging,14,8,Yes,No,Yes,New lesion detected,Dr. Smith,MRI,2024-08-01,rawtu3
+STUDY001,SUB0041,End of Study,2024-09-12,N01,New,Other,Multiple imaging,18,15,Yes,No,Yes,New lesion detected,Dr. Brown,CT,2024-09-12,rawtu3
+STUDY001,SUB0042,Screening,2024-02-15,N01,New,Pleura,Multiple imaging,10,8,Yes,No,Yes,Baseline,Dr. Smith,CT,2024-02-15,rawtu3
+STUDY001,SUB0042,Week 6,2024-03-28,N01,New,Pleura,Multiple imaging,,,No,No,No,Not present,Dr. Smith,CT,2024-03-28,rawtu3
+STUDY001,SUB0042,Week 12,2024-05-09,N01,New,Pleura,Multiple imaging,,,No,No,No,Not present,Dr. Johnson,CT,2024-05-09,rawtu3
+STUDY001,SUB0042,Week 18,2024-06-20,N01,New,Pleura,Multiple imaging,12,10,Yes,No,Yes,New lesion detected,Dr. Brown,PET-CT,2024-06-20,rawtu3
+STUDY001,SUB0042,Week 24,2024-08-01,N01,New,Pleura,Multiple imaging,14,8,Yes,No,Yes,New lesion detected,Dr. Brown,CT,2024-08-01,rawtu3
+STUDY001,SUB0042,End of Study,2024-09-12,N01,New,Pleura,Multiple imaging,18,14,Yes,No,Yes,New lesion detected,Dr. Johnson,MRI,2024-09-12,rawtu3
+STUDY001,SUB0042,Screening,2024-02-15,N02,New,Pleura,Multiple imaging,8,7,Yes,No,Yes,Baseline,Dr. Johnson,MRI,2024-02-15,rawtu3
+STUDY001,SUB0042,Week 6,2024-03-28,N02,New,Pleura,Multiple imaging,,,No,No,No,Not present,Dr. Brown,PET-CT,2024-03-28,rawtu3
+STUDY001,SUB0042,Week 12,2024-05-09,N02,New,Pleura,Multiple imaging,,,No,No,No,Not present,Dr. Smith,CT,2024-05-09,rawtu3
+STUDY001,SUB0042,Week 18,2024-06-20,N02,New,Pleura,Multiple imaging,9,7,Yes,No,Yes,New lesion detected,Dr. Brown,MRI,2024-06-20,rawtu3
+STUDY001,SUB0042,Week 24,2024-08-01,N02,New,Pleura,Multiple imaging,15,12,Yes,No,Yes,New lesion detected,Dr. Brown,MRI,2024-08-01,rawtu3
+STUDY001,SUB0042,End of Study,2024-09-12,N02,New,Pleura,Multiple imaging,7,4,Yes,No,Yes,New lesion detected,Dr. Johnson,MRI,2024-09-12,rawtu3
+STUDY001,SUB0043,Screening,2024-02-15,N01,New,Soft tissue,Multiple imaging,17,14,Yes,No,Yes,Baseline,Dr. Johnson,MRI,2024-02-15,rawtu3
+STUDY001,SUB0043,Week 6,2024-03-28,N01,New,Soft tissue,Multiple imaging,,,No,No,No,Not present,Dr. Smith,PET-CT,2024-03-28,rawtu3
+STUDY001,SUB0043,Week 12,2024-05-09,N01,New,Soft tissue,Multiple imaging,,,No,No,No,Not present,Dr. Johnson,CT,2024-05-09,rawtu3
+STUDY001,SUB0043,Week 18,2024-06-20,N01,New,Soft tissue,Multiple imaging,9,5,Yes,No,Yes,New lesion detected,Dr. Johnson,PET-CT,2024-06-20,rawtu3
+STUDY001,SUB0043,Week 24,2024-08-01,N01,New,Soft tissue,Multiple imaging,18,15,Yes,No,Yes,New lesion detected,Dr. Johnson,CT,2024-08-01,rawtu3
+STUDY001,SUB0043,End of Study,2024-09-12,N01,New,Soft tissue,Multiple imaging,7,4,Yes,No,Yes,New lesion detected,Dr. Smith,CT,2024-09-12,rawtu3
+STUDY001,SUB0044,Screening,2024-02-15,N01,New,Pleura,Multiple imaging,20,15,Yes,No,Yes,Baseline,Dr. Brown,CT,2024-02-15,rawtu3
+STUDY001,SUB0044,Week 6,2024-03-28,N01,New,Pleura,Multiple imaging,,,No,No,No,Not present,Dr. Brown,CT,2024-03-28,rawtu3
+STUDY001,SUB0044,Week 12,2024-05-09,N01,New,Pleura,Multiple imaging,,,No,No,No,Not present,Dr. Brown,CT,2024-05-09,rawtu3
+STUDY001,SUB0044,Week 18,2024-06-20,N01,New,Pleura,Multiple imaging,9,6,Yes,No,Yes,New lesion detected,Dr. Johnson,CT,2024-06-20,rawtu3
+STUDY001,SUB0044,Week 24,2024-08-01,N01,New,Pleura,Multiple imaging,20,16,Yes,No,Yes,New lesion detected,Dr. Smith,CT,2024-08-01,rawtu3
+STUDY001,SUB0044,End of Study,2024-09-12,N01,New,Pleura,Multiple imaging,15,9,Yes,No,Yes,New lesion detected,Dr. Brown,MRI,2024-09-12,rawtu3
+STUDY001,SUB0044,Screening,2024-02-15,N02,New,Pleura,Multiple imaging,5,4,Yes,No,Yes,Baseline,Dr. Johnson,MRI,2024-02-15,rawtu3
+STUDY001,SUB0044,Week 6,2024-03-28,N02,New,Pleura,Multiple imaging,,,No,No,No,Not present,Dr. Brown,CT,2024-03-28,rawtu3
+STUDY001,SUB0044,Week 12,2024-05-09,N02,New,Pleura,Multiple imaging,,,No,No,No,Not present,Dr. Brown,MRI,2024-05-09,rawtu3
+STUDY001,SUB0044,Week 18,2024-06-20,N02,New,Pleura,Multiple imaging,9,7,Yes,No,Yes,New lesion detected,Dr. Smith,CT,2024-06-20,rawtu3
+STUDY001,SUB0044,Week 24,2024-08-01,N02,New,Pleura,Multiple imaging,16,13,Yes,No,Yes,New lesion detected,Dr. Smith,PET-CT,2024-08-01,rawtu3
+STUDY001,SUB0044,End of Study,2024-09-12,N02,New,Pleura,Multiple imaging,9,5,Yes,No,Yes,New lesion detected,Dr. Brown,CT,2024-09-12,rawtu3
+STUDY001,SUB0045,Screening,2024-02-15,N01,New,Other,Multiple imaging,15,9,Yes,No,Yes,Baseline,Dr. Johnson,CT,2024-02-15,rawtu3
+STUDY001,SUB0045,Week 6,2024-03-28,N01,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Brown,CT,2024-03-28,rawtu3
+STUDY001,SUB0045,Week 12,2024-05-09,N01,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Brown,MRI,2024-05-09,rawtu3
+STUDY001,SUB0045,Week 18,2024-06-20,N01,New,Other,Multiple imaging,14,10,Yes,No,Yes,New lesion detected,Dr. Smith,CT,2024-06-20,rawtu3
+STUDY001,SUB0045,Week 24,2024-08-01,N01,New,Other,Multiple imaging,9,7,Yes,No,Yes,New lesion detected,Dr. Johnson,CT,2024-08-01,rawtu3
+STUDY001,SUB0045,End of Study,2024-09-12,N01,New,Other,Multiple imaging,9,6,Yes,No,Yes,New lesion detected,Dr. Brown,CT,2024-09-12,rawtu3
+STUDY001,SUB0046,Screening,2024-02-15,N01,New,Other,Multiple imaging,10,8,Yes,No,Yes,Baseline,Dr. Smith,MRI,2024-02-15,rawtu3
+STUDY001,SUB0046,Week 6,2024-03-28,N01,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Johnson,MRI,2024-03-28,rawtu3
+STUDY001,SUB0046,Week 12,2024-05-09,N01,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Brown,CT,2024-05-09,rawtu3
+STUDY001,SUB0046,Week 18,2024-06-20,N01,New,Other,Multiple imaging,16,14,Yes,No,Yes,New lesion detected,Dr. Smith,MRI,2024-06-20,rawtu3
+STUDY001,SUB0046,Week 24,2024-08-01,N01,New,Other,Multiple imaging,11,6,Yes,No,Yes,New lesion detected,Dr. Smith,CT,2024-08-01,rawtu3
+STUDY001,SUB0046,End of Study,2024-09-12,N01,New,Other,Multiple imaging,18,15,Yes,No,Yes,New lesion detected,Dr. Brown,PET-CT,2024-09-12,rawtu3
+STUDY001,SUB0047,Screening,2024-02-15,N01,New,Other,Multiple imaging,22,14,Yes,No,Yes,Baseline,Dr. Smith,CT,2024-02-15,rawtu3
+STUDY001,SUB0047,Week 6,2024-03-28,N01,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Smith,CT,2024-03-28,rawtu3
+STUDY001,SUB0047,Week 12,2024-05-09,N01,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Johnson,MRI,2024-05-09,rawtu3
+STUDY001,SUB0047,Week 18,2024-06-20,N01,New,Other,Multiple imaging,10,6,Yes,No,Yes,New lesion detected,Dr. Smith,MRI,2024-06-20,rawtu3
+STUDY001,SUB0047,Week 24,2024-08-01,N01,New,Other,Multiple imaging,13,9,Yes,No,Yes,New lesion detected,Dr. Smith,MRI,2024-08-01,rawtu3
+STUDY001,SUB0047,End of Study,2024-09-12,N01,New,Other,Multiple imaging,12,7,Yes,No,Yes,New lesion detected,Dr. Smith,MRI,2024-09-12,rawtu3
+STUDY001,SUB0047,Screening,2024-02-15,N02,New,Other,Multiple imaging,23,16,Yes,No,Yes,Baseline,Dr. Johnson,MRI,2024-02-15,rawtu3
+STUDY001,SUB0047,Week 6,2024-03-28,N02,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Smith,CT,2024-03-28,rawtu3
+STUDY001,SUB0047,Week 12,2024-05-09,N02,New,Other,Multiple imaging,,,No,No,No,Not present,Dr. Johnson,CT,2024-05-09,rawtu3
+STUDY001,SUB0047,Week 18,2024-06-20,N02,New,Other,Multiple imaging,5,3,Yes,No,Yes,New lesion detected,Dr. Smith,CT,2024-06-20,rawtu3
+STUDY001,SUB0047,Week 24,2024-08-01,N02,New,Other,Multiple imaging,18,11,Yes,No,Yes,New lesion detected,Dr. Brown,CT,2024-08-01,rawtu3
+STUDY001,SUB0047,End of Study,2024-09-12,N02,New,Other,Multiple imaging,18,13,Yes,No,Yes,New lesion detected,Dr. Brown,CT,2024-09-12,rawtu3
+STUDY001,SUB0048,Screening,2024-02-15,N01,New,Peritoneum,Multiple imaging,10,8,Yes,No,Yes,Baseline,Dr. Brown,PET-CT,2024-02-15,rawtu3
+STUDY001,SUB0048,Week 6,2024-03-28,N01,New,Peritoneum,Multiple imaging,,,No,No,No,Not present,Dr. Brown,MRI,2024-03-28,rawtu3
+STUDY001,SUB0048,Week 12,2024-05-09,N01,New,Peritoneum,Multiple imaging,,,No,No,No,Not present,Dr. Smith,CT,2024-05-09,rawtu3
+STUDY001,SUB0048,Week 18,2024-06-20,N01,New,Peritoneum,Multiple imaging,5,4,Yes,No,Yes,New lesion detected,Dr. Johnson,CT,2024-06-20,rawtu3
+STUDY001,SUB0048,Week 24,2024-08-01,N01,New,Peritoneum,Multiple imaging,16,10,Yes,No,Yes,New lesion detected,Dr. Brown,CT,2024-08-01,rawtu3
+STUDY001,SUB0048,End of Study,2024-09-12,N01,New,Peritoneum,Multiple imaging,6,4,Yes,No,Yes,New lesion detected,Dr. Johnson,PET-CT,2024-09-12,rawtu3
+STUDY001,SUB0049,Screening,2024-02-15,N01,New,Pleura,Multiple imaging,9,5,Yes,No,Yes,Baseline,Dr. Johnson,MRI,2024-02-15,rawtu3
+STUDY001,SUB0049,Week 6,2024-03-28,N01,New,Pleura,Multiple imaging,,,No,No,No,Not present,Dr. Johnson,PET-CT,2024-03-28,rawtu3
+STUDY001,SUB0049,Week 12,2024-05-09,N01,New,Pleura,Multiple imaging,,,No,No,No,Not present,Dr. Brown,MRI,2024-05-09,rawtu3
+STUDY001,SUB0049,Week 18,2024-06-20,N01,New,Pleura,Multiple imaging,11,7,Yes,No,Yes,New lesion detected,Dr. Johnson,CT,2024-06-20,rawtu3
+STUDY001,SUB0049,Week 24,2024-08-01,N01,New,Pleura,Multiple imaging,7,4,Yes,No,Yes,New lesion detected,Dr. Johnson,PET-CT,2024-08-01,rawtu3
+STUDY001,SUB0049,End of Study,2024-09-12,N01,New,Pleura,Multiple imaging,10,7,Yes,No,Yes,New lesion detected,Dr. Smith,PET-CT,2024-09-12,rawtu3
+STUDY001,SUB0049,Screening,2024-02-15,N02,New,Peritoneum,Multiple imaging,23,19,Yes,No,Yes,Baseline,Dr. Smith,PET-CT,2024-02-15,rawtu3
+STUDY001,SUB0049,Week 6,2024-03-28,N02,New,Peritoneum,Multiple imaging,,,No,No,No,Not present,Dr. Johnson,MRI,2024-03-28,rawtu3
+STUDY001,SUB0049,Week 12,2024-05-09,N02,New,Peritoneum,Multiple imaging,,,No,No,No,Not present,Dr. Brown,CT,2024-05-09,rawtu3
+STUDY001,SUB0049,Week 18,2024-06-20,N02,New,Peritoneum,Multiple imaging,20,16,Yes,No,Yes,New lesion detected,Dr. Brown,PET-CT,2024-06-20,rawtu3
+STUDY001,SUB0049,Week 24,2024-08-01,N02,New,Peritoneum,Multiple imaging,17,11,Yes,No,Yes,New lesion detected,Dr. Johnson,PET-CT,2024-08-01,rawtu3
+STUDY001,SUB0049,End of Study,2024-09-12,N02,New,Peritoneum,Multiple imaging,16,10,Yes,No,Yes,New lesion detected,Dr. Brown,PET-CT,2024-09-12,rawtu3
+STUDY001,SUB0050,Screening,2024-02-15,N01,New,Peritoneum,Multiple imaging,5,4,Yes,No,Yes,Baseline,Dr. Smith,MRI,2024-02-15,rawtu3
+STUDY001,SUB0050,Week 6,2024-03-28,N01,New,Peritoneum,Multiple imaging,,,No,No,No,Not present,Dr. Smith,CT,2024-03-28,rawtu3
+STUDY001,SUB0050,Week 12,2024-05-09,N01,New,Peritoneum,Multiple imaging,,,No,No,No,Not present,Dr. Brown,MRI,2024-05-09,rawtu3
+STUDY001,SUB0050,Week 18,2024-06-20,N01,New,Peritoneum,Multiple imaging,14,12,Yes,No,Yes,New lesion detected,Dr. Johnson,CT,2024-06-20,rawtu3
+STUDY001,SUB0050,Week 24,2024-08-01,N01,New,Peritoneum,Multiple imaging,10,8,Yes,No,Yes,New lesion detected,Dr. Brown,CT,2024-08-01,rawtu3
+STUDY001,SUB0050,End of Study,2024-09-12,N01,New,Peritoneum,Multiple imaging,16,9,Yes,No,Yes,New lesion detected,Dr. Johnson,MRI,2024-09-12,rawtu3

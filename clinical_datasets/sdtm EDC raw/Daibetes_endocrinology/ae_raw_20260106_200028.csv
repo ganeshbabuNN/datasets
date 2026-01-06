@@ -1,0 +1,61 @@
+study_id,subject_id,ae_number,event_term,start_date,start_time,end_date,end_time,ongoing,severity,serious,relationship_to_study_drug,action_taken,outcome,hospitalization,life_threatening,disability,death,congenital_anomaly,medically_important,reporter,report_date,treatment_given,treatment_details
+STUDY001,SUB0001,AE001,Hypoglycemia,2024-03-31,18:02,2024-04-03,09:26,No,Mild,Yes,Possibly Related,Dose reduced,Not resolved,No,No,No,No,No,Yes,Study Coordinator,2024-03-31,No,
+STUDY001,SUB0002,AE001,Hyperglycemia,2024-04-03,10:08,2024-04-22,15:41,No,Mild,No,Probably Related,Drug withdrawn,Resolving,No,No,No,No,No,Yes,Investigator,2024-04-03,Yes,
+STUDY001,SUB0002,AE002,Hypoglycemia,2024-04-18,17:57,2024-04-26,18:52,No,Mild,No,Probably Related,Drug withdrawn,Not resolved,No,No,No,No,No,No,Subject,2024-04-18,No,
+STUDY001,SUB0004,AE001,Weight gain,2024-03-26,08:12,,,Yes,Mild,No,Definitely Related,Drug withdrawn,Not resolved,No,No,No,No,No,No,Subject,2024-03-26,No,Symptomatic treatment
+STUDY001,SUB0004,AE002,UTI,2024-04-10,20:12,,,Yes,Mild,No,Not Related,Dose reduced,Not resolved,Yes,No,No,No,No,No,Study Coordinator,2024-04-10,No,
+STUDY001,SUB0004,AE003,Diarrhea,2024-04-08,08:54,,,Yes,Mild,No,Probably Related,Dose reduced,Not resolved,No,No,No,No,No,No,Investigator,2024-04-08,Yes,
+STUDY001,SUB0005,AE001,Injection site reaction,2024-04-26,16:07,,,Yes,Moderate,No,Possibly Related,Dose reduced,Not resolved,No,No,No,No,No,No,Subject,2024-04-26,Yes,
+STUDY001,SUB0006,AE001,Hypoglycemia,2024-08-08,15:25,,,Yes,Mild,No,Probably Related,Drug withdrawn,Not resolved,No,No,No,No,No,Yes,Study Coordinator,2024-08-08,Yes,
+STUDY001,SUB0007,AE001,Weight gain,2024-04-20,17:29,,,Yes,Moderate,No,Probably Related,Dose interrupted,Not resolved,No,No,No,No,No,No,Investigator,2024-04-20,Yes,
+STUDY001,SUB0008,AE001,Weight gain,2024-05-19,18:21,2024-05-26,17:47,No,Mild,No,Probably Related,None,Resolving,No,No,No,No,No,No,Subject,2024-05-19,Yes,Supportive care
+STUDY001,SUB0008,AE002,Injection site reaction,2024-03-18,12:40,,,Yes,Moderate,No,Not Related,Dose interrupted,Not resolved,No,No,No,No,No,No,Subject,2024-03-18,No,
+STUDY001,SUB0008,AE003,Diarrhea,2024-04-04,17:26,2024-04-22,12:31,No,Mild,Yes,Possibly Related,Dose interrupted,Not resolved,No,No,No,No,No,No,Subject,2024-04-04,Yes,
+STUDY001,SUB0010,AE001,Injection site reaction,2024-03-11,11:05,2024-03-12,19:30,No,Mild,Yes,Possibly Related,Drug withdrawn,Resolved,No,No,No,No,No,No,Subject,2024-03-11,No,
+STUDY001,SUB0010,AE002,UTI,2024-04-10,17:14,,,Yes,Mild,Yes,Possibly Related,Drug withdrawn,Not resolved,No,No,No,No,No,No,Investigator,2024-04-10,Yes,
+STUDY001,SUB0011,AE001,Weight gain,2024-07-01,18:12,2024-07-14,16:04,No,Mild,No,Definitely Related,None,Resolved,No,No,No,No,No,No,Subject,2024-07-01,Yes,Symptomatic treatment
+STUDY001,SUB0012,AE001,UTI,2024-02-21,17:33,2024-03-01,18:21,No,Mild,No,Probably Related,Drug withdrawn,Not resolved,No,No,No,No,No,No,Study Coordinator,2024-02-21,Yes,
+STUDY001,SUB0012,AE002,Nausea,2024-03-03,08:49,2024-03-09,14:00,No,Moderate,No,Probably Related,None,Resolved with sequelae,No,No,No,No,No,No,Subject,2024-03-03,Yes,Supportive care
+STUDY001,SUB0013,AE001,Diarrhea,2024-07-18,17:14,2024-07-23,08:15,No,Mild,No,Not Related,Dose reduced,Resolved,No,No,No,No,No,No,Study Coordinator,2024-07-18,Yes,
+STUDY001,SUB0013,AE002,Weight gain,2024-09-01,10:34,,,Yes,Moderate,No,Not Related,Drug withdrawn,Not resolved,Yes,No,No,No,No,No,Subject,2024-09-01,No,
+STUDY001,SUB0015,AE001,Hypoglycemia,2024-05-08,19:11,,,Yes,Moderate,Yes,Probably Related,Dose interrupted,Not resolved,Yes,No,No,No,No,No,Investigator,2024-05-08,Yes,Supportive care
+STUDY001,SUB0017,AE001,Nausea,2024-07-26,14:22,2024-08-13,15:55,No,Moderate,No,Not Related,None,Not resolved,No,No,No,No,No,No,Study Coordinator,2024-07-26,Yes,
+STUDY001,SUB0017,AE002,Hyperglycemia,2024-08-26,15:21,,,Yes,Mild,No,Not Related,Dose interrupted,Not resolved,No,No,No,No,No,No,Investigator,2024-08-26,Yes,Symptomatic treatment
+STUDY001,SUB0019,AE001,Diarrhea,2024-08-02,13:54,2024-08-17,15:01,No,Mild,No,Not Related,Dose reduced,Resolved,No,No,No,No,No,No,Subject,2024-08-02,No,Supportive care
+STUDY001,SUB0019,AE002,Hyperglycemia,2024-07-30,14:41,,,Yes,Mild,No,Not Related,None,Not resolved,No,No,No,No,No,No,Subject,2024-07-30,No,Symptomatic treatment
+STUDY001,SUB0020,AE001,Weight gain,2024-04-12,08:53,2024-04-15,15:30,No,Mild,No,Possibly Related,Dose reduced,Resolving,No,No,No,No,No,No,Subject,2024-04-12,No,
+STUDY001,SUB0022,AE001,UTI,2024-03-16,15:03,,,Yes,Moderate,No,Possibly Related,Dose interrupted,Not resolved,Yes,No,No,No,No,Yes,Subject,2024-03-16,Yes,
+STUDY001,SUB0022,AE002,Diarrhea,2024-03-28,08:49,2024-04-18,12:22,No,Moderate,No,Not Related,Drug withdrawn,Resolving,No,No,No,No,No,No,Subject,2024-03-28,Yes,
+STUDY001,SUB0024,AE001,Hyperglycemia,2024-03-27,08:39,2024-04-13,14:42,No,Mild,Yes,Probably Related,Dose reduced,Not resolved,No,No,No,No,No,No,Subject,2024-03-27,No,
+STUDY001,SUB0026,AE001,Hypoglycemia,2024-06-14,09:52,,,Yes,Mild,No,Possibly Related,Dose reduced,Not resolved,No,No,No,No,No,No,Study Coordinator,2024-06-14,No,Symptomatic treatment
+STUDY001,SUB0026,AE002,UTI,2024-06-21,11:13,,,Yes,Mild,Yes,Possibly Related,Dose interrupted,Not resolved,No,No,No,No,No,No,Investigator,2024-06-21,Yes,
+STUDY001,SUB0026,AE003,Weight gain,2024-07-02,11:41,2024-07-11,15:09,No,Mild,No,Possibly Related,Dose reduced,Resolved,No,No,No,No,No,No,Investigator,2024-07-02,Yes,
+STUDY001,SUB0027,AE001,Diarrhea,2024-06-05,08:01,2024-06-24,10:44,No,Mild,No,Probably Related,None,Resolved with sequelae,No,No,No,No,No,No,Investigator,2024-06-05,Yes,
+STUDY001,SUB0027,AE002,Diarrhea,2024-04-19,16:11,2024-05-08,09:26,No,Mild,Yes,Possibly Related,Drug withdrawn,Resolving,No,No,No,No,No,No,Investigator,2024-04-19,Yes,
+STUDY001,SUB0029,AE001,Injection site reaction,2024-02-22,08:50,,,Yes,Moderate,Yes,Not Related,Dose reduced,Not resolved,No,No,No,No,No,No,Study Coordinator,2024-02-22,No,
+STUDY001,SUB0029,AE002,Nausea,2024-03-17,15:43,2024-03-21,20:45,No,Mild,Yes,Possibly Related,Dose reduced,Resolving,No,No,No,No,No,No,Subject,2024-03-17,No,Symptomatic treatment
+STUDY001,SUB0030,AE001,Diarrhea,2024-07-16,14:34,,,Yes,Mild,Yes,Not Related,Drug withdrawn,Not resolved,No,No,No,No,No,No,Study Coordinator,2024-07-16,No,Supportive care
+STUDY001,SUB0031,AE001,Hyperglycemia,2024-03-09,15:58,2024-03-19,15:55,No,Mild,Yes,Not Related,Dose reduced,Not resolved,No,No,No,No,No,Yes,Subject,2024-03-09,No,
+STUDY001,SUB0031,AE002,Hyperglycemia,2024-01-21,20:37,2024-02-06,14:48,No,Moderate,Yes,Probably Related,Dose reduced,Resolving,No,No,No,No,No,No,Subject,2024-01-21,No,
+STUDY001,SUB0035,AE001,Hypoglycemia,2024-04-11,18:49,2024-04-22,08:03,No,Moderate,No,Definitely Related,Drug withdrawn,Resolving,No,No,No,No,No,Yes,Study Coordinator,2024-04-11,No,
+STUDY001,SUB0036,AE001,Weight gain,2024-03-06,11:40,2024-03-15,13:58,No,Mild,No,Not Related,None,Resolved,No,No,No,No,No,No,Study Coordinator,2024-03-06,No,Supportive care
+STUDY001,SUB0036,AE002,Hyperglycemia,2024-04-08,17:32,2024-04-24,15:20,No,Severe,No,Probably Related,Dose reduced,Resolved with sequelae,No,No,No,No,No,Yes,Subject,2024-04-08,No,Supportive care
+STUDY001,SUB0038,AE001,Nausea,2024-05-06,09:31,2024-05-08,17:41,No,Mild,No,Not Related,Dose interrupted,Not resolved,No,No,No,No,No,No,Study Coordinator,2024-05-06,Yes,
+STUDY001,SUB0038,AE002,Weight gain,2024-07-04,15:55,2024-07-21,16:54,No,Moderate,No,Not Related,None,Resolving,No,No,No,No,No,Yes,Investigator,2024-07-04,No,
+STUDY001,SUB0038,AE003,Hypoglycemia,2024-06-12,13:04,,,Yes,Mild,No,Definitely Related,Dose reduced,Not resolved,No,No,No,No,No,Yes,Study Coordinator,2024-06-12,No,Symptomatic treatment
+STUDY001,SUB0039,AE001,Weight gain,2024-04-08,19:18,,,Yes,Mild,Yes,Not Related,Dose reduced,Not resolved,No,No,No,No,No,No,Study Coordinator,2024-04-08,No,
+STUDY001,SUB0040,AE001,Weight gain,2024-05-04,16:33,,,Yes,Moderate,No,Definitely Related,None,Not resolved,No,No,No,No,No,No,Subject,2024-05-04,Yes,
+STUDY001,SUB0040,AE002,Hypoglycemia,2024-04-06,16:01,2024-04-07,09:42,No,Moderate,No,Possibly Related,Drug withdrawn,Resolving,No,No,No,No,No,No,Study Coordinator,2024-04-06,No,
+STUDY001,SUB0041,AE001,Hypoglycemia,2024-07-22,10:19,2024-07-29,09:42,No,Mild,No,Not Related,None,Resolved,No,No,No,No,No,No,Investigator,2024-07-22,Yes,Supportive care
+STUDY001,SUB0042,AE001,Nausea,2024-07-29,16:27,,,Yes,Moderate,No,Not Related,Drug withdrawn,Not resolved,No,No,No,No,No,No,Subject,2024-07-29,Yes,
+STUDY001,SUB0043,AE001,Weight gain,2024-08-25,12:04,2024-09-15,10:23,No,Mild,No,Not Related,Drug withdrawn,Resolved,No,No,No,No,No,No,Investigator,2024-08-25,No,
+STUDY001,SUB0043,AE002,Injection site reaction,2024-07-03,16:44,2024-07-12,09:45,No,Mild,No,Probably Related,Dose interrupted,Resolving,No,No,No,No,No,No,Study Coordinator,2024-07-03,Yes,
+STUDY001,SUB0045,AE001,Diarrhea,2024-09-12,09:15,,,Yes,Moderate,No,Possibly Related,Dose reduced,Not resolved,No,No,No,No,No,No,Investigator,2024-09-12,Yes,
+STUDY001,SUB0047,AE001,Diarrhea,2024-06-27,19:56,2024-07-16,12:21,No,Mild,No,Probably Related,None,Resolved,No,No,No,No,No,Yes,Study Coordinator,2024-06-27,No,
+STUDY001,SUB0047,AE002,Injection site reaction,2024-06-27,14:40,,,Yes,Mild,No,Probably Related,None,Not resolved,No,No,No,No,No,No,Investigator,2024-06-27,Yes,
+STUDY001,SUB0047,AE003,UTI,2024-07-24,17:50,2024-07-27,19:27,No,Mild,No,Not Related,Dose interrupted,Resolving,No,No,No,No,No,No,Study Coordinator,2024-07-24,Yes,Supportive care
+STUDY001,SUB0048,AE001,Hyperglycemia,2024-03-09,15:25,2024-03-14,08:34,No,Moderate,Yes,Possibly Related,None,Not resolved,No,No,No,No,No,No,Study Coordinator,2024-03-09,No,
+STUDY001,SUB0048,AE002,Hyperglycemia,2024-04-06,13:37,2024-04-16,17:49,No,Moderate,No,Probably Related,Drug withdrawn,Resolved with sequelae,No,No,No,No,No,No,Investigator,2024-04-06,Yes,
+STUDY001,SUB0050,AE001,Hyperglycemia,2024-04-17,12:52,2024-05-02,10:20,No,Mild,No,Possibly Related,Dose reduced,Resolved,No,No,No,No,No,No,Study Coordinator,2024-04-17,Yes,
+STUDY001,SUB0050,AE002,UTI,2024-03-12,14:45,2024-03-18,14:52,No,Mild,No,Not Related,Dose reduced,Resolving,No,No,No,No,No,No,Investigator,2024-03-12,Yes,Supportive care
+STUDY001,SUB0050,AE003,Weight gain,2024-04-14,10:11,2024-04-17,10:40,No,Mild,No,Possibly Related,Drug withdrawn,Resolving,No,No,No,No,No,No,Investigator,2024-04-14,No,

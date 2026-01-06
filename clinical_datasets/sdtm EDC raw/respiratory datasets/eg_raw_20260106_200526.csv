@@ -1,0 +1,251 @@
+study_id,subject_id,visit_name,ecg_date,ecg_time,heart_rate_bpm,pr_interval_ms,qrs_duration_ms,qt_interval_ms,qtc_interval_ms,rhythm,interpretation,clinically_significant,cardiologist_review,machine_type,technician_name
+STUDY001,SUB0001,Screening,2024-02-15,10:38,67,188,82,368,428,Normal sinus rhythm,Normal,No,Reviewed - follow up,Philips PageWriter,Tech B
+STUDY001,SUB0001,Baseline,2024-03-14,08:41,81,188,82,373,352,Normal sinus rhythm,Normal,No,Reviewed - no action,Philips PageWriter,Tech A
+STUDY001,SUB0001,Week 4,2024-04-11,12:45,62,147,95,397,449,Sinus tachycardia,"Abnormal, not clinically significant",No,Reviewed - no action,GE MAC 5500,Tech C
+STUDY001,SUB0001,Week 8,2024-05-09,13:47,76,173,96,351,439,Sinus tachycardia,"Abnormal, not clinically significant",No,Reviewed - follow up,Mortara ELI 350,Tech C
+STUDY001,SUB0001,Week 12,2024-06-06,11:05,58,126,104,351,354,Sinus tachycardia,Normal,No,Reviewed - no action,Philips PageWriter,Tech A
+STUDY001,SUB0002,Screening,2024-02-15,13:17,94,145,80,402,381,Sinus bradycardia,"Abnormal, not clinically significant",No,Not required,Mortara ELI 350,Tech A
+STUDY001,SUB0002,Baseline,2024-03-14,14:07,84,143,93,368,372,Sinus bradycardia,Normal,No,Reviewed - no action,Mortara ELI 350,Tech B
+STUDY001,SUB0002,Week 4,2024-04-11,11:41,97,186,99,383,386,Sinus bradycardia,Normal,No,Reviewed - follow up,Philips PageWriter,Tech B
+STUDY001,SUB0002,Week 8,2024-05-09,13:32,95,136,83,396,436,Sinus tachycardia,Normal,No,Reviewed - no action,Philips PageWriter,Tech B
+STUDY001,SUB0002,Week 12,2024-06-06,12:21,77,125,106,377,379,Sinus bradycardia,Normal,No,Not required,GE MAC 5500,Tech C
+STUDY001,SUB0003,Screening,2024-02-15,15:50,78,191,107,384,371,Sinus bradycardia,Normal,No,Reviewed - no action,Philips PageWriter,Tech C
+STUDY001,SUB0003,Baseline,2024-03-14,15:27,86,181,81,390,360,Normal sinus rhythm,Normal,No,Not required,Philips PageWriter,Tech B
+STUDY001,SUB0003,Week 4,2024-04-11,11:40,97,126,104,357,403,Sinus bradycardia,Normal,No,Reviewed - no action,GE MAC 5500,Tech C
+STUDY001,SUB0003,Week 8,2024-05-09,15:50,99,162,85,356,373,Normal sinus rhythm,Normal,No,Not required,GE MAC 5500,Tech B
+STUDY001,SUB0003,Week 12,2024-06-06,14:38,79,183,105,360,417,Normal sinus rhythm,Normal,Yes,Reviewed - follow up,Philips PageWriter,Tech C
+STUDY001,SUB0004,Screening,2024-02-15,14:31,87,199,92,414,442,Normal sinus rhythm,Normal,Yes,Reviewed - no action,Mortara ELI 350,Tech A
+STUDY001,SUB0004,Baseline,2024-03-14,09:22,77,199,97,397,447,Sinus tachycardia,Normal,No,Not required,Philips PageWriter,Tech C
+STUDY001,SUB0004,Week 4,2024-04-11,11:27,79,187,108,398,448,Sinus bradycardia,Normal,No,Reviewed - no action,GE MAC 5500,Tech A
+STUDY001,SUB0004,Week 8,2024-05-09,15:30,75,126,101,392,372,Normal sinus rhythm,Normal,No,Reviewed - follow up,Mortara ELI 350,Tech C
+STUDY001,SUB0004,Week 12,2024-06-06,16:06,85,182,109,359,416,Normal sinus rhythm,Normal,No,Reviewed - no action,GE MAC 5500,Tech B
+STUDY001,SUB0005,Screening,2024-02-15,16:48,63,154,106,351,366,Normal sinus rhythm,Normal,Yes,Not required,Mortara ELI 350,Tech A
+STUDY001,SUB0005,Baseline,2024-03-14,08:33,60,139,80,382,364,Sinus bradycardia,Normal,No,Reviewed - follow up,Philips PageWriter,Tech A
+STUDY001,SUB0005,Week 4,2024-04-11,12:50,66,198,104,394,443,Normal sinus rhythm,"Abnormal, not clinically significant",No,Reviewed - no action,Philips PageWriter,Tech A
+STUDY001,SUB0005,Week 8,2024-05-09,13:20,60,130,93,418,426,Sinus bradycardia,Normal,No,Reviewed - follow up,Mortara ELI 350,Tech B
+STUDY001,SUB0005,Week 12,2024-06-06,14:10,64,120,104,398,368,Sinus tachycardia,Normal,No,Not required,Philips PageWriter,Tech C
+STUDY001,SUB0006,Screening,2024-02-15,13:59,78,174,96,366,374,Normal sinus rhythm,Normal,No,Not required,Mortara ELI 350,Tech C
+STUDY001,SUB0006,Baseline,2024-03-14,08:18,79,179,101,407,435,Normal sinus rhythm,"Abnormal, not clinically significant",Yes,Not required,Philips PageWriter,Tech C
+STUDY001,SUB0006,Week 4,2024-04-11,15:57,67,186,83,414,409,Normal sinus rhythm,Normal,Yes,Reviewed - follow up,Philips PageWriter,Tech A
+STUDY001,SUB0006,Week 8,2024-05-09,15:19,70,180,82,354,446,Sinus bradycardia,Normal,No,Reviewed - no action,Philips PageWriter,Tech B
+STUDY001,SUB0006,Week 12,2024-06-06,14:12,59,150,84,386,397,Normal sinus rhythm,Normal,No,Reviewed - no action,Mortara ELI 350,Tech B
+STUDY001,SUB0007,Screening,2024-02-15,15:59,79,163,81,363,437,Sinus bradycardia,Normal,No,Reviewed - no action,GE MAC 5500,Tech C
+STUDY001,SUB0007,Baseline,2024-03-14,14:47,81,131,109,388,360,Sinus tachycardia,"Abnormal, not clinically significant",Yes,Reviewed - no action,Philips PageWriter,Tech A
+STUDY001,SUB0007,Week 4,2024-04-11,15:08,72,128,85,415,378,Sinus bradycardia,Normal,No,Reviewed - no action,Mortara ELI 350,Tech B
+STUDY001,SUB0007,Week 8,2024-05-09,11:29,80,149,104,377,428,Sinus bradycardia,Normal,Yes,Reviewed - no action,GE MAC 5500,Tech C
+STUDY001,SUB0007,Week 12,2024-06-06,11:44,66,187,98,360,450,Sinus tachycardia,Normal,Yes,Reviewed - follow up,GE MAC 5500,Tech B
+STUDY001,SUB0008,Screening,2024-02-15,13:14,73,120,107,370,410,Normal sinus rhythm,Normal,No,Reviewed - no action,Philips PageWriter,Tech C
+STUDY001,SUB0008,Baseline,2024-03-14,08:20,50,160,101,383,412,Normal sinus rhythm,Normal,No,Reviewed - no action,Mortara ELI 350,Tech B
+STUDY001,SUB0008,Week 4,2024-04-11,15:38,50,132,107,357,360,Sinus bradycardia,Normal,No,Reviewed - no action,Philips PageWriter,Tech C
+STUDY001,SUB0008,Week 8,2024-05-09,09:32,67,158,110,377,413,Normal sinus rhythm,Normal,No,Not required,Philips PageWriter,Tech B
+STUDY001,SUB0008,Week 12,2024-06-06,12:16,62,138,106,378,371,Normal sinus rhythm,Normal,Yes,Reviewed - no action,Philips PageWriter,Tech A
+STUDY001,SUB0009,Screening,2024-02-15,13:23,85,181,87,379,427,Normal sinus rhythm,Normal,No,Reviewed - no action,GE MAC 5500,Tech B
+STUDY001,SUB0009,Baseline,2024-03-14,12:08,79,133,87,420,440,Normal sinus rhythm,Normal,Yes,Reviewed - no action,GE MAC 5500,Tech B
+STUDY001,SUB0009,Week 4,2024-04-11,13:24,69,141,84,411,417,Normal sinus rhythm,"Abnormal, not clinically significant",No,Reviewed - no action,GE MAC 5500,Tech C
+STUDY001,SUB0009,Week 8,2024-05-09,10:33,84,184,110,424,449,Sinus tachycardia,Normal,No,Not required,Mortara ELI 350,Tech C
+STUDY001,SUB0009,Week 12,2024-06-06,10:19,62,153,86,429,395,Sinus tachycardia,Normal,No,Not required,Mortara ELI 350,Tech C
+STUDY001,SUB0010,Screening,2024-02-15,12:41,68,168,83,428,374,Sinus bradycardia,Normal,Yes,Reviewed - follow up,Mortara ELI 350,Tech B
+STUDY001,SUB0010,Baseline,2024-03-14,16:59,69,150,93,422,443,Sinus tachycardia,Normal,Yes,Reviewed - no action,Mortara ELI 350,Tech B
+STUDY001,SUB0010,Week 4,2024-04-11,15:26,74,181,94,427,395,Sinus bradycardia,Normal,No,Not required,GE MAC 5500,Tech B
+STUDY001,SUB0010,Week 8,2024-05-09,15:12,77,163,97,359,392,Sinus tachycardia,Normal,Yes,Not required,GE MAC 5500,Tech A
+STUDY001,SUB0010,Week 12,2024-06-06,11:49,89,195,106,420,438,Sinus tachycardia,Normal,No,Reviewed - no action,GE MAC 5500,Tech C
+STUDY001,SUB0011,Screening,2024-02-15,14:12,68,163,104,380,437,Sinus tachycardia,Normal,No,Reviewed - follow up,Mortara ELI 350,Tech B
+STUDY001,SUB0011,Baseline,2024-03-14,09:05,70,166,84,413,420,Sinus bradycardia,Normal,Yes,Reviewed - no action,Mortara ELI 350,Tech B
+STUDY001,SUB0011,Week 4,2024-04-11,13:36,83,130,104,416,400,Sinus bradycardia,Normal,Yes,Reviewed - no action,Philips PageWriter,Tech C
+STUDY001,SUB0011,Week 8,2024-05-09,14:04,89,180,98,375,355,Sinus tachycardia,Normal,No,Reviewed - no action,Mortara ELI 350,Tech B
+STUDY001,SUB0011,Week 12,2024-06-06,14:49,72,143,83,377,420,Sinus tachycardia,Normal,No,Reviewed - follow up,Mortara ELI 350,Tech A
+STUDY001,SUB0012,Screening,2024-02-15,13:30,93,132,88,420,371,Sinus tachycardia,Normal,No,Not required,Philips PageWriter,Tech B
+STUDY001,SUB0012,Baseline,2024-03-14,11:04,98,184,81,361,362,Normal sinus rhythm,Normal,Yes,Reviewed - follow up,Mortara ELI 350,Tech B
+STUDY001,SUB0012,Week 4,2024-04-11,08:55,104,197,103,415,412,Sinus bradycardia,Normal,No,Reviewed - no action,GE MAC 5500,Tech A
+STUDY001,SUB0012,Week 8,2024-05-09,16:32,92,185,96,357,392,Normal sinus rhythm,Normal,No,Reviewed - no action,Philips PageWriter,Tech A
+STUDY001,SUB0012,Week 12,2024-06-06,08:34,93,154,100,402,432,Normal sinus rhythm,"Abnormal, not clinically significant",No,Reviewed - no action,Philips PageWriter,Tech B
+STUDY001,SUB0013,Screening,2024-02-15,15:54,85,164,108,363,428,Sinus tachycardia,"Abnormal, not clinically significant",Yes,Reviewed - no action,GE MAC 5500,Tech C
+STUDY001,SUB0013,Baseline,2024-03-14,14:31,70,153,94,422,352,Normal sinus rhythm,Normal,Yes,Not required,GE MAC 5500,Tech A
+STUDY001,SUB0013,Week 4,2024-04-11,12:48,77,160,108,418,367,Normal sinus rhythm,Normal,Yes,Reviewed - no action,Mortara ELI 350,Tech B
+STUDY001,SUB0013,Week 8,2024-05-09,12:01,83,198,80,376,418,Normal sinus rhythm,"Abnormal, not clinically significant",Yes,Reviewed - follow up,Mortara ELI 350,Tech C
+STUDY001,SUB0013,Week 12,2024-06-06,12:16,73,179,103,413,423,Normal sinus rhythm,Normal,No,Reviewed - no action,Philips PageWriter,Tech C
+STUDY001,SUB0014,Screening,2024-02-15,09:51,67,155,87,382,358,Sinus bradycardia,Normal,Yes,Not required,GE MAC 5500,Tech C
+STUDY001,SUB0014,Baseline,2024-03-14,12:19,68,143,81,414,444,Sinus tachycardia,"Abnormal, not clinically significant",Yes,Not required,Mortara ELI 350,Tech B
+STUDY001,SUB0014,Week 4,2024-04-11,09:01,77,131,84,363,404,Sinus tachycardia,Normal,No,Reviewed - no action,Mortara ELI 350,Tech C
+STUDY001,SUB0014,Week 8,2024-05-09,08:00,55,125,87,425,412,Sinus bradycardia,Normal,No,Not required,GE MAC 5500,Tech B
+STUDY001,SUB0014,Week 12,2024-06-06,08:52,70,161,103,359,427,Sinus tachycardia,Normal,No,Reviewed - no action,Philips PageWriter,Tech B
+STUDY001,SUB0015,Screening,2024-02-15,15:45,63,191,92,352,386,Normal sinus rhythm,Normal,Yes,Not required,GE MAC 5500,Tech A
+STUDY001,SUB0015,Baseline,2024-03-14,09:52,60,194,92,412,428,Sinus tachycardia,"Abnormal, not clinically significant",Yes,Reviewed - no action,Mortara ELI 350,Tech C
+STUDY001,SUB0015,Week 4,2024-04-11,12:15,74,175,102,382,416,Sinus bradycardia,"Abnormal, not clinically significant",No,Reviewed - no action,GE MAC 5500,Tech C
+STUDY001,SUB0015,Week 8,2024-05-09,12:58,66,162,109,413,351,Sinus bradycardia,Normal,Yes,Not required,GE MAC 5500,Tech B
+STUDY001,SUB0015,Week 12,2024-06-06,14:27,75,121,80,378,430,Sinus bradycardia,Normal,Yes,Reviewed - no action,GE MAC 5500,Tech A
+STUDY001,SUB0016,Screening,2024-02-15,14:27,85,183,80,360,444,Sinus tachycardia,Normal,Yes,Not required,Philips PageWriter,Tech A
+STUDY001,SUB0016,Baseline,2024-03-14,14:52,102,142,83,397,387,Sinus tachycardia,Normal,Yes,Reviewed - follow up,Philips PageWriter,Tech C
+STUDY001,SUB0016,Week 4,2024-04-11,11:54,90,188,103,384,395,Normal sinus rhythm,"Abnormal, clinically significant",Yes,Reviewed - no action,GE MAC 5500,Tech C
+STUDY001,SUB0016,Week 8,2024-05-09,10:12,83,200,87,396,362,Sinus bradycardia,Normal,No,Reviewed - no action,Mortara ELI 350,Tech A
+STUDY001,SUB0016,Week 12,2024-06-06,16:19,82,186,103,405,429,Sinus tachycardia,"Abnormal, not clinically significant",No,Reviewed - follow up,GE MAC 5500,Tech C
+STUDY001,SUB0017,Screening,2024-02-15,14:29,82,179,81,397,443,Normal sinus rhythm,"Abnormal, not clinically significant",No,Not required,Mortara ELI 350,Tech A
+STUDY001,SUB0017,Baseline,2024-03-14,15:29,82,161,104,376,377,Sinus bradycardia,Normal,No,Not required,Mortara ELI 350,Tech A
+STUDY001,SUB0017,Week 4,2024-04-11,09:14,91,185,107,420,390,Normal sinus rhythm,Normal,No,Reviewed - no action,GE MAC 5500,Tech A
+STUDY001,SUB0017,Week 8,2024-05-09,16:51,78,158,86,358,375,Normal sinus rhythm,Normal,No,Not required,Mortara ELI 350,Tech B
+STUDY001,SUB0017,Week 12,2024-06-06,15:25,83,167,106,354,438,Sinus tachycardia,Normal,No,Reviewed - follow up,Philips PageWriter,Tech C
+STUDY001,SUB0018,Screening,2024-02-15,12:50,68,178,82,370,431,Sinus bradycardia,Normal,No,Reviewed - no action,GE MAC 5500,Tech B
+STUDY001,SUB0018,Baseline,2024-03-14,12:19,63,182,94,357,362,Normal sinus rhythm,Normal,No,Not required,Philips PageWriter,Tech C
+STUDY001,SUB0018,Week 4,2024-04-11,14:27,64,191,101,398,446,Normal sinus rhythm,Normal,No,Reviewed - follow up,GE MAC 5500,Tech A
+STUDY001,SUB0018,Week 8,2024-05-09,09:02,60,184,102,414,373,Normal sinus rhythm,Normal,No,Not required,Philips PageWriter,Tech B
+STUDY001,SUB0018,Week 12,2024-06-06,15:09,66,157,99,384,403,Sinus bradycardia,Normal,Yes,Reviewed - follow up,Mortara ELI 350,Tech C
+STUDY001,SUB0019,Screening,2024-02-15,13:55,86,162,86,413,424,Sinus tachycardia,Normal,No,Not required,Philips PageWriter,Tech C
+STUDY001,SUB0019,Baseline,2024-03-14,13:25,66,158,110,374,411,Sinus bradycardia,"Abnormal, not clinically significant",Yes,Reviewed - follow up,Mortara ELI 350,Tech A
+STUDY001,SUB0019,Week 4,2024-04-11,14:58,69,174,80,367,352,Normal sinus rhythm,Normal,No,Reviewed - no action,Philips PageWriter,Tech B
+STUDY001,SUB0019,Week 8,2024-05-09,14:09,68,164,102,371,401,Sinus bradycardia,"Abnormal, clinically significant",Yes,Not required,Mortara ELI 350,Tech C
+STUDY001,SUB0019,Week 12,2024-06-06,09:40,79,191,95,397,378,Sinus bradycardia,Normal,No,Not required,Philips PageWriter,Tech C
+STUDY001,SUB0020,Screening,2024-02-15,08:42,84,173,106,353,418,Normal sinus rhythm,"Abnormal, not clinically significant",No,Reviewed - no action,Mortara ELI 350,Tech B
+STUDY001,SUB0020,Baseline,2024-03-14,16:50,72,154,104,409,425,Normal sinus rhythm,Normal,No,Reviewed - no action,Mortara ELI 350,Tech B
+STUDY001,SUB0020,Week 4,2024-04-11,10:09,78,198,109,407,439,Sinus bradycardia,Normal,Yes,Reviewed - no action,Philips PageWriter,Tech B
+STUDY001,SUB0020,Week 8,2024-05-09,16:08,91,179,83,379,351,Sinus bradycardia,Normal,Yes,Reviewed - follow up,GE MAC 5500,Tech C
+STUDY001,SUB0020,Week 12,2024-06-06,09:59,77,129,103,418,369,Sinus tachycardia,Normal,Yes,Reviewed - no action,Mortara ELI 350,Tech C
+STUDY001,SUB0021,Screening,2024-02-15,13:31,90,190,89,353,433,Sinus bradycardia,Normal,No,Reviewed - follow up,Mortara ELI 350,Tech A
+STUDY001,SUB0021,Baseline,2024-03-14,14:33,95,160,101,403,401,Sinus tachycardia,Normal,No,Reviewed - no action,Philips PageWriter,Tech C
+STUDY001,SUB0021,Week 4,2024-04-11,11:44,85,122,81,385,442,Normal sinus rhythm,Normal,No,Reviewed - no action,GE MAC 5500,Tech C
+STUDY001,SUB0021,Week 8,2024-05-09,15:32,81,166,93,413,352,Sinus tachycardia,"Abnormal, not clinically significant",No,Not required,Mortara ELI 350,Tech B
+STUDY001,SUB0021,Week 12,2024-06-06,08:32,73,166,84,376,441,Sinus bradycardia,Normal,Yes,Not required,GE MAC 5500,Tech B
+STUDY001,SUB0022,Screening,2024-02-15,10:19,77,182,81,353,375,Sinus tachycardia,Normal,No,Reviewed - follow up,Mortara ELI 350,Tech A
+STUDY001,SUB0022,Baseline,2024-03-14,09:39,57,166,85,385,403,Sinus bradycardia,Normal,No,Reviewed - no action,Mortara ELI 350,Tech A
+STUDY001,SUB0022,Week 4,2024-04-11,08:42,60,175,84,391,446,Sinus tachycardia,"Abnormal, clinically significant",Yes,Reviewed - no action,Philips PageWriter,Tech B
+STUDY001,SUB0022,Week 8,2024-05-09,09:38,57,195,107,359,375,Sinus tachycardia,"Abnormal, not clinically significant",No,Reviewed - no action,Philips PageWriter,Tech A
+STUDY001,SUB0022,Week 12,2024-06-06,11:37,73,168,97,414,355,Sinus tachycardia,"Abnormal, not clinically significant",No,Reviewed - follow up,Philips PageWriter,Tech C
+STUDY001,SUB0023,Screening,2024-02-15,15:49,85,127,109,369,434,Normal sinus rhythm,Normal,No,Reviewed - no action,Mortara ELI 350,Tech A
+STUDY001,SUB0023,Baseline,2024-03-14,08:03,95,135,85,375,444,Sinus bradycardia,"Abnormal, not clinically significant",No,Reviewed - no action,GE MAC 5500,Tech B
+STUDY001,SUB0023,Week 4,2024-04-11,16:57,95,156,96,371,357,Normal sinus rhythm,"Abnormal, not clinically significant",Yes,Not required,Philips PageWriter,Tech C
+STUDY001,SUB0023,Week 8,2024-05-09,08:26,100,156,83,418,403,Normal sinus rhythm,Normal,Yes,Reviewed - no action,Mortara ELI 350,Tech B
+STUDY001,SUB0023,Week 12,2024-06-06,08:00,91,186,102,401,357,Sinus bradycardia,Normal,No,Reviewed - follow up,GE MAC 5500,Tech C
+STUDY001,SUB0024,Screening,2024-02-15,11:39,65,132,98,387,374,Normal sinus rhythm,Normal,No,Reviewed - follow up,Mortara ELI 350,Tech C
+STUDY001,SUB0024,Baseline,2024-03-14,09:40,67,190,103,368,407,Sinus tachycardia,Normal,No,Reviewed - follow up,GE MAC 5500,Tech A
+STUDY001,SUB0024,Week 4,2024-04-11,15:52,75,175,86,375,391,Normal sinus rhythm,Normal,No,Not required,Philips PageWriter,Tech B
+STUDY001,SUB0024,Week 8,2024-05-09,11:13,78,141,106,423,378,Sinus bradycardia,Normal,No,Reviewed - no action,Mortara ELI 350,Tech B
+STUDY001,SUB0024,Week 12,2024-06-06,09:40,72,184,81,361,427,Normal sinus rhythm,Normal,Yes,Reviewed - follow up,Mortara ELI 350,Tech A
+STUDY001,SUB0025,Screening,2024-02-15,09:18,75,130,90,385,440,Normal sinus rhythm,Normal,No,Reviewed - follow up,GE MAC 5500,Tech C
+STUDY001,SUB0025,Baseline,2024-03-14,10:40,73,195,106,414,376,Normal sinus rhythm,Normal,No,Not required,GE MAC 5500,Tech B
+STUDY001,SUB0025,Week 4,2024-04-11,12:06,63,200,110,416,370,Sinus tachycardia,Normal,No,Reviewed - follow up,Mortara ELI 350,Tech C
+STUDY001,SUB0025,Week 8,2024-05-09,09:32,66,190,94,370,353,Sinus tachycardia,Normal,No,Reviewed - follow up,Mortara ELI 350,Tech A
+STUDY001,SUB0025,Week 12,2024-06-06,09:49,60,150,86,418,435,Normal sinus rhythm,Normal,No,Not required,Philips PageWriter,Tech C
+STUDY001,SUB0026,Screening,2024-02-15,15:26,70,171,104,370,449,Sinus bradycardia,"Abnormal, not clinically significant",Yes,Reviewed - no action,GE MAC 5500,Tech B
+STUDY001,SUB0026,Baseline,2024-03-14,08:18,61,181,103,391,397,Sinus tachycardia,"Abnormal, not clinically significant",No,Reviewed - no action,Philips PageWriter,Tech A
+STUDY001,SUB0026,Week 4,2024-04-11,15:27,69,186,101,371,423,Normal sinus rhythm,Normal,Yes,Reviewed - no action,Mortara ELI 350,Tech C
+STUDY001,SUB0026,Week 8,2024-05-09,13:16,67,187,83,393,424,Sinus tachycardia,Normal,No,Reviewed - no action,Philips PageWriter,Tech B
+STUDY001,SUB0026,Week 12,2024-06-06,11:37,74,179,96,406,449,Sinus bradycardia,Normal,Yes,Reviewed - follow up,GE MAC 5500,Tech C
+STUDY001,SUB0027,Screening,2024-02-15,16:08,83,168,88,385,405,Sinus bradycardia,Normal,No,Reviewed - no action,GE MAC 5500,Tech B
+STUDY001,SUB0027,Baseline,2024-03-14,13:09,86,187,86,382,396,Normal sinus rhythm,Normal,Yes,Reviewed - no action,GE MAC 5500,Tech B
+STUDY001,SUB0027,Week 4,2024-04-11,10:12,80,182,100,420,373,Normal sinus rhythm,Normal,No,Reviewed - follow up,GE MAC 5500,Tech B
+STUDY001,SUB0027,Week 8,2024-05-09,10:53,88,173,94,416,385,Sinus tachycardia,Normal,Yes,Not required,Philips PageWriter,Tech C
+STUDY001,SUB0027,Week 12,2024-06-06,15:32,104,121,109,419,416,Sinus tachycardia,"Abnormal, clinically significant",No,Not required,GE MAC 5500,Tech B
+STUDY001,SUB0028,Screening,2024-02-15,10:44,62,139,103,375,449,Sinus tachycardia,"Abnormal, clinically significant",No,Reviewed - follow up,Philips PageWriter,Tech B
+STUDY001,SUB0028,Baseline,2024-03-14,10:26,60,200,83,389,366,Normal sinus rhythm,Normal,Yes,Reviewed - no action,Philips PageWriter,Tech C
+STUDY001,SUB0028,Week 4,2024-04-11,12:33,74,156,109,425,433,Normal sinus rhythm,Normal,No,Not required,Mortara ELI 350,Tech C
+STUDY001,SUB0028,Week 8,2024-05-09,16:30,57,125,84,401,361,Sinus bradycardia,Normal,No,Reviewed - follow up,GE MAC 5500,Tech A
+STUDY001,SUB0028,Week 12,2024-06-06,08:19,56,140,81,418,372,Sinus tachycardia,Normal,No,Reviewed - follow up,Mortara ELI 350,Tech B
+STUDY001,SUB0029,Screening,2024-02-15,08:23,73,131,82,372,382,Sinus tachycardia,Normal,No,Reviewed - follow up,GE MAC 5500,Tech C
+STUDY001,SUB0029,Baseline,2024-03-14,15:45,87,153,97,405,378,Sinus bradycardia,Normal,No,Reviewed - no action,Philips PageWriter,Tech B
+STUDY001,SUB0029,Week 4,2024-04-11,15:26,67,182,110,384,420,Sinus tachycardia,Normal,No,Reviewed - no action,GE MAC 5500,Tech C
+STUDY001,SUB0029,Week 8,2024-05-09,08:08,67,131,103,415,450,Sinus tachycardia,Normal,No,Reviewed - follow up,Mortara ELI 350,Tech C
+STUDY001,SUB0029,Week 12,2024-06-06,16:44,72,128,88,416,376,Sinus tachycardia,Normal,No,Reviewed - follow up,Philips PageWriter,Tech C
+STUDY001,SUB0030,Screening,2024-02-15,09:38,92,163,104,383,422,Sinus bradycardia,"Abnormal, not clinically significant",No,Reviewed - no action,GE MAC 5500,Tech C
+STUDY001,SUB0030,Baseline,2024-03-14,12:07,80,165,110,374,414,Sinus tachycardia,Normal,No,Reviewed - follow up,GE MAC 5500,Tech C
+STUDY001,SUB0030,Week 4,2024-04-11,15:37,70,131,94,420,400,Sinus bradycardia,"Abnormal, clinically significant",Yes,Reviewed - no action,GE MAC 5500,Tech C
+STUDY001,SUB0030,Week 8,2024-05-09,15:16,88,200,98,421,371,Normal sinus rhythm,Normal,No,Not required,Philips PageWriter,Tech B
+STUDY001,SUB0030,Week 12,2024-06-06,16:36,91,187,84,358,445,Sinus bradycardia,Normal,No,Not required,Philips PageWriter,Tech B
+STUDY001,SUB0031,Screening,2024-02-15,14:16,55,142,108,379,390,Normal sinus rhythm,Normal,Yes,Reviewed - no action,Philips PageWriter,Tech C
+STUDY001,SUB0031,Baseline,2024-03-14,09:25,55,150,98,355,417,Sinus bradycardia,Normal,No,Reviewed - no action,GE MAC 5500,Tech C
+STUDY001,SUB0031,Week 4,2024-04-11,13:45,59,150,82,388,418,Normal sinus rhythm,Normal,No,Reviewed - follow up,Mortara ELI 350,Tech C
+STUDY001,SUB0031,Week 8,2024-05-09,15:21,74,174,80,411,400,Sinus tachycardia,Normal,No,Reviewed - follow up,GE MAC 5500,Tech C
+STUDY001,SUB0031,Week 12,2024-06-06,08:14,56,123,87,416,400,Sinus tachycardia,Normal,No,Not required,Philips PageWriter,Tech C
+STUDY001,SUB0032,Screening,2024-02-15,12:48,72,175,105,418,410,Normal sinus rhythm,Normal,No,Not required,GE MAC 5500,Tech A
+STUDY001,SUB0032,Baseline,2024-03-14,14:52,70,153,100,380,390,Normal sinus rhythm,Normal,No,Not required,GE MAC 5500,Tech B
+STUDY001,SUB0032,Week 4,2024-04-11,16:05,74,192,88,421,393,Normal sinus rhythm,Normal,No,Not required,GE MAC 5500,Tech B
+STUDY001,SUB0032,Week 8,2024-05-09,16:12,91,176,98,413,417,Sinus bradycardia,Normal,No,Reviewed - no action,GE MAC 5500,Tech B
+STUDY001,SUB0032,Week 12,2024-06-06,13:21,82,162,88,368,392,Normal sinus rhythm,Normal,No,Reviewed - no action,GE MAC 5500,Tech A
+STUDY001,SUB0033,Screening,2024-02-15,09:04,73,192,90,350,432,Sinus bradycardia,Normal,No,Not required,Philips PageWriter,Tech C
+STUDY001,SUB0033,Baseline,2024-03-14,11:06,72,123,104,368,374,Sinus tachycardia,Normal,No,Not required,GE MAC 5500,Tech B
+STUDY001,SUB0033,Week 4,2024-04-11,09:22,72,165,91,394,389,Sinus bradycardia,"Abnormal, not clinically significant",Yes,Reviewed - no action,GE MAC 5500,Tech A
+STUDY001,SUB0033,Week 8,2024-05-09,13:25,68,184,107,391,373,Sinus bradycardia,Normal,Yes,Not required,GE MAC 5500,Tech C
+STUDY001,SUB0033,Week 12,2024-06-06,10:53,66,198,102,381,387,Sinus bradycardia,Normal,No,Not required,GE MAC 5500,Tech B
+STUDY001,SUB0034,Screening,2024-02-15,14:41,84,167,99,399,389,Normal sinus rhythm,Normal,No,Not required,GE MAC 5500,Tech C
+STUDY001,SUB0034,Baseline,2024-03-14,14:00,96,162,85,387,396,Sinus bradycardia,Normal,No,Not required,Philips PageWriter,Tech B
+STUDY001,SUB0034,Week 4,2024-04-11,13:13,100,193,80,400,449,Normal sinus rhythm,Normal,Yes,Not required,Mortara ELI 350,Tech C
+STUDY001,SUB0034,Week 8,2024-05-09,12:40,84,193,105,416,446,Sinus tachycardia,"Abnormal, not clinically significant",No,Not required,GE MAC 5500,Tech A
+STUDY001,SUB0034,Week 12,2024-06-06,09:25,97,173,88,369,441,Sinus tachycardia,Normal,No,Reviewed - no action,Mortara ELI 350,Tech C
+STUDY001,SUB0035,Screening,2024-02-15,13:37,87,140,85,381,367,Normal sinus rhythm,Normal,No,Reviewed - no action,Mortara ELI 350,Tech A
+STUDY001,SUB0035,Baseline,2024-03-14,11:00,69,141,86,392,432,Normal sinus rhythm,Normal,Yes,Reviewed - follow up,Philips PageWriter,Tech A
+STUDY001,SUB0035,Week 4,2024-04-11,11:23,69,166,81,376,405,Sinus tachycardia,Normal,Yes,Reviewed - no action,GE MAC 5500,Tech C
+STUDY001,SUB0035,Week 8,2024-05-09,10:23,80,153,90,421,434,Sinus bradycardia,Normal,No,Reviewed - follow up,Mortara ELI 350,Tech C
+STUDY001,SUB0035,Week 12,2024-06-06,16:07,72,171,102,406,411,Sinus tachycardia,Normal,No,Reviewed - no action,GE MAC 5500,Tech A
+STUDY001,SUB0036,Screening,2024-02-15,15:41,69,195,99,351,446,Sinus bradycardia,Normal,No,Not required,Mortara ELI 350,Tech C
+STUDY001,SUB0036,Baseline,2024-03-14,09:56,77,152,88,377,388,Normal sinus rhythm,Normal,Yes,Not required,Philips PageWriter,Tech B
+STUDY001,SUB0036,Week 4,2024-04-11,16:21,60,135,107,407,368,Sinus bradycardia,Normal,No,Not required,Mortara ELI 350,Tech C
+STUDY001,SUB0036,Week 8,2024-05-09,08:04,61,197,84,352,414,Sinus bradycardia,Normal,No,Reviewed - no action,GE MAC 5500,Tech C
+STUDY001,SUB0036,Week 12,2024-06-06,09:11,61,143,109,368,396,Sinus bradycardia,"Abnormal, not clinically significant",No,Reviewed - no action,GE MAC 5500,Tech B
+STUDY001,SUB0037,Screening,2024-02-15,09:17,67,142,85,430,417,Sinus bradycardia,Normal,No,Reviewed - no action,Philips PageWriter,Tech B
+STUDY001,SUB0037,Baseline,2024-03-14,12:28,64,133,82,424,445,Sinus tachycardia,Normal,Yes,Reviewed - no action,Mortara ELI 350,Tech C
+STUDY001,SUB0037,Week 4,2024-04-11,16:13,60,174,106,414,416,Sinus tachycardia,Normal,Yes,Reviewed - follow up,Philips PageWriter,Tech A
+STUDY001,SUB0037,Week 8,2024-05-09,16:23,77,169,108,418,411,Sinus tachycardia,Normal,No,Not required,Philips PageWriter,Tech A
+STUDY001,SUB0037,Week 12,2024-06-06,14:38,73,166,90,366,391,Sinus tachycardia,Normal,Yes,Reviewed - no action,Philips PageWriter,Tech B
+STUDY001,SUB0038,Screening,2024-02-15,16:09,69,132,103,362,397,Normal sinus rhythm,Normal,No,Reviewed - follow up,GE MAC 5500,Tech C
+STUDY001,SUB0038,Baseline,2024-03-14,14:52,65,143,98,423,446,Sinus tachycardia,"Abnormal, not clinically significant",No,Reviewed - follow up,Mortara ELI 350,Tech C
+STUDY001,SUB0038,Week 4,2024-04-11,13:43,81,177,110,353,405,Sinus tachycardia,Normal,No,Not required,Mortara ELI 350,Tech A
+STUDY001,SUB0038,Week 8,2024-05-09,10:20,81,139,104,394,424,Normal sinus rhythm,Normal,No,Reviewed - no action,GE MAC 5500,Tech C
+STUDY001,SUB0038,Week 12,2024-06-06,14:00,60,150,99,402,389,Sinus tachycardia,Normal,No,Not required,GE MAC 5500,Tech B
+STUDY001,SUB0039,Screening,2024-02-15,08:56,101,150,81,378,409,Normal sinus rhythm,"Abnormal, clinically significant",No,Reviewed - follow up,GE MAC 5500,Tech C
+STUDY001,SUB0039,Baseline,2024-03-14,10:27,80,160,102,384,400,Normal sinus rhythm,Normal,No,Reviewed - no action,Mortara ELI 350,Tech C
+STUDY001,SUB0039,Week 4,2024-04-11,13:50,103,163,101,424,364,Sinus tachycardia,Normal,No,Reviewed - no action,Mortara ELI 350,Tech A
+STUDY001,SUB0039,Week 8,2024-05-09,08:40,90,188,80,407,400,Normal sinus rhythm,Normal,No,Reviewed - no action,Philips PageWriter,Tech B
+STUDY001,SUB0039,Week 12,2024-06-06,13:13,79,137,85,353,363,Sinus bradycardia,"Abnormal, not clinically significant",No,Not required,Philips PageWriter,Tech C
+STUDY001,SUB0040,Screening,2024-02-15,09:14,52,195,80,354,420,Normal sinus rhythm,Normal,No,Reviewed - no action,Philips PageWriter,Tech B
+STUDY001,SUB0040,Baseline,2024-03-14,12:42,70,187,84,387,356,Normal sinus rhythm,"Abnormal, not clinically significant",No,Not required,Philips PageWriter,Tech A
+STUDY001,SUB0040,Week 4,2024-04-11,12:38,62,158,104,379,386,Sinus bradycardia,Normal,Yes,Not required,Mortara ELI 350,Tech C
+STUDY001,SUB0040,Week 8,2024-05-09,09:09,73,155,110,388,376,Sinus tachycardia,Normal,No,Not required,Mortara ELI 350,Tech B
+STUDY001,SUB0040,Week 12,2024-06-06,14:28,71,135,85,399,431,Sinus bradycardia,"Abnormal, clinically significant",No,Reviewed - no action,GE MAC 5500,Tech C
+STUDY001,SUB0041,Screening,2024-02-15,13:57,69,181,110,357,403,Sinus bradycardia,Normal,No,Reviewed - follow up,GE MAC 5500,Tech C
+STUDY001,SUB0041,Baseline,2024-03-14,12:46,73,183,100,352,437,Sinus tachycardia,Normal,No,Reviewed - follow up,Philips PageWriter,Tech C
+STUDY001,SUB0041,Week 4,2024-04-11,15:46,68,157,84,390,430,Sinus bradycardia,Normal,No,Reviewed - no action,Philips PageWriter,Tech A
+STUDY001,SUB0041,Week 8,2024-05-09,11:33,62,190,101,429,432,Normal sinus rhythm,Normal,No,Reviewed - no action,Philips PageWriter,Tech C
+STUDY001,SUB0041,Week 12,2024-06-06,15:24,57,123,89,414,403,Sinus tachycardia,Normal,No,Not required,Philips PageWriter,Tech A
+STUDY001,SUB0042,Screening,2024-02-15,09:24,78,175,89,406,377,Normal sinus rhythm,Normal,No,Not required,Philips PageWriter,Tech C
+STUDY001,SUB0042,Baseline,2024-03-14,16:18,58,194,81,423,400,Sinus bradycardia,Normal,No,Reviewed - follow up,Philips PageWriter,Tech A
+STUDY001,SUB0042,Week 4,2024-04-11,15:16,65,143,92,407,375,Sinus bradycardia,Normal,No,Not required,Philips PageWriter,Tech B
+STUDY001,SUB0042,Week 8,2024-05-09,08:14,82,166,104,410,392,Normal sinus rhythm,Normal,No,Not required,Mortara ELI 350,Tech A
+STUDY001,SUB0042,Week 12,2024-06-06,13:35,80,165,82,404,446,Sinus bradycardia,Normal,No,Reviewed - no action,GE MAC 5500,Tech B
+STUDY001,SUB0043,Screening,2024-02-15,11:55,83,178,80,377,439,Normal sinus rhythm,Normal,No,Reviewed - no action,Mortara ELI 350,Tech A
+STUDY001,SUB0043,Baseline,2024-03-14,16:02,92,136,100,357,409,Sinus bradycardia,Normal,No,Reviewed - follow up,Philips PageWriter,Tech C
+STUDY001,SUB0043,Week 4,2024-04-11,09:59,74,162,97,359,390,Normal sinus rhythm,Normal,No,Reviewed - follow up,Philips PageWriter,Tech A
+STUDY001,SUB0043,Week 8,2024-05-09,13:43,83,179,88,427,420,Sinus tachycardia,Normal,Yes,Reviewed - no action,Mortara ELI 350,Tech A
+STUDY001,SUB0043,Week 12,2024-06-06,16:05,93,146,109,381,359,Normal sinus rhythm,"Abnormal, clinically significant",No,Reviewed - no action,GE MAC 5500,Tech B
+STUDY001,SUB0044,Screening,2024-02-15,11:02,102,184,84,398,423,Sinus bradycardia,Normal,Yes,Not required,Philips PageWriter,Tech C
+STUDY001,SUB0044,Baseline,2024-03-14,14:02,94,121,109,418,350,Sinus bradycardia,"Abnormal, not clinically significant",No,Reviewed - no action,Philips PageWriter,Tech B
+STUDY001,SUB0044,Week 4,2024-04-11,11:19,87,165,106,429,443,Normal sinus rhythm,Normal,No,Reviewed - follow up,Mortara ELI 350,Tech C
+STUDY001,SUB0044,Week 8,2024-05-09,16:14,100,163,85,410,368,Sinus bradycardia,"Abnormal, not clinically significant",No,Reviewed - follow up,Philips PageWriter,Tech A
+STUDY001,SUB0044,Week 12,2024-06-06,10:14,105,175,91,410,441,Normal sinus rhythm,Normal,No,Not required,GE MAC 5500,Tech C
+STUDY001,SUB0045,Screening,2024-02-15,08:52,84,125,89,398,419,Normal sinus rhythm,Normal,No,Reviewed - no action,Mortara ELI 350,Tech A
+STUDY001,SUB0045,Baseline,2024-03-14,15:58,90,155,85,388,401,Normal sinus rhythm,Normal,No,Not required,GE MAC 5500,Tech C
+STUDY001,SUB0045,Week 4,2024-04-11,10:07,98,138,96,382,365,Normal sinus rhythm,Normal,No,Reviewed - no action,GE MAC 5500,Tech B
+STUDY001,SUB0045,Week 8,2024-05-09,13:39,87,148,99,408,353,Normal sinus rhythm,Normal,Yes,Reviewed - follow up,Mortara ELI 350,Tech C
+STUDY001,SUB0045,Week 12,2024-06-06,12:52,80,137,90,407,402,Normal sinus rhythm,Normal,No,Reviewed - no action,Philips PageWriter,Tech A
+STUDY001,SUB0046,Screening,2024-02-15,11:17,88,198,105,372,358,Normal sinus rhythm,Normal,No,Reviewed - no action,Mortara ELI 350,Tech C
+STUDY001,SUB0046,Baseline,2024-03-14,16:44,71,161,108,405,424,Normal sinus rhythm,"Abnormal, clinically significant",No,Reviewed - follow up,Philips PageWriter,Tech C
+STUDY001,SUB0046,Week 4,2024-04-11,11:18,86,176,108,380,361,Sinus bradycardia,Normal,Yes,Reviewed - follow up,GE MAC 5500,Tech B
+STUDY001,SUB0046,Week 8,2024-05-09,09:58,87,128,95,358,423,Sinus bradycardia,"Abnormal, not clinically significant",Yes,Reviewed - follow up,Philips PageWriter,Tech A
+STUDY001,SUB0046,Week 12,2024-06-06,13:22,84,156,108,429,414,Sinus tachycardia,"Abnormal, clinically significant",No,Reviewed - no action,Philips PageWriter,Tech A
+STUDY001,SUB0047,Screening,2024-02-15,12:38,89,153,95,394,443,Sinus bradycardia,Normal,No,Not required,GE MAC 5500,Tech B
+STUDY001,SUB0047,Baseline,2024-03-14,12:20,74,197,98,384,416,Normal sinus rhythm,Normal,No,Not required,GE MAC 5500,Tech A
+STUDY001,SUB0047,Week 4,2024-04-11,15:14,96,134,89,351,366,Sinus bradycardia,Normal,No,Reviewed - no action,Mortara ELI 350,Tech C
+STUDY001,SUB0047,Week 8,2024-05-09,10:46,87,169,109,409,367,Normal sinus rhythm,"Abnormal, not clinically significant",Yes,Not required,GE MAC 5500,Tech C
+STUDY001,SUB0047,Week 12,2024-06-06,08:53,92,120,93,355,409,Sinus bradycardia,Normal,No,Not required,GE MAC 5500,Tech C
+STUDY001,SUB0048,Screening,2024-02-15,12:14,61,171,110,408,372,Sinus tachycardia,Normal,No,Reviewed - no action,Mortara ELI 350,Tech C
+STUDY001,SUB0048,Baseline,2024-03-14,13:21,56,184,110,371,402,Sinus tachycardia,Normal,No,Reviewed - no action,Philips PageWriter,Tech B
+STUDY001,SUB0048,Week 4,2024-04-11,11:12,68,159,108,378,351,Normal sinus rhythm,Normal,Yes,Reviewed - follow up,Mortara ELI 350,Tech C
+STUDY001,SUB0048,Week 8,2024-05-09,10:34,59,172,82,384,408,Normal sinus rhythm,"Abnormal, not clinically significant",No,Not required,Philips PageWriter,Tech B
+STUDY001,SUB0048,Week 12,2024-06-06,13:42,68,150,83,414,407,Sinus bradycardia,Normal,Yes,Not required,GE MAC 5500,Tech C
+STUDY001,SUB0049,Screening,2024-02-15,15:39,81,147,107,427,397,Sinus bradycardia,Normal,Yes,Not required,Philips PageWriter,Tech B
+STUDY001,SUB0049,Baseline,2024-03-14,11:04,84,127,96,428,409,Normal sinus rhythm,Normal,Yes,Reviewed - no action,Mortara ELI 350,Tech A
+STUDY001,SUB0049,Week 4,2024-04-11,10:06,89,188,90,425,395,Normal sinus rhythm,Normal,Yes,Not required,GE MAC 5500,Tech C
+STUDY001,SUB0049,Week 8,2024-05-09,09:55,89,168,103,389,362,Sinus bradycardia,Normal,No,Not required,Philips PageWriter,Tech B
+STUDY001,SUB0049,Week 12,2024-06-06,16:42,103,171,82,382,379,Sinus tachycardia,"Abnormal, not clinically significant",Yes,Reviewed - no action,GE MAC 5500,Tech A
+STUDY001,SUB0050,Screening,2024-02-15,08:47,70,194,81,408,398,Sinus bradycardia,Normal,No,Reviewed - no action,Philips PageWriter,Tech B
+STUDY001,SUB0050,Baseline,2024-03-14,15:01,81,166,107,368,386,Normal sinus rhythm,Normal,No,Reviewed - follow up,Mortara ELI 350,Tech A
+STUDY001,SUB0050,Week 4,2024-04-11,13:41,74,171,103,400,421,Sinus tachycardia,Normal,Yes,Reviewed - follow up,Philips PageWriter,Tech C
+STUDY001,SUB0050,Week 8,2024-05-09,11:21,80,177,95,387,393,Sinus tachycardia,Normal,No,Not required,Philips PageWriter,Tech B
+STUDY001,SUB0050,Week 12,2024-06-06,11:42,68,156,93,400,353,Sinus tachycardia,Normal,No,Reviewed - follow up,Philips PageWriter,Tech A

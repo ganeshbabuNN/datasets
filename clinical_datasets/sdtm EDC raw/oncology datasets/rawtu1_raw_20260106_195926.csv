@@ -1,0 +1,403 @@
+study_id,subject_id,visit_name,assessment_date,lesion_id,lesion_type,lesion_location,measurement_method,longest_diameter_mm,perpendicular_diameter_mm,lesion_present,target_lesion,evaluable,response_assessment,radiologist_name,scan_type,scan_date,dataset_name
+STUDY001,SUB0001,Screening,2024-02-15,T01,Target,Lung,CT Scan,27,21,Yes,Yes,Yes,Baseline,Dr. Johnson,MRI,2024-02-15,rawtu1
+STUDY001,SUB0001,Week 6,2024-03-28,T01,Target,Lung,CT Scan,27,19,Yes,Yes,Yes,Stable Disease,Dr. Smith,PET-CT,2024-03-28,rawtu1
+STUDY001,SUB0001,Week 12,2024-05-09,T01,Target,Lung,CT Scan,30,25,Yes,Yes,Yes,Stable Disease,Dr. Smith,PET-CT,2024-05-09,rawtu1
+STUDY001,SUB0001,Week 18,2024-06-20,T01,Target,Lung,CT Scan,27,22,Yes,Yes,Yes,Stable Disease,Dr. Brown,CT,2024-06-20,rawtu1
+STUDY001,SUB0001,Week 24,2024-08-01,T01,Target,Lung,CT Scan,32,28,Yes,Yes,Yes,Stable Disease,Dr. Smith,MRI,2024-08-01,rawtu1
+STUDY001,SUB0001,End of Study,2024-09-12,T01,Target,Lung,CT Scan,19,15,Yes,Yes,Yes,Stable Disease,Dr. Smith,CT,2024-09-12,rawtu1
+STUDY001,SUB0001,Screening,2024-02-15,T02,Target,Lymph node,CT Scan,19,14,Yes,Yes,Yes,Baseline,Dr. Johnson,PET-CT,2024-02-15,rawtu1
+STUDY001,SUB0001,Week 6,2024-03-28,T02,Target,Lymph node,CT Scan,17,13,Yes,Yes,Yes,Stable Disease,Dr. Brown,CT,2024-03-28,rawtu1
+STUDY001,SUB0001,Week 12,2024-05-09,T02,Target,Lymph node,CT Scan,18,12,Yes,Yes,Yes,Stable Disease,Dr. Johnson,PET-CT,2024-05-09,rawtu1
+STUDY001,SUB0001,Week 18,2024-06-20,T02,Target,Lymph node,CT Scan,13,11,Yes,Yes,Yes,Partial Response,Dr. Smith,MRI,2024-06-20,rawtu1
+STUDY001,SUB0001,Week 24,2024-08-01,T02,Target,Lymph node,CT Scan,15,9,Yes,Yes,Yes,Stable Disease,Dr. Smith,PET-CT,2024-08-01,rawtu1
+STUDY001,SUB0001,End of Study,2024-09-12,T02,Target,Lymph node,CT Scan,22,17,Yes,Yes,Yes,Stable Disease,Dr. Johnson,CT,2024-09-12,rawtu1
+STUDY001,SUB0002,Screening,2024-02-15,T01,Target,Bone,CT Scan,13,11,Yes,Yes,Yes,Baseline,Dr. Brown,CT,2024-02-15,rawtu1
+STUDY001,SUB0002,Week 6,2024-03-28,T01,Target,Bone,CT Scan,13,11,Yes,Yes,Yes,Stable Disease,Dr. Johnson,PET-CT,2024-03-28,rawtu1
+STUDY001,SUB0002,Week 12,2024-05-09,T01,Target,Bone,CT Scan,15,12,Yes,Yes,Yes,Stable Disease,Dr. Smith,CT,2024-05-09,rawtu1
+STUDY001,SUB0002,Week 18,2024-06-20,T01,Target,Bone,CT Scan,11,9,Yes,Yes,Yes,Stable Disease,Dr. Johnson,PET-CT,2024-06-20,rawtu1
+STUDY001,SUB0002,Week 24,2024-08-01,T01,Target,Bone,CT Scan,12,9,Yes,Yes,Yes,Stable Disease,Dr. Brown,PET-CT,2024-08-01,rawtu1
+STUDY001,SUB0002,End of Study,2024-09-12,T01,Target,Bone,CT Scan,18,11,Yes,Yes,Yes,Progressive Disease,Dr. Johnson,CT,2024-09-12,rawtu1
+STUDY001,SUB0002,Screening,2024-02-15,T02,Target,Bone,CT Scan,37,29,Yes,Yes,Yes,Baseline,Dr. Johnson,CT,2024-02-15,rawtu1
+STUDY001,SUB0002,Week 6,2024-03-28,T02,Target,Bone,CT Scan,38,26,Yes,Yes,Yes,Stable Disease,Dr. Johnson,CT,2024-03-28,rawtu1
+STUDY001,SUB0002,Week 12,2024-05-09,T02,Target,Bone,CT Scan,29,17,Yes,Yes,Yes,Stable Disease,Dr. Smith,MRI,2024-05-09,rawtu1
+STUDY001,SUB0002,Week 18,2024-06-20,T02,Target,Bone,CT Scan,46,31,Yes,Yes,Yes,Progressive Disease,Dr. Smith,PET-CT,2024-06-20,rawtu1
+STUDY001,SUB0002,Week 24,2024-08-01,T02,Target,Bone,CT Scan,38,31,Yes,Yes,Yes,Stable Disease,Dr. Johnson,CT,2024-08-01,rawtu1
+STUDY001,SUB0002,End of Study,2024-09-12,T02,Target,Bone,CT Scan,36,31,Yes,Yes,Yes,Stable Disease,Dr. Smith,PET-CT,2024-09-12,rawtu1
+STUDY001,SUB0003,Screening,2024-02-15,T01,Target,Liver,CT Scan,35,28,Yes,Yes,Yes,Baseline,Dr. Johnson,PET-CT,2024-02-15,rawtu1
+STUDY001,SUB0003,Week 6,2024-03-28,T01,Target,Liver,CT Scan,32,24,Yes,Yes,Yes,Stable Disease,Dr. Smith,CT,2024-03-28,rawtu1
+STUDY001,SUB0003,Week 12,2024-05-09,T01,Target,Liver,CT Scan,33,23,Yes,Yes,Yes,Stable Disease,Dr. Brown,PET-CT,2024-05-09,rawtu1
+STUDY001,SUB0003,Week 18,2024-06-20,T01,Target,Liver,CT Scan,38,27,Yes,Yes,Yes,Stable Disease,Dr. Smith,MRI,2024-06-20,rawtu1
+STUDY001,SUB0003,Week 24,2024-08-01,T01,Target,Liver,CT Scan,22,19,Yes,Yes,Yes,Partial Response,Dr. Smith,PET-CT,2024-08-01,rawtu1
+STUDY001,SUB0003,End of Study,2024-09-12,T01,Target,Liver,CT Scan,16,10,Yes,Yes,Yes,Partial Response,Dr. Brown,CT,2024-09-12,rawtu1
+STUDY001,SUB0003,Screening,2024-02-15,T02,Target,Lymph node,CT Scan,15,10,Yes,Yes,Yes,Baseline,Dr. Johnson,CT,2024-02-15,rawtu1
+STUDY001,SUB0003,Week 6,2024-03-28,T02,Target,Lymph node,CT Scan,15,12,Yes,Yes,Yes,Stable Disease,Dr. Smith,PET-CT,2024-03-28,rawtu1
+STUDY001,SUB0003,Week 12,2024-05-09,T02,Target,Lymph node,CT Scan,17,11,Yes,Yes,Yes,Stable Disease,Dr. Brown,MRI,2024-05-09,rawtu1
+STUDY001,SUB0003,Week 18,2024-06-20,T02,Target,Lymph node,CT Scan,12,7,Yes,Yes,Yes,Stable Disease,Dr. Johnson,PET-CT,2024-06-20,rawtu1
+STUDY001,SUB0003,Week 24,2024-08-01,T02,Target,Lymph node,CT Scan,17,12,Yes,Yes,Yes,Stable Disease,Dr. Johnson,PET-CT,2024-08-01,rawtu1
+STUDY001,SUB0003,End of Study,2024-09-12,T02,Target,Lymph node,CT Scan,16,13,Yes,Yes,Yes,Stable Disease,Dr. Smith,MRI,2024-09-12,rawtu1
+STUDY001,SUB0004,Screening,2024-02-15,T01,Target,Liver,CT Scan,38,33,Yes,Yes,Yes,Baseline,Dr. Johnson,PET-CT,2024-02-15,rawtu1
+STUDY001,SUB0004,Week 6,2024-03-28,T01,Target,Liver,CT Scan,32,22,Yes,Yes,Yes,Stable Disease,Dr. Brown,CT,2024-03-28,rawtu1
+STUDY001,SUB0004,Week 12,2024-05-09,T01,Target,Liver,CT Scan,31,18,Yes,Yes,Yes,Stable Disease,Dr. Smith,MRI,2024-05-09,rawtu1
+STUDY001,SUB0004,Week 18,2024-06-20,T01,Target,Liver,CT Scan,33,29,Yes,Yes,Yes,Stable Disease,Dr. Smith,PET-CT,2024-06-20,rawtu1
+STUDY001,SUB0004,Week 24,2024-08-01,T01,Target,Liver,CT Scan,36,28,Yes,Yes,Yes,Stable Disease,Dr. Brown,MRI,2024-08-01,rawtu1
+STUDY001,SUB0004,End of Study,2024-09-12,T01,Target,Liver,CT Scan,38,25,Yes,Yes,Yes,Stable Disease,Dr. Smith,PET-CT,2024-09-12,rawtu1
+STUDY001,SUB0004,Screening,2024-02-15,T02,Target,Lymph node,CT Scan,25,21,Yes,Yes,Yes,Baseline,Dr. Brown,CT,2024-02-15,rawtu1
+STUDY001,SUB0004,Week 6,2024-03-28,T02,Target,Lymph node,CT Scan,26,18,Yes,Yes,Yes,Stable Disease,Dr. Johnson,PET-CT,2024-03-28,rawtu1
+STUDY001,SUB0004,Week 12,2024-05-09,T02,Target,Lymph node,CT Scan,21,16,Yes,Yes,Yes,Stable Disease,Dr. Smith,PET-CT,2024-05-09,rawtu1
+STUDY001,SUB0004,Week 18,2024-06-20,T02,Target,Lymph node,CT Scan,26,16,Yes,Yes,Yes,Stable Disease,Dr. Johnson,CT,2024-06-20,rawtu1
+STUDY001,SUB0004,Week 24,2024-08-01,T02,Target,Lymph node,CT Scan,26,19,Yes,Yes,Yes,Stable Disease,Dr. Johnson,MRI,2024-08-01,rawtu1
+STUDY001,SUB0004,End of Study,2024-09-12,T02,Target,Lymph node,CT Scan,26,17,Yes,Yes,Yes,Stable Disease,Dr. Johnson,PET-CT,2024-09-12,rawtu1
+STUDY001,SUB0005,Screening,2024-02-15,T01,Target,Bone,CT Scan,33,23,Yes,Yes,Yes,Baseline,Dr. Brown,PET-CT,2024-02-15,rawtu1
+STUDY001,SUB0005,Week 6,2024-03-28,T01,Target,Bone,CT Scan,33,27,Yes,Yes,Yes,Stable Disease,Dr. Johnson,MRI,2024-03-28,rawtu1
+STUDY001,SUB0005,Week 12,2024-05-09,T01,Target,Bone,CT Scan,29,22,Yes,Yes,Yes,Stable Disease,Dr. Johnson,MRI,2024-05-09,rawtu1
+STUDY001,SUB0005,Week 18,2024-06-20,T01,Target,Bone,CT Scan,40,28,Yes,Yes,Yes,Progressive Disease,Dr. Brown,CT,2024-06-20,rawtu1
+STUDY001,SUB0005,Week 24,2024-08-01,T01,Target,Bone,CT Scan,24,15,Yes,Yes,Yes,Stable Disease,Dr. Smith,MRI,2024-08-01,rawtu1
+STUDY001,SUB0005,End of Study,2024-09-12,T01,Target,Bone,CT Scan,40,30,Yes,Yes,Yes,Progressive Disease,Dr. Smith,MRI,2024-09-12,rawtu1
+STUDY001,SUB0006,Screening,2024-02-15,T01,Target,Bone,CT Scan,44,36,Yes,Yes,Yes,Baseline,Dr. Smith,CT,2024-02-15,rawtu1
+STUDY001,SUB0006,Week 6,2024-03-28,T01,Target,Bone,CT Scan,39,25,Yes,Yes,Yes,Stable Disease,Dr. Smith,PET-CT,2024-03-28,rawtu1
+STUDY001,SUB0006,Week 12,2024-05-09,T01,Target,Bone,CT Scan,33,20,Yes,Yes,Yes,Stable Disease,Dr. Smith,MRI,2024-05-09,rawtu1
+STUDY001,SUB0006,Week 18,2024-06-20,T01,Target,Bone,CT Scan,27,17,Yes,Yes,Yes,Partial Response,Dr. Johnson,CT,2024-06-20,rawtu1
+STUDY001,SUB0006,Week 24,2024-08-01,T01,Target,Bone,CT Scan,49,33,Yes,Yes,Yes,Stable Disease,Dr. Brown,PET-CT,2024-08-01,rawtu1
+STUDY001,SUB0006,End of Study,2024-09-12,T01,Target,Bone,CT Scan,22,18,Yes,Yes,Yes,Partial Response,Dr. Johnson,CT,2024-09-12,rawtu1
+STUDY001,SUB0007,Screening,2024-02-15,T01,Target,Bone,CT Scan,22,15,Yes,Yes,Yes,Baseline,Dr. Johnson,CT,2024-02-15,rawtu1
+STUDY001,SUB0007,Week 6,2024-03-28,T01,Target,Bone,CT Scan,21,16,Yes,Yes,Yes,Stable Disease,Dr. Brown,CT,2024-03-28,rawtu1
+STUDY001,SUB0007,Week 12,2024-05-09,T01,Target,Bone,CT Scan,25,19,Yes,Yes,Yes,Stable Disease,Dr. Smith,CT,2024-05-09,rawtu1
+STUDY001,SUB0007,Week 18,2024-06-20,T01,Target,Bone,CT Scan,22,14,Yes,Yes,Yes,Stable Disease,Dr. Johnson,CT,2024-06-20,rawtu1
+STUDY001,SUB0007,Week 24,2024-08-01,T01,Target,Bone,CT Scan,13,10,Yes,Yes,Yes,Partial Response,Dr. Brown,PET-CT,2024-08-01,rawtu1
+STUDY001,SUB0007,End of Study,2024-09-12,T01,Target,Bone,CT Scan,12,9,Yes,Yes,Yes,Partial Response,Dr. Smith,CT,2024-09-12,rawtu1
+STUDY001,SUB0008,Screening,2024-02-15,T01,Target,Bone,CT Scan,31,26,Yes,Yes,Yes,Baseline,Dr. Brown,CT,2024-02-15,rawtu1
+STUDY001,SUB0008,Week 6,2024-03-28,T01,Target,Bone,CT Scan,30,21,Yes,Yes,Yes,Stable Disease,Dr. Smith,PET-CT,2024-03-28,rawtu1
+STUDY001,SUB0008,Week 12,2024-05-09,T01,Target,Bone,CT Scan,22,16,Yes,Yes,Yes,Stable Disease,Dr. Brown,CT,2024-05-09,rawtu1
+STUDY001,SUB0008,Week 18,2024-06-20,T01,Target,Bone,CT Scan,17,13,Yes,Yes,Yes,Partial Response,Dr. Smith,PET-CT,2024-06-20,rawtu1
+STUDY001,SUB0008,Week 24,2024-08-01,T01,Target,Bone,CT Scan,24,14,Yes,Yes,Yes,Stable Disease,Dr. Smith,CT,2024-08-01,rawtu1
+STUDY001,SUB0008,End of Study,2024-09-12,T01,Target,Bone,CT Scan,40,34,Yes,Yes,Yes,Progressive Disease,Dr. Brown,MRI,2024-09-12,rawtu1
+STUDY001,SUB0009,Screening,2024-02-15,T01,Target,Bone,CT Scan,22,17,Yes,Yes,Yes,Baseline,Dr. Brown,MRI,2024-02-15,rawtu1
+STUDY001,SUB0009,Week 6,2024-03-28,T01,Target,Bone,CT Scan,20,17,Yes,Yes,Yes,Stable Disease,Dr. Smith,MRI,2024-03-28,rawtu1
+STUDY001,SUB0009,Week 12,2024-05-09,T01,Target,Bone,CT Scan,24,18,Yes,Yes,Yes,Stable Disease,Dr. Smith,PET-CT,2024-05-09,rawtu1
+STUDY001,SUB0009,Week 18,2024-06-20,T01,Target,Bone,CT Scan,18,13,Yes,Yes,Yes,Stable Disease,Dr. Johnson,CT,2024-06-20,rawtu1
+STUDY001,SUB0009,Week 24,2024-08-01,T01,Target,Bone,CT Scan,28,21,Yes,Yes,Yes,Progressive Disease,Dr. Brown,MRI,2024-08-01,rawtu1
+STUDY001,SUB0009,End of Study,2024-09-12,T01,Target,Bone,CT Scan,26,20,Yes,Yes,Yes,Stable Disease,Dr. Johnson,CT,2024-09-12,rawtu1
+STUDY001,SUB0010,Screening,2024-02-15,T01,Target,Liver,CT Scan,26,17,Yes,Yes,Yes,Baseline,Dr. Smith,MRI,2024-02-15,rawtu1
+STUDY001,SUB0010,Week 6,2024-03-28,T01,Target,Liver,CT Scan,24,21,Yes,Yes,Yes,Stable Disease,Dr. Brown,PET-CT,2024-03-28,rawtu1
+STUDY001,SUB0010,Week 12,2024-05-09,T01,Target,Liver,CT Scan,30,25,Yes,Yes,Yes,Stable Disease,Dr. Johnson,CT,2024-05-09,rawtu1
+STUDY001,SUB0010,Week 18,2024-06-20,T01,Target,Liver,CT Scan,17,10,Yes,Yes,Yes,Partial Response,Dr. Smith,MRI,2024-06-20,rawtu1
+STUDY001,SUB0010,Week 24,2024-08-01,T01,Target,Liver,CT Scan,30,20,Yes,Yes,Yes,Stable Disease,Dr. Brown,CT,2024-08-01,rawtu1
+STUDY001,SUB0010,End of Study,2024-09-12,T01,Target,Liver,CT Scan,25,15,Yes,Yes,Yes,Stable Disease,Dr. Smith,MRI,2024-09-12,rawtu1
+STUDY001,SUB0011,Screening,2024-02-15,T01,Target,Bone,CT Scan,14,11,Yes,Yes,Yes,Baseline,Dr. Brown,PET-CT,2024-02-15,rawtu1
+STUDY001,SUB0011,Week 6,2024-03-28,T01,Target,Bone,CT Scan,15,12,Yes,Yes,Yes,Stable Disease,Dr. Smith,CT,2024-03-28,rawtu1
+STUDY001,SUB0011,Week 12,2024-05-09,T01,Target,Bone,CT Scan,13,10,Yes,Yes,Yes,Stable Disease,Dr. Brown,MRI,2024-05-09,rawtu1
+STUDY001,SUB0011,Week 18,2024-06-20,T01,Target,Bone,CT Scan,18,14,Yes,Yes,Yes,Progressive Disease,Dr. Brown,MRI,2024-06-20,rawtu1
+STUDY001,SUB0011,Week 24,2024-08-01,T01,Target,Bone,CT Scan,18,15,Yes,Yes,Yes,Progressive Disease,Dr. Johnson,MRI,2024-08-01,rawtu1
+STUDY001,SUB0011,End of Study,2024-09-12,T01,Target,Bone,CT Scan,16,11,Yes,Yes,Yes,Stable Disease,Dr. Brown,PET-CT,2024-09-12,rawtu1
+STUDY001,SUB0011,Screening,2024-02-15,T02,Target,Lymph node,CT Scan,32,19,Yes,Yes,Yes,Baseline,Dr. Johnson,MRI,2024-02-15,rawtu1
+STUDY001,SUB0011,Week 6,2024-03-28,T02,Target,Lymph node,CT Scan,28,18,Yes,Yes,Yes,Stable Disease,Dr. Johnson,CT,2024-03-28,rawtu1
+STUDY001,SUB0011,Week 12,2024-05-09,T02,Target,Lymph node,CT Scan,32,23,Yes,Yes,Yes,Stable Disease,Dr. Smith,CT,2024-05-09,rawtu1
+STUDY001,SUB0011,Week 18,2024-06-20,T02,Target,Lymph node,CT Scan,35,29,Yes,Yes,Yes,Stable Disease,Dr. Johnson,PET-CT,2024-06-20,rawtu1
+STUDY001,SUB0011,Week 24,2024-08-01,T02,Target,Lymph node,CT Scan,42,27,Yes,Yes,Yes,Progressive Disease,Dr. Brown,MRI,2024-08-01,rawtu1
+STUDY001,SUB0011,End of Study,2024-09-12,T02,Target,Lymph node,CT Scan,30,22,Yes,Yes,Yes,Stable Disease,Dr. Johnson,CT,2024-09-12,rawtu1
+STUDY001,SUB0012,Screening,2024-02-15,T01,Target,Lymph node,CT Scan,27,19,Yes,Yes,Yes,Baseline,Dr. Brown,PET-CT,2024-02-15,rawtu1
+STUDY001,SUB0012,Week 6,2024-03-28,T01,Target,Lymph node,CT Scan,26,17,Yes,Yes,Yes,Stable Disease,Dr. Brown,CT,2024-03-28,rawtu1
+STUDY001,SUB0012,Week 12,2024-05-09,T01,Target,Lymph node,CT Scan,19,11,Yes,Yes,Yes,Stable Disease,Dr. Brown,MRI,2024-05-09,rawtu1
+STUDY001,SUB0012,Week 18,2024-06-20,T01,Target,Lymph node,CT Scan,18,15,Yes,Yes,Yes,Partial Response,Dr. Brown,PET-CT,2024-06-20,rawtu1
+STUDY001,SUB0012,Week 24,2024-08-01,T01,Target,Lymph node,CT Scan,36,22,Yes,Yes,Yes,Progressive Disease,Dr. Johnson,CT,2024-08-01,rawtu1
+STUDY001,SUB0012,End of Study,2024-09-12,T01,Target,Lymph node,CT Scan,30,23,Yes,Yes,Yes,Stable Disease,Dr. Johnson,CT,2024-09-12,rawtu1
+STUDY001,SUB0013,Screening,2024-02-15,T01,Target,Lymph node,CT Scan,39,25,Yes,Yes,Yes,Baseline,Dr. Johnson,PET-CT,2024-02-15,rawtu1
+STUDY001,SUB0013,Week 6,2024-03-28,T01,Target,Lymph node,CT Scan,36,23,Yes,Yes,Yes,Stable Disease,Dr. Brown,MRI,2024-03-28,rawtu1
+STUDY001,SUB0013,Week 12,2024-05-09,T01,Target,Lymph node,CT Scan,34,29,Yes,Yes,Yes,Stable Disease,Dr. Brown,CT,2024-05-09,rawtu1
+STUDY001,SUB0013,Week 18,2024-06-20,T01,Target,Lymph node,CT Scan,28,17,Yes,Yes,Yes,Stable Disease,Dr. Brown,PET-CT,2024-06-20,rawtu1
+STUDY001,SUB0013,Week 24,2024-08-01,T01,Target,Lymph node,CT Scan,20,15,Yes,Yes,Yes,Partial Response,Dr. Brown,CT,2024-08-01,rawtu1
+STUDY001,SUB0013,End of Study,2024-09-12,T01,Target,Lymph node,CT Scan,47,39,Yes,Yes,Yes,Progressive Disease,Dr. Brown,PET-CT,2024-09-12,rawtu1
+STUDY001,SUB0013,Screening,2024-02-15,T02,Target,Lung,CT Scan,45,39,Yes,Yes,Yes,Baseline,Dr. Brown,MRI,2024-02-15,rawtu1
+STUDY001,SUB0013,Week 6,2024-03-28,T02,Target,Lung,CT Scan,41,26,Yes,Yes,Yes,Stable Disease,Dr. Johnson,CT,2024-03-28,rawtu1
+STUDY001,SUB0013,Week 12,2024-05-09,T02,Target,Lung,CT Scan,32,25,Yes,Yes,Yes,Stable Disease,Dr. Brown,CT,2024-05-09,rawtu1
+STUDY001,SUB0013,Week 18,2024-06-20,T02,Target,Lung,CT Scan,40,32,Yes,Yes,Yes,Stable Disease,Dr. Johnson,CT,2024-06-20,rawtu1
+STUDY001,SUB0013,Week 24,2024-08-01,T02,Target,Lung,CT Scan,40,28,Yes,Yes,Yes,Stable Disease,Dr. Smith,CT,2024-08-01,rawtu1
+STUDY001,SUB0013,End of Study,2024-09-12,T02,Target,Lung,CT Scan,63,48,Yes,Yes,Yes,Progressive Disease,Dr. Johnson,PET-CT,2024-09-12,rawtu1
+STUDY001,SUB0014,Screening,2024-02-15,T01,Target,Bone,CT Scan,16,11,Yes,Yes,Yes,Baseline,Dr. Brown,PET-CT,2024-02-15,rawtu1
+STUDY001,SUB0014,Week 6,2024-03-28,T01,Target,Bone,CT Scan,15,10,Yes,Yes,Yes,Stable Disease,Dr. Brown,MRI,2024-03-28,rawtu1
+STUDY001,SUB0014,Week 12,2024-05-09,T01,Target,Bone,CT Scan,13,8,Yes,Yes,Yes,Stable Disease,Dr. Brown,CT,2024-05-09,rawtu1
+STUDY001,SUB0014,Week 18,2024-06-20,T01,Target,Bone,CT Scan,14,11,Yes,Yes,Yes,Stable Disease,Dr. Johnson,CT,2024-06-20,rawtu1
+STUDY001,SUB0014,Week 24,2024-08-01,T01,Target,Bone,CT Scan,10,6,Yes,Yes,Yes,Partial Response,Dr. Johnson,PET-CT,2024-08-01,rawtu1
+STUDY001,SUB0014,End of Study,2024-09-12,T01,Target,Bone,CT Scan,23,19,Yes,Yes,Yes,Progressive Disease,Dr. Smith,PET-CT,2024-09-12,rawtu1
+STUDY001,SUB0015,Screening,2024-02-15,T01,Target,Lung,CT Scan,14,12,Yes,Yes,Yes,Baseline,Dr. Johnson,PET-CT,2024-02-15,rawtu1
+STUDY001,SUB0015,Week 6,2024-03-28,T01,Target,Lung,CT Scan,12,10,Yes,Yes,Yes,Stable Disease,Dr. Smith,MRI,2024-03-28,rawtu1
+STUDY001,SUB0015,Week 12,2024-05-09,T01,Target,Lung,CT Scan,16,11,Yes,Yes,Yes,Stable Disease,Dr. Johnson,CT,2024-05-09,rawtu1
+STUDY001,SUB0015,Week 18,2024-06-20,T01,Target,Lung,CT Scan,16,12,Yes,Yes,Yes,Stable Disease,Dr. Johnson,PET-CT,2024-06-20,rawtu1
+STUDY001,SUB0015,Week 24,2024-08-01,T01,Target,Lung,CT Scan,6,4,Yes,Yes,Yes,Partial Response,Dr. Brown,MRI,2024-08-01,rawtu1
+STUDY001,SUB0015,End of Study,2024-09-12,T01,Target,Lung,CT Scan,6,4,Yes,Yes,Yes,Partial Response,Dr. Johnson,MRI,2024-09-12,rawtu1
+STUDY001,SUB0015,Screening,2024-02-15,T02,Target,Lung,CT Scan,11,7,Yes,Yes,Yes,Baseline,Dr. Johnson,CT,2024-02-15,rawtu1
+STUDY001,SUB0015,Week 6,2024-03-28,T02,Target,Lung,CT Scan,10,8,Yes,Yes,Yes,Stable Disease,Dr. Smith,PET-CT,2024-03-28,rawtu1
+STUDY001,SUB0015,Week 12,2024-05-09,T02,Target,Lung,CT Scan,10,6,Yes,Yes,Yes,Stable Disease,Dr. Smith,PET-CT,2024-05-09,rawtu1
+STUDY001,SUB0015,Week 18,2024-06-20,T02,Target,Lung,CT Scan,13,8,Yes,Yes,Yes,Stable Disease,Dr. Johnson,MRI,2024-06-20,rawtu1
+STUDY001,SUB0015,Week 24,2024-08-01,T02,Target,Lung,CT Scan,12,10,Yes,Yes,Yes,Stable Disease,Dr. Johnson,PET-CT,2024-08-01,rawtu1
+STUDY001,SUB0015,End of Study,2024-09-12,T02,Target,Lung,CT Scan,6,4,Yes,Yes,Yes,Partial Response,Dr. Brown,MRI,2024-09-12,rawtu1
+STUDY001,SUB0016,Screening,2024-02-15,T01,Target,Lung,CT Scan,42,34,Yes,Yes,Yes,Baseline,Dr. Smith,PET-CT,2024-02-15,rawtu1
+STUDY001,SUB0016,Week 6,2024-03-28,T01,Target,Lung,CT Scan,38,26,Yes,Yes,Yes,Stable Disease,Dr. Brown,CT,2024-03-28,rawtu1
+STUDY001,SUB0016,Week 12,2024-05-09,T01,Target,Lung,CT Scan,47,39,Yes,Yes,Yes,Stable Disease,Dr. Johnson,MRI,2024-05-09,rawtu1
+STUDY001,SUB0016,Week 18,2024-06-20,T01,Target,Lung,CT Scan,41,31,Yes,Yes,Yes,Stable Disease,Dr. Smith,CT,2024-06-20,rawtu1
+STUDY001,SUB0016,Week 24,2024-08-01,T01,Target,Lung,CT Scan,53,40,Yes,Yes,Yes,Progressive Disease,Dr. Smith,CT,2024-08-01,rawtu1
+STUDY001,SUB0016,End of Study,2024-09-12,T01,Target,Lung,CT Scan,25,19,Yes,Yes,Yes,Partial Response,Dr. Brown,PET-CT,2024-09-12,rawtu1
+STUDY001,SUB0017,Screening,2024-02-15,T01,Target,Lymph node,CT Scan,36,27,Yes,Yes,Yes,Baseline,Dr. Smith,PET-CT,2024-02-15,rawtu1
+STUDY001,SUB0017,Week 6,2024-03-28,T01,Target,Lymph node,CT Scan,32,27,Yes,Yes,Yes,Stable Disease,Dr. Brown,CT,2024-03-28,rawtu1
+STUDY001,SUB0017,Week 12,2024-05-09,T01,Target,Lymph node,CT Scan,30,21,Yes,Yes,Yes,Stable Disease,Dr. Brown,MRI,2024-05-09,rawtu1
+STUDY001,SUB0017,Week 18,2024-06-20,T01,Target,Lymph node,CT Scan,19,14,Yes,Yes,Yes,Partial Response,Dr. Smith,MRI,2024-06-20,rawtu1
+STUDY001,SUB0017,Week 24,2024-08-01,T01,Target,Lymph node,CT Scan,45,36,Yes,Yes,Yes,Progressive Disease,Dr. Brown,MRI,2024-08-01,rawtu1
+STUDY001,SUB0017,End of Study,2024-09-12,T01,Target,Lymph node,CT Scan,36,31,Yes,Yes,Yes,Stable Disease,Dr. Johnson,CT,2024-09-12,rawtu1
+STUDY001,SUB0017,Screening,2024-02-15,T02,Target,Bone,CT Scan,25,21,Yes,Yes,Yes,Baseline,Dr. Johnson,PET-CT,2024-02-15,rawtu1
+STUDY001,SUB0017,Week 6,2024-03-28,T02,Target,Bone,CT Scan,21,15,Yes,Yes,Yes,Stable Disease,Dr. Johnson,MRI,2024-03-28,rawtu1
+STUDY001,SUB0017,Week 12,2024-05-09,T02,Target,Bone,CT Scan,24,20,Yes,Yes,Yes,Stable Disease,Dr. Johnson,CT,2024-05-09,rawtu1
+STUDY001,SUB0017,Week 18,2024-06-20,T02,Target,Bone,CT Scan,29,18,Yes,Yes,Yes,Stable Disease,Dr. Smith,PET-CT,2024-06-20,rawtu1
+STUDY001,SUB0017,Week 24,2024-08-01,T02,Target,Bone,CT Scan,31,27,Yes,Yes,Yes,Progressive Disease,Dr. Johnson,PET-CT,2024-08-01,rawtu1
+STUDY001,SUB0017,End of Study,2024-09-12,T02,Target,Bone,CT Scan,30,22,Yes,Yes,Yes,Progressive Disease,Dr. Brown,MRI,2024-09-12,rawtu1
+STUDY001,SUB0018,Screening,2024-02-15,T01,Target,Bone,CT Scan,44,27,Yes,Yes,Yes,Baseline,Dr. Brown,CT,2024-02-15,rawtu1
+STUDY001,SUB0018,Week 6,2024-03-28,T01,Target,Bone,CT Scan,46,32,Yes,Yes,Yes,Stable Disease,Dr. Smith,CT,2024-03-28,rawtu1
+STUDY001,SUB0018,Week 12,2024-05-09,T01,Target,Bone,CT Scan,40,31,Yes,Yes,Yes,Stable Disease,Dr. Smith,MRI,2024-05-09,rawtu1
+STUDY001,SUB0018,Week 18,2024-06-20,T01,Target,Bone,CT Scan,44,28,Yes,Yes,Yes,Stable Disease,Dr. Johnson,CT,2024-06-20,rawtu1
+STUDY001,SUB0018,Week 24,2024-08-01,T01,Target,Bone,CT Scan,41,31,Yes,Yes,Yes,Stable Disease,Dr. Brown,CT,2024-08-01,rawtu1
+STUDY001,SUB0018,End of Study,2024-09-12,T01,Target,Bone,CT Scan,44,30,Yes,Yes,Yes,Stable Disease,Dr. Johnson,CT,2024-09-12,rawtu1
+STUDY001,SUB0019,Screening,2024-02-15,T01,Target,Lung,CT Scan,34,22,Yes,Yes,Yes,Baseline,Dr. Brown,MRI,2024-02-15,rawtu1
+STUDY001,SUB0019,Week 6,2024-03-28,T01,Target,Lung,CT Scan,34,27,Yes,Yes,Yes,Stable Disease,Dr. Smith,PET-CT,2024-03-28,rawtu1
+STUDY001,SUB0019,Week 12,2024-05-09,T01,Target,Lung,CT Scan,32,24,Yes,Yes,Yes,Stable Disease,Dr. Smith,CT,2024-05-09,rawtu1
+STUDY001,SUB0019,Week 18,2024-06-20,T01,Target,Lung,CT Scan,32,28,Yes,Yes,Yes,Stable Disease,Dr. Johnson,PET-CT,2024-06-20,rawtu1
+STUDY001,SUB0019,Week 24,2024-08-01,T01,Target,Lung,CT Scan,46,37,Yes,Yes,Yes,Progressive Disease,Dr. Brown,PET-CT,2024-08-01,rawtu1
+STUDY001,SUB0019,End of Study,2024-09-12,T01,Target,Lung,CT Scan,21,15,Yes,Yes,Yes,Partial Response,Dr. Johnson,MRI,2024-09-12,rawtu1
+STUDY001,SUB0020,Screening,2024-02-15,T01,Target,Lung,CT Scan,27,21,Yes,Yes,Yes,Baseline,Dr. Brown,PET-CT,2024-02-15,rawtu1
+STUDY001,SUB0020,Week 6,2024-03-28,T01,Target,Lung,CT Scan,28,24,Yes,Yes,Yes,Stable Disease,Dr. Brown,CT,2024-03-28,rawtu1
+STUDY001,SUB0020,Week 12,2024-05-09,T01,Target,Lung,CT Scan,20,12,Yes,Yes,Yes,Stable Disease,Dr. Brown,PET-CT,2024-05-09,rawtu1
+STUDY001,SUB0020,Week 18,2024-06-20,T01,Target,Lung,CT Scan,26,23,Yes,Yes,Yes,Stable Disease,Dr. Johnson,MRI,2024-06-20,rawtu1
+STUDY001,SUB0020,Week 24,2024-08-01,T01,Target,Lung,CT Scan,34,20,Yes,Yes,Yes,Progressive Disease,Dr. Smith,PET-CT,2024-08-01,rawtu1
+STUDY001,SUB0020,End of Study,2024-09-12,T01,Target,Lung,CT Scan,36,21,Yes,Yes,Yes,Progressive Disease,Dr. Brown,PET-CT,2024-09-12,rawtu1
+STUDY001,SUB0021,Screening,2024-02-15,T01,Target,Bone,CT Scan,34,22,Yes,Yes,Yes,Baseline,Dr. Smith,CT,2024-02-15,rawtu1
+STUDY001,SUB0021,Week 6,2024-03-28,T01,Target,Bone,CT Scan,33,20,Yes,Yes,Yes,Stable Disease,Dr. Johnson,CT,2024-03-28,rawtu1
+STUDY001,SUB0021,Week 12,2024-05-09,T01,Target,Bone,CT Scan,40,34,Yes,Yes,Yes,Stable Disease,Dr. Smith,PET-CT,2024-05-09,rawtu1
+STUDY001,SUB0021,Week 18,2024-06-20,T01,Target,Bone,CT Scan,26,22,Yes,Yes,Yes,Stable Disease,Dr. Smith,CT,2024-06-20,rawtu1
+STUDY001,SUB0021,Week 24,2024-08-01,T01,Target,Bone,CT Scan,24,18,Yes,Yes,Yes,Stable Disease,Dr. Johnson,MRI,2024-08-01,rawtu1
+STUDY001,SUB0021,End of Study,2024-09-12,T01,Target,Bone,CT Scan,38,25,Yes,Yes,Yes,Stable Disease,Dr. Johnson,CT,2024-09-12,rawtu1
+STUDY001,SUB0022,Screening,2024-02-15,T01,Target,Lung,CT Scan,23,14,Yes,Yes,Yes,Baseline,Dr. Johnson,PET-CT,2024-02-15,rawtu1
+STUDY001,SUB0022,Week 6,2024-03-28,T01,Target,Lung,CT Scan,20,17,Yes,Yes,Yes,Stable Disease,Dr. Smith,PET-CT,2024-03-28,rawtu1
+STUDY001,SUB0022,Week 12,2024-05-09,T01,Target,Lung,CT Scan,19,12,Yes,Yes,Yes,Stable Disease,Dr. Smith,CT,2024-05-09,rawtu1
+STUDY001,SUB0022,Week 18,2024-06-20,T01,Target,Lung,CT Scan,25,19,Yes,Yes,Yes,Stable Disease,Dr. Smith,CT,2024-06-20,rawtu1
+STUDY001,SUB0022,Week 24,2024-08-01,T01,Target,Lung,CT Scan,13,10,Yes,Yes,Yes,Partial Response,Dr. Brown,CT,2024-08-01,rawtu1
+STUDY001,SUB0022,End of Study,2024-09-12,T01,Target,Lung,CT Scan,8,6,Yes,Yes,Yes,Partial Response,Dr. Johnson,CT,2024-09-12,rawtu1
+STUDY001,SUB0022,Screening,2024-02-15,T02,Target,Liver,CT Scan,29,20,Yes,Yes,Yes,Baseline,Dr. Johnson,CT,2024-02-15,rawtu1
+STUDY001,SUB0022,Week 6,2024-03-28,T02,Target,Liver,CT Scan,26,21,Yes,Yes,Yes,Stable Disease,Dr. Brown,CT,2024-03-28,rawtu1
+STUDY001,SUB0022,Week 12,2024-05-09,T02,Target,Liver,CT Scan,28,25,Yes,Yes,Yes,Stable Disease,Dr. Brown,CT,2024-05-09,rawtu1
+STUDY001,SUB0022,Week 18,2024-06-20,T02,Target,Liver,CT Scan,26,16,Yes,Yes,Yes,Stable Disease,Dr. Brown,MRI,2024-06-20,rawtu1
+STUDY001,SUB0022,Week 24,2024-08-01,T02,Target,Liver,CT Scan,20,12,Yes,Yes,Yes,Partial Response,Dr. Smith,PET-CT,2024-08-01,rawtu1
+STUDY001,SUB0022,End of Study,2024-09-12,T02,Target,Liver,CT Scan,10,6,Yes,Yes,Yes,Partial Response,Dr. Johnson,MRI,2024-09-12,rawtu1
+STUDY001,SUB0023,Screening,2024-02-15,T01,Target,Lung,CT Scan,26,22,Yes,Yes,Yes,Baseline,Dr. Smith,PET-CT,2024-02-15,rawtu1
+STUDY001,SUB0023,Week 6,2024-03-28,T01,Target,Lung,CT Scan,27,22,Yes,Yes,Yes,Stable Disease,Dr. Brown,CT,2024-03-28,rawtu1
+STUDY001,SUB0023,Week 12,2024-05-09,T01,Target,Lung,CT Scan,26,16,Yes,Yes,Yes,Stable Disease,Dr. Smith,MRI,2024-05-09,rawtu1
+STUDY001,SUB0023,Week 18,2024-06-20,T01,Target,Lung,CT Scan,28,21,Yes,Yes,Yes,Stable Disease,Dr. Johnson,PET-CT,2024-06-20,rawtu1
+STUDY001,SUB0023,Week 24,2024-08-01,T01,Target,Lung,CT Scan,27,18,Yes,Yes,Yes,Stable Disease,Dr. Smith,PET-CT,2024-08-01,rawtu1
+STUDY001,SUB0023,End of Study,2024-09-12,T01,Target,Lung,CT Scan,32,26,Yes,Yes,Yes,Progressive Disease,Dr. Smith,MRI,2024-09-12,rawtu1
+STUDY001,SUB0024,Screening,2024-02-15,T01,Target,Liver,CT Scan,23,18,Yes,Yes,Yes,Baseline,Dr. Smith,CT,2024-02-15,rawtu1
+STUDY001,SUB0024,Week 6,2024-03-28,T01,Target,Liver,CT Scan,19,14,Yes,Yes,Yes,Stable Disease,Dr. Johnson,CT,2024-03-28,rawtu1
+STUDY001,SUB0024,Week 12,2024-05-09,T01,Target,Liver,CT Scan,23,14,Yes,Yes,Yes,Stable Disease,Dr. Johnson,CT,2024-05-09,rawtu1
+STUDY001,SUB0024,Week 18,2024-06-20,T01,Target,Liver,CT Scan,17,11,Yes,Yes,Yes,Stable Disease,Dr. Smith,MRI,2024-06-20,rawtu1
+STUDY001,SUB0024,Week 24,2024-08-01,T01,Target,Liver,CT Scan,19,15,Yes,Yes,Yes,Stable Disease,Dr. Smith,MRI,2024-08-01,rawtu1
+STUDY001,SUB0024,End of Study,2024-09-12,T01,Target,Liver,CT Scan,12,10,Yes,Yes,Yes,Partial Response,Dr. Johnson,PET-CT,2024-09-12,rawtu1
+STUDY001,SUB0025,Screening,2024-02-15,T01,Target,Lung,CT Scan,37,24,Yes,Yes,Yes,Baseline,Dr. Johnson,MRI,2024-02-15,rawtu1
+STUDY001,SUB0025,Week 6,2024-03-28,T01,Target,Lung,CT Scan,32,24,Yes,Yes,Yes,Stable Disease,Dr. Johnson,PET-CT,2024-03-28,rawtu1
+STUDY001,SUB0025,Week 12,2024-05-09,T01,Target,Lung,CT Scan,32,23,Yes,Yes,Yes,Stable Disease,Dr. Smith,MRI,2024-05-09,rawtu1
+STUDY001,SUB0025,Week 18,2024-06-20,T01,Target,Lung,CT Scan,34,26,Yes,Yes,Yes,Stable Disease,Dr. Smith,CT,2024-06-20,rawtu1
+STUDY001,SUB0025,Week 24,2024-08-01,T01,Target,Lung,CT Scan,50,36,Yes,Yes,Yes,Progressive Disease,Dr. Johnson,CT,2024-08-01,rawtu1
+STUDY001,SUB0025,End of Study,2024-09-12,T01,Target,Lung,CT Scan,39,30,Yes,Yes,Yes,Stable Disease,Dr. Smith,MRI,2024-09-12,rawtu1
+STUDY001,SUB0026,Screening,2024-02-15,T01,Target,Bone,CT Scan,30,19,Yes,Yes,Yes,Baseline,Dr. Johnson,PET-CT,2024-02-15,rawtu1
+STUDY001,SUB0026,Week 6,2024-03-28,T01,Target,Bone,CT Scan,26,18,Yes,Yes,Yes,Stable Disease,Dr. Johnson,PET-CT,2024-03-28,rawtu1
+STUDY001,SUB0026,Week 12,2024-05-09,T01,Target,Bone,CT Scan,34,30,Yes,Yes,Yes,Stable Disease,Dr. Brown,MRI,2024-05-09,rawtu1
+STUDY001,SUB0026,Week 18,2024-06-20,T01,Target,Bone,CT Scan,29,18,Yes,Yes,Yes,Stable Disease,Dr. Brown,CT,2024-06-20,rawtu1
+STUDY001,SUB0026,Week 24,2024-08-01,T01,Target,Bone,CT Scan,21,17,Yes,Yes,Yes,Partial Response,Dr. Brown,PET-CT,2024-08-01,rawtu1
+STUDY001,SUB0026,End of Study,2024-09-12,T01,Target,Bone,CT Scan,26,21,Yes,Yes,Yes,Stable Disease,Dr. Brown,MRI,2024-09-12,rawtu1
+STUDY001,SUB0026,Screening,2024-02-15,T02,Target,Bone,CT Scan,25,16,Yes,Yes,Yes,Baseline,Dr. Smith,PET-CT,2024-02-15,rawtu1
+STUDY001,SUB0026,Week 6,2024-03-28,T02,Target,Bone,CT Scan,27,20,Yes,Yes,Yes,Stable Disease,Dr. Brown,CT,2024-03-28,rawtu1
+STUDY001,SUB0026,Week 12,2024-05-09,T02,Target,Bone,CT Scan,24,15,Yes,Yes,Yes,Stable Disease,Dr. Johnson,PET-CT,2024-05-09,rawtu1
+STUDY001,SUB0026,Week 18,2024-06-20,T02,Target,Bone,CT Scan,30,25,Yes,Yes,Yes,Progressive Disease,Dr. Johnson,PET-CT,2024-06-20,rawtu1
+STUDY001,SUB0026,Week 24,2024-08-01,T02,Target,Bone,CT Scan,33,24,Yes,Yes,Yes,Progressive Disease,Dr. Johnson,PET-CT,2024-08-01,rawtu1
+STUDY001,SUB0026,End of Study,2024-09-12,T02,Target,Bone,CT Scan,29,18,Yes,Yes,Yes,Stable Disease,Dr. Brown,MRI,2024-09-12,rawtu1
+STUDY001,SUB0027,Screening,2024-02-15,T01,Target,Lymph node,CT Scan,17,11,Yes,Yes,Yes,Baseline,Dr. Johnson,MRI,2024-02-15,rawtu1
+STUDY001,SUB0027,Week 6,2024-03-28,T01,Target,Lymph node,CT Scan,18,13,Yes,Yes,Yes,Stable Disease,Dr. Brown,PET-CT,2024-03-28,rawtu1
+STUDY001,SUB0027,Week 12,2024-05-09,T01,Target,Lymph node,CT Scan,15,10,Yes,Yes,Yes,Stable Disease,Dr. Smith,PET-CT,2024-05-09,rawtu1
+STUDY001,SUB0027,Week 18,2024-06-20,T01,Target,Lymph node,CT Scan,14,11,Yes,Yes,Yes,Stable Disease,Dr. Brown,PET-CT,2024-06-20,rawtu1
+STUDY001,SUB0027,Week 24,2024-08-01,T01,Target,Lymph node,CT Scan,7,5,Yes,Yes,Yes,Partial Response,Dr. Brown,MRI,2024-08-01,rawtu1
+STUDY001,SUB0027,End of Study,2024-09-12,T01,Target,Lymph node,CT Scan,8,5,Yes,Yes,Yes,Partial Response,Dr. Smith,PET-CT,2024-09-12,rawtu1
+STUDY001,SUB0027,Screening,2024-02-15,T02,Target,Liver,CT Scan,39,24,Yes,Yes,Yes,Baseline,Dr. Smith,PET-CT,2024-02-15,rawtu1
+STUDY001,SUB0027,Week 6,2024-03-28,T02,Target,Liver,CT Scan,41,34,Yes,Yes,Yes,Stable Disease,Dr. Johnson,MRI,2024-03-28,rawtu1
+STUDY001,SUB0027,Week 12,2024-05-09,T02,Target,Liver,CT Scan,32,24,Yes,Yes,Yes,Stable Disease,Dr. Brown,CT,2024-05-09,rawtu1
+STUDY001,SUB0027,Week 18,2024-06-20,T02,Target,Liver,CT Scan,44,31,Yes,Yes,Yes,Stable Disease,Dr. Smith,PET-CT,2024-06-20,rawtu1
+STUDY001,SUB0027,Week 24,2024-08-01,T02,Target,Liver,CT Scan,45,28,Yes,Yes,Yes,Stable Disease,Dr. Brown,MRI,2024-08-01,rawtu1
+STUDY001,SUB0027,End of Study,2024-09-12,T02,Target,Liver,CT Scan,34,25,Yes,Yes,Yes,Stable Disease,Dr. Brown,PET-CT,2024-09-12,rawtu1
+STUDY001,SUB0028,Screening,2024-02-15,T01,Target,Lung,CT Scan,39,32,Yes,Yes,Yes,Baseline,Dr. Smith,PET-CT,2024-02-15,rawtu1
+STUDY001,SUB0028,Week 6,2024-03-28,T01,Target,Lung,CT Scan,39,25,Yes,Yes,Yes,Stable Disease,Dr. Brown,MRI,2024-03-28,rawtu1
+STUDY001,SUB0028,Week 12,2024-05-09,T01,Target,Lung,CT Scan,28,19,Yes,Yes,Yes,Stable Disease,Dr. Johnson,MRI,2024-05-09,rawtu1
+STUDY001,SUB0028,Week 18,2024-06-20,T01,Target,Lung,CT Scan,27,21,Yes,Yes,Yes,Partial Response,Dr. Johnson,MRI,2024-06-20,rawtu1
+STUDY001,SUB0028,Week 24,2024-08-01,T01,Target,Lung,CT Scan,26,16,Yes,Yes,Yes,Partial Response,Dr. Smith,MRI,2024-08-01,rawtu1
+STUDY001,SUB0028,End of Study,2024-09-12,T01,Target,Lung,CT Scan,30,18,Yes,Yes,Yes,Stable Disease,Dr. Brown,PET-CT,2024-09-12,rawtu1
+STUDY001,SUB0029,Screening,2024-02-15,T01,Target,Liver,CT Scan,11,6,Yes,Yes,Yes,Baseline,Dr. Smith,CT,2024-02-15,rawtu1
+STUDY001,SUB0029,Week 6,2024-03-28,T01,Target,Liver,CT Scan,11,6,Yes,Yes,Yes,Stable Disease,Dr. Johnson,CT,2024-03-28,rawtu1
+STUDY001,SUB0029,Week 12,2024-05-09,T01,Target,Liver,CT Scan,9,7,Yes,Yes,Yes,Stable Disease,Dr. Smith,CT,2024-05-09,rawtu1
+STUDY001,SUB0029,Week 18,2024-06-20,T01,Target,Liver,CT Scan,11,7,Yes,Yes,Yes,Stable Disease,Dr. Brown,MRI,2024-06-20,rawtu1
+STUDY001,SUB0029,Week 24,2024-08-01,T01,Target,Liver,CT Scan,4,2,Yes,Yes,Yes,Partial Response,Dr. Smith,CT,2024-08-01,rawtu1
+STUDY001,SUB0029,End of Study,2024-09-12,T01,Target,Liver,CT Scan,8,5,Yes,Yes,Yes,Stable Disease,Dr. Brown,CT,2024-09-12,rawtu1
+STUDY001,SUB0029,Screening,2024-02-15,T02,Target,Liver,CT Scan,24,20,Yes,Yes,Yes,Baseline,Dr. Brown,MRI,2024-02-15,rawtu1
+STUDY001,SUB0029,Week 6,2024-03-28,T02,Target,Liver,CT Scan,21,18,Yes,Yes,Yes,Stable Disease,Dr. Brown,CT,2024-03-28,rawtu1
+STUDY001,SUB0029,Week 12,2024-05-09,T02,Target,Liver,CT Scan,18,15,Yes,Yes,Yes,Stable Disease,Dr. Brown,CT,2024-05-09,rawtu1
+STUDY001,SUB0029,Week 18,2024-06-20,T02,Target,Liver,CT Scan,23,14,Yes,Yes,Yes,Stable Disease,Dr. Smith,MRI,2024-06-20,rawtu1
+STUDY001,SUB0029,Week 24,2024-08-01,T02,Target,Liver,CT Scan,22,13,Yes,Yes,Yes,Stable Disease,Dr. Johnson,CT,2024-08-01,rawtu1
+STUDY001,SUB0029,End of Study,2024-09-12,T02,Target,Liver,CT Scan,6,4,Yes,Yes,Yes,Partial Response,Dr. Smith,CT,2024-09-12,rawtu1
+STUDY001,SUB0030,Screening,2024-02-15,T01,Target,Bone,CT Scan,22,19,Yes,Yes,Yes,Baseline,Dr. Brown,CT,2024-02-15,rawtu1
+STUDY001,SUB0030,Week 6,2024-03-28,T01,Target,Bone,CT Scan,20,13,Yes,Yes,Yes,Stable Disease,Dr. Johnson,CT,2024-03-28,rawtu1
+STUDY001,SUB0030,Week 12,2024-05-09,T01,Target,Bone,CT Scan,24,21,Yes,Yes,Yes,Stable Disease,Dr. Brown,CT,2024-05-09,rawtu1
+STUDY001,SUB0030,Week 18,2024-06-20,T01,Target,Bone,CT Scan,24,15,Yes,Yes,Yes,Stable Disease,Dr. Brown,MRI,2024-06-20,rawtu1
+STUDY001,SUB0030,Week 24,2024-08-01,T01,Target,Bone,CT Scan,24,19,Yes,Yes,Yes,Stable Disease,Dr. Smith,CT,2024-08-01,rawtu1
+STUDY001,SUB0030,End of Study,2024-09-12,T01,Target,Bone,CT Scan,24,14,Yes,Yes,Yes,Stable Disease,Dr. Smith,PET-CT,2024-09-12,rawtu1
+STUDY001,SUB0031,Screening,2024-02-15,T01,Target,Lymph node,CT Scan,15,12,Yes,Yes,Yes,Baseline,Dr. Brown,CT,2024-02-15,rawtu1
+STUDY001,SUB0031,Week 6,2024-03-28,T01,Target,Lymph node,CT Scan,15,9,Yes,Yes,Yes,Stable Disease,Dr. Smith,CT,2024-03-28,rawtu1
+STUDY001,SUB0031,Week 12,2024-05-09,T01,Target,Lymph node,CT Scan,11,8,Yes,Yes,Yes,Stable Disease,Dr. Smith,MRI,2024-05-09,rawtu1
+STUDY001,SUB0031,Week 18,2024-06-20,T01,Target,Lymph node,CT Scan,9,6,Yes,Yes,Yes,Partial Response,Dr. Johnson,MRI,2024-06-20,rawtu1
+STUDY001,SUB0031,Week 24,2024-08-01,T01,Target,Lymph node,CT Scan,7,4,Yes,Yes,Yes,Partial Response,Dr. Johnson,CT,2024-08-01,rawtu1
+STUDY001,SUB0031,End of Study,2024-09-12,T01,Target,Lymph node,CT Scan,13,9,Yes,Yes,Yes,Stable Disease,Dr. Smith,CT,2024-09-12,rawtu1
+STUDY001,SUB0031,Screening,2024-02-15,T02,Target,Liver,CT Scan,28,23,Yes,Yes,Yes,Baseline,Dr. Johnson,CT,2024-02-15,rawtu1
+STUDY001,SUB0031,Week 6,2024-03-28,T02,Target,Liver,CT Scan,28,19,Yes,Yes,Yes,Stable Disease,Dr. Smith,CT,2024-03-28,rawtu1
+STUDY001,SUB0031,Week 12,2024-05-09,T02,Target,Liver,CT Scan,29,17,Yes,Yes,Yes,Stable Disease,Dr. Brown,MRI,2024-05-09,rawtu1
+STUDY001,SUB0031,Week 18,2024-06-20,T02,Target,Liver,CT Scan,34,28,Yes,Yes,Yes,Progressive Disease,Dr. Johnson,MRI,2024-06-20,rawtu1
+STUDY001,SUB0031,Week 24,2024-08-01,T02,Target,Liver,CT Scan,39,27,Yes,Yes,Yes,Progressive Disease,Dr. Brown,PET-CT,2024-08-01,rawtu1
+STUDY001,SUB0031,End of Study,2024-09-12,T02,Target,Liver,CT Scan,10,8,Yes,Yes,Yes,Partial Response,Dr. Johnson,PET-CT,2024-09-12,rawtu1
+STUDY001,SUB0032,Screening,2024-02-15,T01,Target,Lymph node,CT Scan,44,34,Yes,Yes,Yes,Baseline,Dr. Brown,CT,2024-02-15,rawtu1
+STUDY001,SUB0032,Week 6,2024-03-28,T01,Target,Lymph node,CT Scan,42,29,Yes,Yes,Yes,Stable Disease,Dr. Johnson,PET-CT,2024-03-28,rawtu1
+STUDY001,SUB0032,Week 12,2024-05-09,T01,Target,Lymph node,CT Scan,41,33,Yes,Yes,Yes,Stable Disease,Dr. Johnson,MRI,2024-05-09,rawtu1
+STUDY001,SUB0032,Week 18,2024-06-20,T01,Target,Lymph node,CT Scan,25,21,Yes,Yes,Yes,Partial Response,Dr. Smith,MRI,2024-06-20,rawtu1
+STUDY001,SUB0032,Week 24,2024-08-01,T01,Target,Lymph node,CT Scan,49,30,Yes,Yes,Yes,Stable Disease,Dr. Brown,CT,2024-08-01,rawtu1
+STUDY001,SUB0032,End of Study,2024-09-12,T01,Target,Lymph node,CT Scan,53,47,Yes,Yes,Yes,Progressive Disease,Dr. Smith,MRI,2024-09-12,rawtu1
+STUDY001,SUB0033,Screening,2024-02-15,T01,Target,Lymph node,CT Scan,19,14,Yes,Yes,Yes,Baseline,Dr. Brown,MRI,2024-02-15,rawtu1
+STUDY001,SUB0033,Week 6,2024-03-28,T01,Target,Lymph node,CT Scan,17,13,Yes,Yes,Yes,Stable Disease,Dr. Brown,CT,2024-03-28,rawtu1
+STUDY001,SUB0033,Week 12,2024-05-09,T01,Target,Lymph node,CT Scan,17,12,Yes,Yes,Yes,Stable Disease,Dr. Johnson,CT,2024-05-09,rawtu1
+STUDY001,SUB0033,Week 18,2024-06-20,T01,Target,Lymph node,CT Scan,21,17,Yes,Yes,Yes,Stable Disease,Dr. Johnson,MRI,2024-06-20,rawtu1
+STUDY001,SUB0033,Week 24,2024-08-01,T01,Target,Lymph node,CT Scan,15,10,Yes,Yes,Yes,Stable Disease,Dr. Smith,PET-CT,2024-08-01,rawtu1
+STUDY001,SUB0033,End of Study,2024-09-12,T01,Target,Lymph node,CT Scan,15,11,Yes,Yes,Yes,Stable Disease,Dr. Smith,MRI,2024-09-12,rawtu1
+STUDY001,SUB0034,Screening,2024-02-15,T01,Target,Lymph node,CT Scan,33,28,Yes,Yes,Yes,Baseline,Dr. Brown,PET-CT,2024-02-15,rawtu1
+STUDY001,SUB0034,Week 6,2024-03-28,T01,Target,Lymph node,CT Scan,31,20,Yes,Yes,Yes,Stable Disease,Dr. Smith,MRI,2024-03-28,rawtu1
+STUDY001,SUB0034,Week 12,2024-05-09,T01,Target,Lymph node,CT Scan,26,20,Yes,Yes,Yes,Stable Disease,Dr. Smith,CT,2024-05-09,rawtu1
+STUDY001,SUB0034,Week 18,2024-06-20,T01,Target,Lymph node,CT Scan,28,20,Yes,Yes,Yes,Stable Disease,Dr. Brown,CT,2024-06-20,rawtu1
+STUDY001,SUB0034,Week 24,2024-08-01,T01,Target,Lymph node,CT Scan,25,21,Yes,Yes,Yes,Stable Disease,Dr. Smith,CT,2024-08-01,rawtu1
+STUDY001,SUB0034,End of Study,2024-09-12,T01,Target,Lymph node,CT Scan,28,23,Yes,Yes,Yes,Stable Disease,Dr. Johnson,PET-CT,2024-09-12,rawtu1
+STUDY001,SUB0035,Screening,2024-02-15,T01,Target,Lymph node,CT Scan,27,20,Yes,Yes,Yes,Baseline,Dr. Smith,PET-CT,2024-02-15,rawtu1
+STUDY001,SUB0035,Week 6,2024-03-28,T01,Target,Lymph node,CT Scan,24,15,Yes,Yes,Yes,Stable Disease,Dr. Brown,MRI,2024-03-28,rawtu1
+STUDY001,SUB0035,Week 12,2024-05-09,T01,Target,Lymph node,CT Scan,32,26,Yes,Yes,Yes,Stable Disease,Dr. Johnson,MRI,2024-05-09,rawtu1
+STUDY001,SUB0035,Week 18,2024-06-20,T01,Target,Lymph node,CT Scan,17,12,Yes,Yes,Yes,Partial Response,Dr. Johnson,CT,2024-06-20,rawtu1
+STUDY001,SUB0035,Week 24,2024-08-01,T01,Target,Lymph node,CT Scan,29,25,Yes,Yes,Yes,Stable Disease,Dr. Johnson,CT,2024-08-01,rawtu1
+STUDY001,SUB0035,End of Study,2024-09-12,T01,Target,Lymph node,CT Scan,8,7,Yes,Yes,Yes,Partial Response,Dr. Brown,MRI,2024-09-12,rawtu1
+STUDY001,SUB0035,Screening,2024-02-15,T02,Target,Lymph node,CT Scan,26,17,Yes,Yes,Yes,Baseline,Dr. Brown,MRI,2024-02-15,rawtu1
+STUDY001,SUB0035,Week 6,2024-03-28,T02,Target,Lymph node,CT Scan,25,21,Yes,Yes,Yes,Stable Disease,Dr. Johnson,MRI,2024-03-28,rawtu1
+STUDY001,SUB0035,Week 12,2024-05-09,T02,Target,Lymph node,CT Scan,22,17,Yes,Yes,Yes,Stable Disease,Dr. Brown,PET-CT,2024-05-09,rawtu1
+STUDY001,SUB0035,Week 18,2024-06-20,T02,Target,Lymph node,CT Scan,15,13,Yes,Yes,Yes,Partial Response,Dr. Smith,PET-CT,2024-06-20,rawtu1
+STUDY001,SUB0035,Week 24,2024-08-01,T02,Target,Lymph node,CT Scan,25,16,Yes,Yes,Yes,Stable Disease,Dr. Smith,MRI,2024-08-01,rawtu1
+STUDY001,SUB0035,End of Study,2024-09-12,T02,Target,Lymph node,CT Scan,29,21,Yes,Yes,Yes,Stable Disease,Dr. Smith,MRI,2024-09-12,rawtu1
+STUDY001,SUB0036,Screening,2024-02-15,T01,Target,Lung,CT Scan,24,16,Yes,Yes,Yes,Baseline,Dr. Johnson,PET-CT,2024-02-15,rawtu1
+STUDY001,SUB0036,Week 6,2024-03-28,T01,Target,Lung,CT Scan,23,15,Yes,Yes,Yes,Stable Disease,Dr. Brown,PET-CT,2024-03-28,rawtu1
+STUDY001,SUB0036,Week 12,2024-05-09,T01,Target,Lung,CT Scan,19,15,Yes,Yes,Yes,Stable Disease,Dr. Johnson,PET-CT,2024-05-09,rawtu1
+STUDY001,SUB0036,Week 18,2024-06-20,T01,Target,Lung,CT Scan,23,16,Yes,Yes,Yes,Stable Disease,Dr. Brown,PET-CT,2024-06-20,rawtu1
+STUDY001,SUB0036,Week 24,2024-08-01,T01,Target,Lung,CT Scan,31,24,Yes,Yes,Yes,Progressive Disease,Dr. Johnson,CT,2024-08-01,rawtu1
+STUDY001,SUB0036,End of Study,2024-09-12,T01,Target,Lung,CT Scan,30,25,Yes,Yes,Yes,Progressive Disease,Dr. Smith,CT,2024-09-12,rawtu1
+STUDY001,SUB0037,Screening,2024-02-15,T01,Target,Lung,CT Scan,39,29,Yes,Yes,Yes,Baseline,Dr. Johnson,CT,2024-02-15,rawtu1
+STUDY001,SUB0037,Week 6,2024-03-28,T01,Target,Lung,CT Scan,40,34,Yes,Yes,Yes,Stable Disease,Dr. Johnson,CT,2024-03-28,rawtu1
+STUDY001,SUB0037,Week 12,2024-05-09,T01,Target,Lung,CT Scan,46,36,Yes,Yes,Yes,Stable Disease,Dr. Smith,CT,2024-05-09,rawtu1
+STUDY001,SUB0037,Week 18,2024-06-20,T01,Target,Lung,CT Scan,25,19,Yes,Yes,Yes,Partial Response,Dr. Brown,MRI,2024-06-20,rawtu1
+STUDY001,SUB0037,Week 24,2024-08-01,T01,Target,Lung,CT Scan,26,20,Yes,Yes,Yes,Partial Response,Dr. Brown,MRI,2024-08-01,rawtu1
+STUDY001,SUB0037,End of Study,2024-09-12,T01,Target,Lung,CT Scan,39,27,Yes,Yes,Yes,Stable Disease,Dr. Smith,MRI,2024-09-12,rawtu1
+STUDY001,SUB0038,Screening,2024-02-15,T01,Target,Lung,CT Scan,42,33,Yes,Yes,Yes,Baseline,Dr. Smith,PET-CT,2024-02-15,rawtu1
+STUDY001,SUB0038,Week 6,2024-03-28,T01,Target,Lung,CT Scan,41,29,Yes,Yes,Yes,Stable Disease,Dr. Brown,MRI,2024-03-28,rawtu1
+STUDY001,SUB0038,Week 12,2024-05-09,T01,Target,Lung,CT Scan,36,30,Yes,Yes,Yes,Stable Disease,Dr. Smith,PET-CT,2024-05-09,rawtu1
+STUDY001,SUB0038,Week 18,2024-06-20,T01,Target,Lung,CT Scan,39,32,Yes,Yes,Yes,Stable Disease,Dr. Brown,CT,2024-06-20,rawtu1
+STUDY001,SUB0038,Week 24,2024-08-01,T01,Target,Lung,CT Scan,58,40,Yes,Yes,Yes,Progressive Disease,Dr. Johnson,CT,2024-08-01,rawtu1
+STUDY001,SUB0038,End of Study,2024-09-12,T01,Target,Lung,CT Scan,15,11,Yes,Yes,Yes,Partial Response,Dr. Brown,PET-CT,2024-09-12,rawtu1
+STUDY001,SUB0038,Screening,2024-02-15,T02,Target,Liver,CT Scan,21,17,Yes,Yes,Yes,Baseline,Dr. Johnson,MRI,2024-02-15,rawtu1
+STUDY001,SUB0038,Week 6,2024-03-28,T02,Target,Liver,CT Scan,22,13,Yes,Yes,Yes,Stable Disease,Dr. Brown,PET-CT,2024-03-28,rawtu1
+STUDY001,SUB0038,Week 12,2024-05-09,T02,Target,Liver,CT Scan,17,12,Yes,Yes,Yes,Stable Disease,Dr. Smith,CT,2024-05-09,rawtu1
+STUDY001,SUB0038,Week 18,2024-06-20,T02,Target,Liver,CT Scan,23,15,Yes,Yes,Yes,Stable Disease,Dr. Johnson,PET-CT,2024-06-20,rawtu1
+STUDY001,SUB0038,Week 24,2024-08-01,T02,Target,Liver,CT Scan,23,16,Yes,Yes,Yes,Stable Disease,Dr. Smith,CT,2024-08-01,rawtu1
+STUDY001,SUB0038,End of Study,2024-09-12,T02,Target,Liver,CT Scan,29,23,Yes,Yes,Yes,Progressive Disease,Dr. Johnson,PET-CT,2024-09-12,rawtu1
+STUDY001,SUB0039,Screening,2024-02-15,T01,Target,Bone,CT Scan,22,17,Yes,Yes,Yes,Baseline,Dr. Brown,PET-CT,2024-02-15,rawtu1
+STUDY001,SUB0039,Week 6,2024-03-28,T01,Target,Bone,CT Scan,21,12,Yes,Yes,Yes,Stable Disease,Dr. Johnson,PET-CT,2024-03-28,rawtu1
+STUDY001,SUB0039,Week 12,2024-05-09,T01,Target,Bone,CT Scan,21,14,Yes,Yes,Yes,Stable Disease,Dr. Smith,CT,2024-05-09,rawtu1
+STUDY001,SUB0039,Week 18,2024-06-20,T01,Target,Bone,CT Scan,27,18,Yes,Yes,Yes,Progressive Disease,Dr. Brown,CT,2024-06-20,rawtu1
+STUDY001,SUB0039,Week 24,2024-08-01,T01,Target,Bone,CT Scan,14,8,Yes,Yes,Yes,Partial Response,Dr. Johnson,PET-CT,2024-08-01,rawtu1
+STUDY001,SUB0039,End of Study,2024-09-12,T01,Target,Bone,CT Scan,8,6,Yes,Yes,Yes,Partial Response,Dr. Johnson,CT,2024-09-12,rawtu1
+STUDY001,SUB0040,Screening,2024-02-15,T01,Target,Lung,CT Scan,18,13,Yes,Yes,Yes,Baseline,Dr. Brown,CT,2024-02-15,rawtu1
+STUDY001,SUB0040,Week 6,2024-03-28,T01,Target,Lung,CT Scan,19,14,Yes,Yes,Yes,Stable Disease,Dr. Smith,CT,2024-03-28,rawtu1
+STUDY001,SUB0040,Week 12,2024-05-09,T01,Target,Lung,CT Scan,14,9,Yes,Yes,Yes,Stable Disease,Dr. Brown,PET-CT,2024-05-09,rawtu1
+STUDY001,SUB0040,Week 18,2024-06-20,T01,Target,Lung,CT Scan,16,12,Yes,Yes,Yes,Stable Disease,Dr. Smith,MRI,2024-06-20,rawtu1
+STUDY001,SUB0040,Week 24,2024-08-01,T01,Target,Lung,CT Scan,16,9,Yes,Yes,Yes,Stable Disease,Dr. Johnson,PET-CT,2024-08-01,rawtu1
+STUDY001,SUB0040,End of Study,2024-09-12,T01,Target,Lung,CT Scan,23,14,Yes,Yes,Yes,Progressive Disease,Dr. Brown,PET-CT,2024-09-12,rawtu1
+STUDY001,SUB0041,Screening,2024-02-15,T01,Target,Bone,CT Scan,17,10,Yes,Yes,Yes,Baseline,Dr. Smith,CT,2024-02-15,rawtu1
+STUDY001,SUB0041,Week 6,2024-03-28,T01,Target,Bone,CT Scan,18,15,Yes,Yes,Yes,Stable Disease,Dr. Smith,PET-CT,2024-03-28,rawtu1
+STUDY001,SUB0041,Week 12,2024-05-09,T01,Target,Bone,CT Scan,15,10,Yes,Yes,Yes,Stable Disease,Dr. Johnson,MRI,2024-05-09,rawtu1
+STUDY001,SUB0041,Week 18,2024-06-20,T01,Target,Bone,CT Scan,18,12,Yes,Yes,Yes,Stable Disease,Dr. Brown,CT,2024-06-20,rawtu1
+STUDY001,SUB0041,Week 24,2024-08-01,T01,Target,Bone,CT Scan,14,8,Yes,Yes,Yes,Stable Disease,Dr. Brown,CT,2024-08-01,rawtu1
+STUDY001,SUB0041,End of Study,2024-09-12,T01,Target,Bone,CT Scan,4,2,Yes,Yes,Yes,Partial Response,Dr. Brown,CT,2024-09-12,rawtu1
+STUDY001,SUB0042,Screening,2024-02-15,T01,Target,Lymph node,CT Scan,44,28,Yes,Yes,Yes,Baseline,Dr. Brown,CT,2024-02-15,rawtu1
+STUDY001,SUB0042,Week 6,2024-03-28,T01,Target,Lymph node,CT Scan,39,26,Yes,Yes,Yes,Stable Disease,Dr. Johnson,MRI,2024-03-28,rawtu1
+STUDY001,SUB0042,Week 12,2024-05-09,T01,Target,Lymph node,CT Scan,40,24,Yes,Yes,Yes,Stable Disease,Dr. Brown,PET-CT,2024-05-09,rawtu1
+STUDY001,SUB0042,Week 18,2024-06-20,T01,Target,Lymph node,CT Scan,46,29,Yes,Yes,Yes,Stable Disease,Dr. Smith,CT,2024-06-20,rawtu1
+STUDY001,SUB0042,Week 24,2024-08-01,T01,Target,Lymph node,CT Scan,54,33,Yes,Yes,Yes,Progressive Disease,Dr. Johnson,MRI,2024-08-01,rawtu1
+STUDY001,SUB0042,End of Study,2024-09-12,T01,Target,Lymph node,CT Scan,46,34,Yes,Yes,Yes,Stable Disease,Dr. Smith,PET-CT,2024-09-12,rawtu1
+STUDY001,SUB0043,Screening,2024-02-15,T01,Target,Lymph node,CT Scan,43,33,Yes,Yes,Yes,Baseline,Dr. Smith,PET-CT,2024-02-15,rawtu1
+STUDY001,SUB0043,Week 6,2024-03-28,T01,Target,Lymph node,CT Scan,46,28,Yes,Yes,Yes,Stable Disease,Dr. Johnson,CT,2024-03-28,rawtu1
+STUDY001,SUB0043,Week 12,2024-05-09,T01,Target,Lymph node,CT Scan,49,38,Yes,Yes,Yes,Stable Disease,Dr. Brown,MRI,2024-05-09,rawtu1
+STUDY001,SUB0043,Week 18,2024-06-20,T01,Target,Lymph node,CT Scan,36,24,Yes,Yes,Yes,Stable Disease,Dr. Johnson,MRI,2024-06-20,rawtu1
+STUDY001,SUB0043,Week 24,2024-08-01,T01,Target,Lymph node,CT Scan,35,30,Yes,Yes,Yes,Stable Disease,Dr. Smith,CT,2024-08-01,rawtu1
+STUDY001,SUB0043,End of Study,2024-09-12,T01,Target,Lymph node,CT Scan,28,20,Yes,Yes,Yes,Partial Response,Dr. Brown,PET-CT,2024-09-12,rawtu1
+STUDY001,SUB0043,Screening,2024-02-15,T02,Target,Lung,CT Scan,28,23,Yes,Yes,Yes,Baseline,Dr. Smith,CT,2024-02-15,rawtu1
+STUDY001,SUB0043,Week 6,2024-03-28,T02,Target,Lung,CT Scan,27,23,Yes,Yes,Yes,Stable Disease,Dr. Johnson,PET-CT,2024-03-28,rawtu1
+STUDY001,SUB0043,Week 12,2024-05-09,T02,Target,Lung,CT Scan,27,23,Yes,Yes,Yes,Stable Disease,Dr. Brown,PET-CT,2024-05-09,rawtu1
+STUDY001,SUB0043,Week 18,2024-06-20,T02,Target,Lung,CT Scan,17,13,Yes,Yes,Yes,Partial Response,Dr. Johnson,MRI,2024-06-20,rawtu1
+STUDY001,SUB0043,Week 24,2024-08-01,T02,Target,Lung,CT Scan,20,16,Yes,Yes,Yes,Stable Disease,Dr. Brown,PET-CT,2024-08-01,rawtu1
+STUDY001,SUB0043,End of Study,2024-09-12,T02,Target,Lung,CT Scan,38,26,Yes,Yes,Yes,Progressive Disease,Dr. Smith,PET-CT,2024-09-12,rawtu1
+STUDY001,SUB0044,Screening,2024-02-15,T01,Target,Bone,CT Scan,36,22,Yes,Yes,Yes,Baseline,Dr. Johnson,MRI,2024-02-15,rawtu1
+STUDY001,SUB0044,Week 6,2024-03-28,T01,Target,Bone,CT Scan,37,28,Yes,Yes,Yes,Stable Disease,Dr. Brown,CT,2024-03-28,rawtu1
+STUDY001,SUB0044,Week 12,2024-05-09,T01,Target,Bone,CT Scan,28,21,Yes,Yes,Yes,Stable Disease,Dr. Brown,CT,2024-05-09,rawtu1
+STUDY001,SUB0044,Week 18,2024-06-20,T01,Target,Bone,CT Scan,25,15,Yes,Yes,Yes,Partial Response,Dr. Brown,PET-CT,2024-06-20,rawtu1
+STUDY001,SUB0044,Week 24,2024-08-01,T01,Target,Bone,CT Scan,36,32,Yes,Yes,Yes,Stable Disease,Dr. Johnson,MRI,2024-08-01,rawtu1
+STUDY001,SUB0044,End of Study,2024-09-12,T01,Target,Bone,CT Scan,32,26,Yes,Yes,Yes,Stable Disease,Dr. Brown,MRI,2024-09-12,rawtu1
+STUDY001,SUB0045,Screening,2024-02-15,T01,Target,Bone,CT Scan,20,13,Yes,Yes,Yes,Baseline,Dr. Johnson,MRI,2024-02-15,rawtu1
+STUDY001,SUB0045,Week 6,2024-03-28,T01,Target,Bone,CT Scan,20,16,Yes,Yes,Yes,Stable Disease,Dr. Smith,PET-CT,2024-03-28,rawtu1
+STUDY001,SUB0045,Week 12,2024-05-09,T01,Target,Bone,CT Scan,21,13,Yes,Yes,Yes,Stable Disease,Dr. Brown,CT,2024-05-09,rawtu1
+STUDY001,SUB0045,Week 18,2024-06-20,T01,Target,Bone,CT Scan,21,12,Yes,Yes,Yes,Stable Disease,Dr. Johnson,CT,2024-06-20,rawtu1
+STUDY001,SUB0045,Week 24,2024-08-01,T01,Target,Bone,CT Scan,10,6,Yes,Yes,Yes,Partial Response,Dr. Smith,CT,2024-08-01,rawtu1
+STUDY001,SUB0045,End of Study,2024-09-12,T01,Target,Bone,CT Scan,18,12,Yes,Yes,Yes,Stable Disease,Dr. Johnson,PET-CT,2024-09-12,rawtu1
+STUDY001,SUB0046,Screening,2024-02-15,T01,Target,Liver,CT Scan,20,15,Yes,Yes,Yes,Baseline,Dr. Smith,CT,2024-02-15,rawtu1
+STUDY001,SUB0046,Week 6,2024-03-28,T01,Target,Liver,CT Scan,21,16,Yes,Yes,Yes,Stable Disease,Dr. Smith,CT,2024-03-28,rawtu1
+STUDY001,SUB0046,Week 12,2024-05-09,T01,Target,Liver,CT Scan,20,14,Yes,Yes,Yes,Stable Disease,Dr. Brown,MRI,2024-05-09,rawtu1
+STUDY001,SUB0046,Week 18,2024-06-20,T01,Target,Liver,CT Scan,12,10,Yes,Yes,Yes,Partial Response,Dr. Brown,PET-CT,2024-06-20,rawtu1
+STUDY001,SUB0046,Week 24,2024-08-01,T01,Target,Liver,CT Scan,11,9,Yes,Yes,Yes,Partial Response,Dr. Brown,CT,2024-08-01,rawtu1
+STUDY001,SUB0046,End of Study,2024-09-12,T01,Target,Liver,CT Scan,25,20,Yes,Yes,Yes,Progressive Disease,Dr. Brown,MRI,2024-09-12,rawtu1
+STUDY001,SUB0047,Screening,2024-02-15,T01,Target,Lymph node,CT Scan,28,20,Yes,Yes,Yes,Baseline,Dr. Johnson,CT,2024-02-15,rawtu1
+STUDY001,SUB0047,Week 6,2024-03-28,T01,Target,Lymph node,CT Scan,26,19,Yes,Yes,Yes,Stable Disease,Dr. Brown,MRI,2024-03-28,rawtu1
+STUDY001,SUB0047,Week 12,2024-05-09,T01,Target,Lymph node,CT Scan,32,27,Yes,Yes,Yes,Stable Disease,Dr. Brown,PET-CT,2024-05-09,rawtu1
+STUDY001,SUB0047,Week 18,2024-06-20,T01,Target,Lymph node,CT Scan,28,24,Yes,Yes,Yes,Stable Disease,Dr. Smith,CT,2024-06-20,rawtu1
+STUDY001,SUB0047,Week 24,2024-08-01,T01,Target,Lymph node,CT Scan,13,11,Yes,Yes,Yes,Partial Response,Dr. Brown,PET-CT,2024-08-01,rawtu1
+STUDY001,SUB0047,End of Study,2024-09-12,T01,Target,Lymph node,CT Scan,31,23,Yes,Yes,Yes,Stable Disease,Dr. Smith,PET-CT,2024-09-12,rawtu1
+STUDY001,SUB0048,Screening,2024-02-15,T01,Target,Lymph node,CT Scan,36,26,Yes,Yes,Yes,Baseline,Dr. Smith,MRI,2024-02-15,rawtu1
+STUDY001,SUB0048,Week 6,2024-03-28,T01,Target,Lymph node,CT Scan,36,30,Yes,Yes,Yes,Stable Disease,Dr. Johnson,PET-CT,2024-03-28,rawtu1
+STUDY001,SUB0048,Week 12,2024-05-09,T01,Target,Lymph node,CT Scan,37,31,Yes,Yes,Yes,Stable Disease,Dr. Brown,MRI,2024-05-09,rawtu1
+STUDY001,SUB0048,Week 18,2024-06-20,T01,Target,Lymph node,CT Scan,24,17,Yes,Yes,Yes,Partial Response,Dr. Brown,MRI,2024-06-20,rawtu1
+STUDY001,SUB0048,Week 24,2024-08-01,T01,Target,Lymph node,CT Scan,47,38,Yes,Yes,Yes,Progressive Disease,Dr. Johnson,PET-CT,2024-08-01,rawtu1
+STUDY001,SUB0048,End of Study,2024-09-12,T01,Target,Lymph node,CT Scan,27,22,Yes,Yes,Yes,Stable Disease,Dr. Smith,PET-CT,2024-09-12,rawtu1
+STUDY001,SUB0048,Screening,2024-02-15,T02,Target,Lung,CT Scan,42,26,Yes,Yes,Yes,Baseline,Dr. Brown,PET-CT,2024-02-15,rawtu1
+STUDY001,SUB0048,Week 6,2024-03-28,T02,Target,Lung,CT Scan,42,27,Yes,Yes,Yes,Stable Disease,Dr. Brown,CT,2024-03-28,rawtu1
+STUDY001,SUB0048,Week 12,2024-05-09,T02,Target,Lung,CT Scan,35,21,Yes,Yes,Yes,Stable Disease,Dr. Johnson,CT,2024-05-09,rawtu1
+STUDY001,SUB0048,Week 18,2024-06-20,T02,Target,Lung,CT Scan,45,29,Yes,Yes,Yes,Stable Disease,Dr. Smith,MRI,2024-06-20,rawtu1
+STUDY001,SUB0048,Week 24,2024-08-01,T02,Target,Lung,CT Scan,31,19,Yes,Yes,Yes,Stable Disease,Dr. Brown,CT,2024-08-01,rawtu1
+STUDY001,SUB0048,End of Study,2024-09-12,T02,Target,Lung,CT Scan,33,24,Yes,Yes,Yes,Stable Disease,Dr. Brown,MRI,2024-09-12,rawtu1
+STUDY001,SUB0049,Screening,2024-02-15,T01,Target,Lymph node,CT Scan,34,20,Yes,Yes,Yes,Baseline,Dr. Johnson,CT,2024-02-15,rawtu1
+STUDY001,SUB0049,Week 6,2024-03-28,T01,Target,Lymph node,CT Scan,36,30,Yes,Yes,Yes,Stable Disease,Dr. Johnson,PET-CT,2024-03-28,rawtu1
+STUDY001,SUB0049,Week 12,2024-05-09,T01,Target,Lymph node,CT Scan,25,20,Yes,Yes,Yes,Stable Disease,Dr. Johnson,CT,2024-05-09,rawtu1
+STUDY001,SUB0049,Week 18,2024-06-20,T01,Target,Lymph node,CT Scan,23,19,Yes,Yes,Yes,Partial Response,Dr. Smith,MRI,2024-06-20,rawtu1
+STUDY001,SUB0049,Week 24,2024-08-01,T01,Target,Lymph node,CT Scan,23,14,Yes,Yes,Yes,Partial Response,Dr. Brown,CT,2024-08-01,rawtu1
+STUDY001,SUB0049,End of Study,2024-09-12,T01,Target,Lymph node,CT Scan,49,29,Yes,Yes,Yes,Progressive Disease,Dr. Brown,PET-CT,2024-09-12,rawtu1
+STUDY001,SUB0050,Screening,2024-02-15,T01,Target,Lymph node,CT Scan,15,10,Yes,Yes,Yes,Baseline,Dr. Brown,PET-CT,2024-02-15,rawtu1
+STUDY001,SUB0050,Week 6,2024-03-28,T01,Target,Lymph node,CT Scan,16,11,Yes,Yes,Yes,Stable Disease,Dr. Smith,CT,2024-03-28,rawtu1
+STUDY001,SUB0050,Week 12,2024-05-09,T01,Target,Lymph node,CT Scan,17,12,Yes,Yes,Yes,Stable Disease,Dr. Johnson,CT,2024-05-09,rawtu1
+STUDY001,SUB0050,Week 18,2024-06-20,T01,Target,Lymph node,CT Scan,19,15,Yes,Yes,Yes,Progressive Disease,Dr. Smith,PET-CT,2024-06-20,rawtu1
+STUDY001,SUB0050,Week 24,2024-08-01,T01,Target,Lymph node,CT Scan,9,7,Yes,Yes,Yes,Partial Response,Dr. Johnson,MRI,2024-08-01,rawtu1
+STUDY001,SUB0050,End of Study,2024-09-12,T01,Target,Lymph node,CT Scan,9,7,Yes,Yes,Yes,Partial Response,Dr. Brown,MRI,2024-09-12,rawtu1

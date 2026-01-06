@@ -1,0 +1,1201 @@
+study_id,subject_id,visit_name,collection_date,collection_time,test_name,result_value,result_unit,reference_range_low,reference_range_high,abnormal_flag,clinical_significance,fasting_status,laboratory_name,technician_id,dataset_name
+STUDY001,SUB0001,Screening,2024-02-15,10:11,Total Cholesterol,173.07,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0001,Screening,2024-02-15,11:52,LDL Cholesterol,63.11,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0001,Screening,2024-02-15,10:36,HDL Cholesterol,51.13,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0001,Screening,2024-02-15,09:11,Triglycerides,44.92,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0001,Baseline,2024-03-14,09:34,Total Cholesterol,188.22,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0001,Baseline,2024-03-14,10:16,LDL Cholesterol,81.44,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0001,Baseline,2024-03-14,11:11,HDL Cholesterol,60.5,mg/dL,40.0,60.0,High,Not clinically significant,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0001,Baseline,2024-03-14,09:35,Triglycerides,40.3,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0001,Week 4,2024-04-11,10:02,Total Cholesterol,176.76,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0001,Week 4,2024-04-11,11:35,LDL Cholesterol,78.63,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0001,Week 4,2024-04-11,11:04,HDL Cholesterol,57.6,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0001,Week 4,2024-04-11,08:22,Triglycerides,49.6,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0001,Week 8,2024-05-09,09:56,Total Cholesterol,191.48,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0001,Week 8,2024-05-09,08:55,LDL Cholesterol,71.56,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0001,Week 8,2024-05-09,11:56,HDL Cholesterol,59.73,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0001,Week 8,2024-05-09,08:42,Triglycerides,37.94,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0001,Week 12,2024-06-06,10:56,Total Cholesterol,184.13,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0001,Week 12,2024-06-06,10:30,LDL Cholesterol,79.04,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0001,Week 12,2024-06-06,09:08,HDL Cholesterol,58.6,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0001,Week 12,2024-06-06,09:40,Triglycerides,48.13,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0001,End of Study,2024-07-04,10:21,Total Cholesterol,160.12,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0001,End of Study,2024-07-04,10:15,LDL Cholesterol,73.67,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0001,End of Study,2024-07-04,11:28,HDL Cholesterol,53.92,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0001,End of Study,2024-07-04,10:15,Triglycerides,49.3,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0002,Screening,2024-02-15,10:56,Total Cholesterol,199.8,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0002,Screening,2024-02-15,11:37,LDL Cholesterol,4.65,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0002,Screening,2024-02-15,09:54,HDL Cholesterol,59.04,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0002,Screening,2024-02-15,08:35,Triglycerides,70.67,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0002,Baseline,2024-03-14,10:49,Total Cholesterol,202.59,mg/dL,100.0,200.0,High,Not clinically significant,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0002,Baseline,2024-03-14,11:00,LDL Cholesterol,4.41,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0002,Baseline,2024-03-14,11:19,HDL Cholesterol,59.02,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0002,Baseline,2024-03-14,09:31,Triglycerides,77.75,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0002,Week 4,2024-04-11,09:48,Total Cholesterol,181.95,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0002,Week 4,2024-04-11,11:30,LDL Cholesterol,4.42,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0002,Week 4,2024-04-11,11:11,HDL Cholesterol,60.38,mg/dL,40.0,60.0,High,Not clinically significant,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0002,Week 4,2024-04-11,09:15,Triglycerides,71.02,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0002,Week 8,2024-05-09,10:28,Total Cholesterol,180.39,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0002,Week 8,2024-05-09,10:41,LDL Cholesterol,4.73,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0002,Week 8,2024-05-09,09:01,HDL Cholesterol,53.17,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0002,Week 8,2024-05-09,11:15,Triglycerides,74.52,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0002,Week 12,2024-06-06,10:51,Total Cholesterol,185.91,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0002,Week 12,2024-06-06,11:25,LDL Cholesterol,4.98,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0002,Week 12,2024-06-06,10:53,HDL Cholesterol,60.82,mg/dL,40.0,60.0,High,Clinically significant,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0002,Week 12,2024-06-06,09:06,Triglycerides,82.66,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0002,End of Study,2024-07-04,08:36,Total Cholesterol,171.5,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0002,End of Study,2024-07-04,08:34,LDL Cholesterol,5.15,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0002,End of Study,2024-07-04,09:25,HDL Cholesterol,50.75,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0002,End of Study,2024-07-04,08:42,Triglycerides,72.82,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0003,Screening,2024-02-15,08:06,Total Cholesterol,193.59,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0003,Screening,2024-02-15,11:27,LDL Cholesterol,19.89,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0003,Screening,2024-02-15,09:11,HDL Cholesterol,65.3,mg/dL,40.0,60.0,High,Not clinically significant,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0003,Screening,2024-02-15,10:47,Triglycerides,44.18,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0003,Baseline,2024-03-14,08:22,Total Cholesterol,181.49,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0003,Baseline,2024-03-14,10:16,LDL Cholesterol,19.78,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0003,Baseline,2024-03-14,09:20,HDL Cholesterol,56.2,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0003,Baseline,2024-03-14,08:33,Triglycerides,50.1,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0003,Week 4,2024-04-11,08:32,Total Cholesterol,186.03,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0003,Week 4,2024-04-11,10:52,LDL Cholesterol,20.85,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0003,Week 4,2024-04-11,09:26,HDL Cholesterol,52.47,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0003,Week 4,2024-04-11,11:42,Triglycerides,51.87,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0003,Week 8,2024-05-09,08:08,Total Cholesterol,181.96,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0003,Week 8,2024-05-09,10:38,LDL Cholesterol,20.68,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0003,Week 8,2024-05-09,09:52,HDL Cholesterol,52.49,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0003,Week 8,2024-05-09,09:28,Triglycerides,42.22,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0003,Week 12,2024-06-06,10:28,Total Cholesterol,162.31,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0003,Week 12,2024-06-06,09:52,LDL Cholesterol,20.42,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0003,Week 12,2024-06-06,10:50,HDL Cholesterol,57.65,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0003,Week 12,2024-06-06,10:42,Triglycerides,48.68,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0003,End of Study,2024-07-04,09:31,Total Cholesterol,167.13,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0003,End of Study,2024-07-04,11:05,LDL Cholesterol,22.15,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0003,End of Study,2024-07-04,09:44,HDL Cholesterol,56.3,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0003,End of Study,2024-07-04,11:55,Triglycerides,45.42,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0004,Screening,2024-02-15,08:40,Total Cholesterol,194.44,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0004,Screening,2024-02-15,08:20,LDL Cholesterol,47.74,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0004,Screening,2024-02-15,11:04,HDL Cholesterol,45.66,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0004,Screening,2024-02-15,08:06,Triglycerides,150.73,mg/dL,0.0,150.0,High,Not clinically significant,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0004,Baseline,2024-03-14,10:47,Total Cholesterol,176.12,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0004,Baseline,2024-03-14,09:21,LDL Cholesterol,45.01,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0004,Baseline,2024-03-14,10:12,HDL Cholesterol,44.86,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0004,Baseline,2024-03-14,11:15,Triglycerides,140.57,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0004,Week 4,2024-04-11,10:45,Total Cholesterol,174.23,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0004,Week 4,2024-04-11,10:12,LDL Cholesterol,44.28,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0004,Week 4,2024-04-11,10:59,HDL Cholesterol,38.29,mg/dL,40.0,60.0,Low,Not clinically significant,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0004,Week 4,2024-04-11,08:00,Triglycerides,136.22,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0004,Week 8,2024-05-09,11:40,Total Cholesterol,196.07,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0004,Week 8,2024-05-09,10:24,LDL Cholesterol,44.47,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0004,Week 8,2024-05-09,09:04,HDL Cholesterol,41.02,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0004,Week 8,2024-05-09,08:37,Triglycerides,115.35,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0004,Week 12,2024-06-06,11:57,Total Cholesterol,208.71,mg/dL,100.0,200.0,High,Clinically significant,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0004,Week 12,2024-06-06,09:05,LDL Cholesterol,43.4,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0004,Week 12,2024-06-06,10:49,HDL Cholesterol,46.52,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0004,Week 12,2024-06-06,08:26,Triglycerides,119.71,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0004,End of Study,2024-07-04,08:14,Total Cholesterol,206.66,mg/dL,100.0,200.0,High,Clinically significant,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0004,End of Study,2024-07-04,10:53,LDL Cholesterol,40.0,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0004,End of Study,2024-07-04,10:34,HDL Cholesterol,46.32,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0004,End of Study,2024-07-04,11:16,Triglycerides,127.88,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0005,Screening,2024-02-15,10:05,Total Cholesterol,119.42,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0005,Screening,2024-02-15,11:47,LDL Cholesterol,99.86,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0005,Screening,2024-02-15,10:06,HDL Cholesterol,52.28,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0005,Screening,2024-02-15,11:36,Triglycerides,96.66,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0005,Baseline,2024-03-14,09:59,Total Cholesterol,95.88,mg/dL,100.0,200.0,Low,Not clinically significant,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0005,Baseline,2024-03-14,08:39,LDL Cholesterol,94.55,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0005,Baseline,2024-03-14,10:36,HDL Cholesterol,52.95,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0005,Baseline,2024-03-14,11:38,Triglycerides,85.25,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0005,Week 4,2024-04-11,11:14,Total Cholesterol,121.2,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0005,Week 4,2024-04-11,08:16,LDL Cholesterol,106.81,mg/dL,0.0,100.0,High,Clinically significant,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0005,Week 4,2024-04-11,10:13,HDL Cholesterol,54.29,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0005,Week 4,2024-04-11,10:23,Triglycerides,85.06,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0005,Week 8,2024-05-09,11:20,Total Cholesterol,123.65,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0005,Week 8,2024-05-09,10:00,LDL Cholesterol,85.5,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0005,Week 8,2024-05-09,08:48,HDL Cholesterol,52.49,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0005,Week 8,2024-05-09,10:50,Triglycerides,92.73,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0005,Week 12,2024-06-06,09:03,Total Cholesterol,98.14,mg/dL,100.0,200.0,Low,Clinically significant,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0005,Week 12,2024-06-06,11:56,LDL Cholesterol,88.55,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0005,Week 12,2024-06-06,11:15,HDL Cholesterol,52.72,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0005,Week 12,2024-06-06,08:22,Triglycerides,95.04,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0005,End of Study,2024-07-04,10:13,Total Cholesterol,122.63,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0005,End of Study,2024-07-04,08:15,LDL Cholesterol,84.51,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0005,End of Study,2024-07-04,09:04,HDL Cholesterol,47.09,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0005,End of Study,2024-07-04,10:32,Triglycerides,80.01,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0006,Screening,2024-02-15,11:08,Total Cholesterol,122.91,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0006,Screening,2024-02-15,10:22,LDL Cholesterol,25.97,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0006,Screening,2024-02-15,09:53,HDL Cholesterol,43.72,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0006,Screening,2024-02-15,09:10,Triglycerides,100.14,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0006,Baseline,2024-03-14,11:43,Total Cholesterol,139.19,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0006,Baseline,2024-03-14,08:59,LDL Cholesterol,31.42,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0006,Baseline,2024-03-14,08:23,HDL Cholesterol,39.86,mg/dL,40.0,60.0,Low,Not clinically significant,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0006,Baseline,2024-03-14,08:15,Triglycerides,110.83,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0006,Week 4,2024-04-11,11:38,Total Cholesterol,137.61,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0006,Week 4,2024-04-11,08:50,LDL Cholesterol,28.46,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0006,Week 4,2024-04-11,08:00,HDL Cholesterol,43.09,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0006,Week 4,2024-04-11,10:12,Triglycerides,99.76,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0006,Week 8,2024-05-09,11:23,Total Cholesterol,143.78,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0006,Week 8,2024-05-09,09:12,LDL Cholesterol,26.74,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0006,Week 8,2024-05-09,09:59,HDL Cholesterol,39.06,mg/dL,40.0,60.0,Low,Not clinically significant,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0006,Week 8,2024-05-09,09:09,Triglycerides,92.06,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0006,Week 12,2024-06-06,08:34,Total Cholesterol,130.04,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0006,Week 12,2024-06-06,08:49,LDL Cholesterol,27.64,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0006,Week 12,2024-06-06,10:07,HDL Cholesterol,38.54,mg/dL,40.0,60.0,Low,Clinically significant,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0006,Week 12,2024-06-06,10:04,Triglycerides,121.75,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0006,End of Study,2024-07-04,11:26,Total Cholesterol,141.45,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0006,End of Study,2024-07-04,08:00,LDL Cholesterol,28.92,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0006,End of Study,2024-07-04,11:51,HDL Cholesterol,35.29,mg/dL,40.0,60.0,Low,Not clinically significant,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0006,End of Study,2024-07-04,08:24,Triglycerides,118.57,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0007,Screening,2024-02-15,10:47,Total Cholesterol,214.97,mg/dL,100.0,200.0,High,Not clinically significant,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0007,Screening,2024-02-15,10:03,LDL Cholesterol,34.98,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0007,Screening,2024-02-15,10:11,HDL Cholesterol,58.41,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0007,Screening,2024-02-15,10:58,Triglycerides,145.58,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0007,Baseline,2024-03-14,08:59,Total Cholesterol,197.44,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0007,Baseline,2024-03-14,09:12,LDL Cholesterol,30.93,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0007,Baseline,2024-03-14,10:07,HDL Cholesterol,62.92,mg/dL,40.0,60.0,High,Clinically significant,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0007,Baseline,2024-03-14,08:33,Triglycerides,116.95,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0007,Week 4,2024-04-11,10:41,Total Cholesterol,201.59,mg/dL,100.0,200.0,High,Clinically significant,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0007,Week 4,2024-04-11,09:10,LDL Cholesterol,39.97,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0007,Week 4,2024-04-11,08:01,HDL Cholesterol,52.67,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0007,Week 4,2024-04-11,08:05,Triglycerides,126.4,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0007,Week 8,2024-05-09,09:59,Total Cholesterol,206.61,mg/dL,100.0,200.0,High,Not clinically significant,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0007,Week 8,2024-05-09,08:24,LDL Cholesterol,40.34,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0007,Week 8,2024-05-09,10:15,HDL Cholesterol,61.69,mg/dL,40.0,60.0,High,Clinically significant,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0007,Week 8,2024-05-09,08:00,Triglycerides,148.25,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0007,Week 12,2024-06-06,09:01,Total Cholesterol,188.86,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0007,Week 12,2024-06-06,11:00,LDL Cholesterol,35.39,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0007,Week 12,2024-06-06,11:28,HDL Cholesterol,54.67,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0007,Week 12,2024-06-06,11:12,Triglycerides,141.32,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0007,End of Study,2024-07-04,11:08,Total Cholesterol,190.22,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0007,End of Study,2024-07-04,11:51,LDL Cholesterol,33.96,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0007,End of Study,2024-07-04,09:07,HDL Cholesterol,55.1,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0007,End of Study,2024-07-04,08:52,Triglycerides,112.77,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0008,Screening,2024-02-15,08:57,Total Cholesterol,104.38,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0008,Screening,2024-02-15,09:22,LDL Cholesterol,25.8,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0008,Screening,2024-02-15,08:41,HDL Cholesterol,63.56,mg/dL,40.0,60.0,High,Clinically significant,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0008,Screening,2024-02-15,09:09,Triglycerides,88.6,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0008,Baseline,2024-03-14,11:01,Total Cholesterol,99.45,mg/dL,100.0,200.0,Low,Not clinically significant,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0008,Baseline,2024-03-14,09:11,LDL Cholesterol,31.05,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0008,Baseline,2024-03-14,08:15,HDL Cholesterol,60.35,mg/dL,40.0,60.0,High,Not clinically significant,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0008,Baseline,2024-03-14,10:53,Triglycerides,101.74,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0008,Week 4,2024-04-11,11:55,Total Cholesterol,121.88,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0008,Week 4,2024-04-11,11:04,LDL Cholesterol,31.23,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0008,Week 4,2024-04-11,09:32,HDL Cholesterol,58.45,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0008,Week 4,2024-04-11,11:04,Triglycerides,106.11,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0008,Week 8,2024-05-09,11:19,Total Cholesterol,106.94,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0008,Week 8,2024-05-09,11:40,LDL Cholesterol,26.53,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0008,Week 8,2024-05-09,09:13,HDL Cholesterol,60.19,mg/dL,40.0,60.0,High,Clinically significant,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0008,Week 8,2024-05-09,08:43,Triglycerides,110.52,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0008,Week 12,2024-06-06,10:58,Total Cholesterol,107.28,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0008,Week 12,2024-06-06,11:56,LDL Cholesterol,30.25,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0008,Week 12,2024-06-06,09:34,HDL Cholesterol,54.73,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0008,Week 12,2024-06-06,10:53,Triglycerides,96.34,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0008,End of Study,2024-07-04,10:39,Total Cholesterol,118.43,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0008,End of Study,2024-07-04,11:48,LDL Cholesterol,30.85,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0008,End of Study,2024-07-04,11:02,HDL Cholesterol,59.69,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0008,End of Study,2024-07-04,10:51,Triglycerides,116.08,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0009,Screening,2024-02-15,08:51,Total Cholesterol,117.65,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0009,Screening,2024-02-15,10:03,LDL Cholesterol,72.0,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0009,Screening,2024-02-15,09:51,HDL Cholesterol,46.78,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0009,Screening,2024-02-15,09:03,Triglycerides,78.1,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0009,Baseline,2024-03-14,09:15,Total Cholesterol,118.33,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0009,Baseline,2024-03-14,08:15,LDL Cholesterol,76.9,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0009,Baseline,2024-03-14,08:30,HDL Cholesterol,40.02,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0009,Baseline,2024-03-14,11:23,Triglycerides,71.28,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0009,Week 4,2024-04-11,11:18,Total Cholesterol,112.14,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0009,Week 4,2024-04-11,11:28,LDL Cholesterol,74.64,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0009,Week 4,2024-04-11,08:23,HDL Cholesterol,39.33,mg/dL,40.0,60.0,Low,Not clinically significant,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0009,Week 4,2024-04-11,10:36,Triglycerides,73.93,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0009,Week 8,2024-05-09,09:33,Total Cholesterol,124.73,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0009,Week 8,2024-05-09,11:57,LDL Cholesterol,66.38,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0009,Week 8,2024-05-09,08:41,HDL Cholesterol,40.5,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0009,Week 8,2024-05-09,08:59,Triglycerides,78.96,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0009,Week 12,2024-06-06,08:01,Total Cholesterol,121.49,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0009,Week 12,2024-06-06,11:07,LDL Cholesterol,85.27,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0009,Week 12,2024-06-06,11:33,HDL Cholesterol,45.74,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0009,Week 12,2024-06-06,08:10,Triglycerides,72.43,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0009,End of Study,2024-07-04,11:56,Total Cholesterol,141.92,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0009,End of Study,2024-07-04,10:51,LDL Cholesterol,83.61,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0009,End of Study,2024-07-04,10:18,HDL Cholesterol,44.64,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0009,End of Study,2024-07-04,11:16,Triglycerides,74.07,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0010,Screening,2024-02-15,08:28,Total Cholesterol,152.29,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0010,Screening,2024-02-15,11:49,LDL Cholesterol,23.58,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0010,Screening,2024-02-15,08:23,HDL Cholesterol,47.5,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0010,Screening,2024-02-15,08:35,Triglycerides,76.9,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0010,Baseline,2024-03-14,11:19,Total Cholesterol,134.01,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0010,Baseline,2024-03-14,10:08,LDL Cholesterol,27.08,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0010,Baseline,2024-03-14,10:22,HDL Cholesterol,40.36,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0010,Baseline,2024-03-14,11:56,Triglycerides,71.57,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0010,Week 4,2024-04-11,09:03,Total Cholesterol,161.11,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0010,Week 4,2024-04-11,10:34,LDL Cholesterol,26.03,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0010,Week 4,2024-04-11,08:40,HDL Cholesterol,42.61,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0010,Week 4,2024-04-11,08:46,Triglycerides,76.77,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0010,Week 8,2024-05-09,09:04,Total Cholesterol,155.06,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0010,Week 8,2024-05-09,08:48,LDL Cholesterol,24.33,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0010,Week 8,2024-05-09,08:04,HDL Cholesterol,46.17,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0010,Week 8,2024-05-09,10:58,Triglycerides,72.75,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0010,Week 12,2024-06-06,11:39,Total Cholesterol,154.02,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0010,Week 12,2024-06-06,10:28,LDL Cholesterol,25.12,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0010,Week 12,2024-06-06,10:58,HDL Cholesterol,45.02,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0010,Week 12,2024-06-06,09:16,Triglycerides,83.36,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0010,End of Study,2024-07-04,08:34,Total Cholesterol,158.07,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0010,End of Study,2024-07-04,09:15,LDL Cholesterol,29.2,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0010,End of Study,2024-07-04,10:42,HDL Cholesterol,49.55,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0010,End of Study,2024-07-04,09:01,Triglycerides,67.79,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0011,Screening,2024-02-15,11:45,Total Cholesterol,130.05,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0011,Screening,2024-02-15,11:33,LDL Cholesterol,20.49,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0011,Screening,2024-02-15,09:57,HDL Cholesterol,55.84,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0011,Screening,2024-02-15,09:44,Triglycerides,9.8,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0011,Baseline,2024-03-14,10:47,Total Cholesterol,124.98,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0011,Baseline,2024-03-14,11:12,LDL Cholesterol,21.74,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0011,Baseline,2024-03-14,10:10,HDL Cholesterol,60.38,mg/dL,40.0,60.0,High,Clinically significant,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0011,Baseline,2024-03-14,10:15,Triglycerides,10.07,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0011,Week 4,2024-04-11,11:30,Total Cholesterol,129.17,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0011,Week 4,2024-04-11,11:32,LDL Cholesterol,20.81,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0011,Week 4,2024-04-11,11:01,HDL Cholesterol,52.45,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0011,Week 4,2024-04-11,09:03,Triglycerides,8.94,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0011,Week 8,2024-05-09,09:30,Total Cholesterol,127.39,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0011,Week 8,2024-05-09,08:58,LDL Cholesterol,19.48,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0011,Week 8,2024-05-09,09:01,HDL Cholesterol,54.14,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0011,Week 8,2024-05-09,09:01,Triglycerides,7.85,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0011,Week 12,2024-06-06,08:24,Total Cholesterol,121.16,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0011,Week 12,2024-06-06,09:35,LDL Cholesterol,21.61,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0011,Week 12,2024-06-06,10:24,HDL Cholesterol,56.01,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0011,Week 12,2024-06-06,10:09,Triglycerides,9.67,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0011,End of Study,2024-07-04,09:05,Total Cholesterol,126.31,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0011,End of Study,2024-07-04,11:35,LDL Cholesterol,17.46,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0011,End of Study,2024-07-04,11:26,HDL Cholesterol,54.67,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0011,End of Study,2024-07-04,09:10,Triglycerides,9.28,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0012,Screening,2024-02-15,11:09,Total Cholesterol,122.87,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0012,Screening,2024-02-15,11:27,LDL Cholesterol,78.14,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0012,Screening,2024-02-15,10:56,HDL Cholesterol,37.08,mg/dL,40.0,60.0,Low,Clinically significant,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0012,Screening,2024-02-15,10:23,Triglycerides,73.71,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0012,Baseline,2024-03-14,10:11,Total Cholesterol,146.33,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0012,Baseline,2024-03-14,09:13,LDL Cholesterol,78.94,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0012,Baseline,2024-03-14,10:27,HDL Cholesterol,42.39,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0012,Baseline,2024-03-14,09:18,Triglycerides,65.18,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0012,Week 4,2024-04-11,09:31,Total Cholesterol,131.68,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0012,Week 4,2024-04-11,08:37,LDL Cholesterol,71.6,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0012,Week 4,2024-04-11,09:21,HDL Cholesterol,46.66,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0012,Week 4,2024-04-11,10:49,Triglycerides,79.24,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0012,Week 8,2024-05-09,09:16,Total Cholesterol,140.77,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0012,Week 8,2024-05-09,08:27,LDL Cholesterol,93.53,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0012,Week 8,2024-05-09,09:19,HDL Cholesterol,49.27,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0012,Week 8,2024-05-09,09:36,Triglycerides,73.15,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0012,Week 12,2024-06-06,09:35,Total Cholesterol,112.85,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0012,Week 12,2024-06-06,08:33,LDL Cholesterol,73.48,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0012,Week 12,2024-06-06,09:37,HDL Cholesterol,45.27,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0012,Week 12,2024-06-06,09:04,Triglycerides,75.33,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0012,End of Study,2024-07-04,09:29,Total Cholesterol,148.88,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0012,End of Study,2024-07-04,08:59,LDL Cholesterol,91.79,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0012,End of Study,2024-07-04,09:13,HDL Cholesterol,39.6,mg/dL,40.0,60.0,Low,Clinically significant,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0012,End of Study,2024-07-04,10:24,Triglycerides,64.15,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0013,Screening,2024-02-15,11:55,Total Cholesterol,131.78,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0013,Screening,2024-02-15,11:34,LDL Cholesterol,52.65,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0013,Screening,2024-02-15,11:19,HDL Cholesterol,59.54,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0013,Screening,2024-02-15,11:03,Triglycerides,97.67,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0013,Baseline,2024-03-14,08:08,Total Cholesterol,127.1,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0013,Baseline,2024-03-14,08:23,LDL Cholesterol,61.21,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0013,Baseline,2024-03-14,09:16,HDL Cholesterol,53.9,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0013,Baseline,2024-03-14,10:36,Triglycerides,107.22,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0013,Week 4,2024-04-11,10:21,Total Cholesterol,131.12,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0013,Week 4,2024-04-11,08:50,LDL Cholesterol,59.89,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0013,Week 4,2024-04-11,10:56,HDL Cholesterol,53.88,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0013,Week 4,2024-04-11,09:10,Triglycerides,104.3,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0013,Week 8,2024-05-09,10:11,Total Cholesterol,142.26,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0013,Week 8,2024-05-09,10:17,LDL Cholesterol,53.54,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0013,Week 8,2024-05-09,10:43,HDL Cholesterol,48.3,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0013,Week 8,2024-05-09,09:30,Triglycerides,95.9,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0013,Week 12,2024-06-06,10:53,Total Cholesterol,114.37,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0013,Week 12,2024-06-06,09:53,LDL Cholesterol,61.26,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0013,Week 12,2024-06-06,10:15,HDL Cholesterol,52.59,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0013,Week 12,2024-06-06,11:32,Triglycerides,103.24,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0013,End of Study,2024-07-04,10:51,Total Cholesterol,147.19,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0013,End of Study,2024-07-04,09:18,LDL Cholesterol,57.53,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0013,End of Study,2024-07-04,08:36,HDL Cholesterol,58.81,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0013,End of Study,2024-07-04,11:01,Triglycerides,109.01,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0014,Screening,2024-02-15,09:09,Total Cholesterol,140.44,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0014,Screening,2024-02-15,08:00,LDL Cholesterol,28.47,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0014,Screening,2024-02-15,10:44,HDL Cholesterol,45.24,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0014,Screening,2024-02-15,09:52,Triglycerides,132.65,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0014,Baseline,2024-03-14,09:35,Total Cholesterol,128.97,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0014,Baseline,2024-03-14,09:21,LDL Cholesterol,30.79,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0014,Baseline,2024-03-14,11:39,HDL Cholesterol,53.9,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0014,Baseline,2024-03-14,08:02,Triglycerides,135.99,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0014,Week 4,2024-04-11,10:09,Total Cholesterol,158.58,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0014,Week 4,2024-04-11,10:48,LDL Cholesterol,31.16,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0014,Week 4,2024-04-11,10:48,HDL Cholesterol,42.57,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0014,Week 4,2024-04-11,11:20,Triglycerides,120.11,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0014,Week 8,2024-05-09,08:46,Total Cholesterol,162.29,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0014,Week 8,2024-05-09,08:44,LDL Cholesterol,30.26,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0014,Week 8,2024-05-09,10:28,HDL Cholesterol,45.51,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0014,Week 8,2024-05-09,11:13,Triglycerides,128.04,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0014,Week 12,2024-06-06,08:27,Total Cholesterol,171.8,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0014,Week 12,2024-06-06,11:10,LDL Cholesterol,29.65,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0014,Week 12,2024-06-06,11:25,HDL Cholesterol,50.83,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0014,Week 12,2024-06-06,11:02,Triglycerides,127.3,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0014,End of Study,2024-07-04,10:43,Total Cholesterol,151.74,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0014,End of Study,2024-07-04,10:43,LDL Cholesterol,27.53,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0014,End of Study,2024-07-04,10:42,HDL Cholesterol,53.31,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0014,End of Study,2024-07-04,08:14,Triglycerides,122.77,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0015,Screening,2024-02-15,11:03,Total Cholesterol,146.47,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0015,Screening,2024-02-15,08:51,LDL Cholesterol,49.84,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0015,Screening,2024-02-15,09:56,HDL Cholesterol,58.45,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0015,Screening,2024-02-15,09:02,Triglycerides,12.05,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0015,Baseline,2024-03-14,09:11,Total Cholesterol,188.23,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0015,Baseline,2024-03-14,11:55,LDL Cholesterol,60.81,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0015,Baseline,2024-03-14,11:27,HDL Cholesterol,50.14,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0015,Baseline,2024-03-14,08:10,Triglycerides,13.73,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0015,Week 4,2024-04-11,11:48,Total Cholesterol,176.75,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0015,Week 4,2024-04-11,08:58,LDL Cholesterol,61.32,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0015,Week 4,2024-04-11,08:35,HDL Cholesterol,48.14,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0015,Week 4,2024-04-11,10:52,Triglycerides,15.5,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0015,Week 8,2024-05-09,08:32,Total Cholesterol,180.01,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0015,Week 8,2024-05-09,10:07,LDL Cholesterol,61.34,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0015,Week 8,2024-05-09,08:11,HDL Cholesterol,52.22,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0015,Week 8,2024-05-09,09:06,Triglycerides,15.52,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0015,Week 12,2024-06-06,10:42,Total Cholesterol,148.74,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0015,Week 12,2024-06-06,08:49,LDL Cholesterol,50.4,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0015,Week 12,2024-06-06,10:47,HDL Cholesterol,59.06,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0015,Week 12,2024-06-06,08:26,Triglycerides,14.41,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0015,End of Study,2024-07-04,11:24,Total Cholesterol,146.76,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0015,End of Study,2024-07-04,10:25,LDL Cholesterol,53.03,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0015,End of Study,2024-07-04,09:51,HDL Cholesterol,43.77,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0015,End of Study,2024-07-04,11:43,Triglycerides,15.21,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0016,Screening,2024-02-15,11:05,Total Cholesterol,92.39,mg/dL,100.0,200.0,Low,Clinically significant,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0016,Screening,2024-02-15,10:08,LDL Cholesterol,43.76,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0016,Screening,2024-02-15,09:40,HDL Cholesterol,58.01,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0016,Screening,2024-02-15,09:11,Triglycerides,138.77,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0016,Baseline,2024-03-14,10:33,Total Cholesterol,99.21,mg/dL,100.0,200.0,Low,Clinically significant,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0016,Baseline,2024-03-14,09:29,LDL Cholesterol,38.71,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0016,Baseline,2024-03-14,11:08,HDL Cholesterol,63.28,mg/dL,40.0,60.0,High,Not clinically significant,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0016,Baseline,2024-03-14,10:36,Triglycerides,159.95,mg/dL,0.0,150.0,High,Not clinically significant,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0016,Week 4,2024-04-11,09:03,Total Cholesterol,91.53,mg/dL,100.0,200.0,Low,Not clinically significant,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0016,Week 4,2024-04-11,09:26,LDL Cholesterol,43.24,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0016,Week 4,2024-04-11,09:58,HDL Cholesterol,51.31,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0016,Week 4,2024-04-11,08:48,Triglycerides,144.86,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0016,Week 8,2024-05-09,11:24,Total Cholesterol,110.91,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0016,Week 8,2024-05-09,10:46,LDL Cholesterol,38.48,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0016,Week 8,2024-05-09,11:31,HDL Cholesterol,51.43,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0016,Week 8,2024-05-09,09:49,Triglycerides,141.43,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0016,Week 12,2024-06-06,11:48,Total Cholesterol,103.57,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0016,Week 12,2024-06-06,10:02,LDL Cholesterol,40.71,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0016,Week 12,2024-06-06,08:34,HDL Cholesterol,65.02,mg/dL,40.0,60.0,High,Clinically significant,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0016,Week 12,2024-06-06,10:50,Triglycerides,146.99,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0016,End of Study,2024-07-04,08:50,Total Cholesterol,116.14,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0016,End of Study,2024-07-04,11:12,LDL Cholesterol,38.8,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0016,End of Study,2024-07-04,11:23,HDL Cholesterol,55.19,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0016,End of Study,2024-07-04,08:18,Triglycerides,126.26,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0017,Screening,2024-02-15,11:40,Total Cholesterol,185.72,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0017,Screening,2024-02-15,11:00,LDL Cholesterol,53.83,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0017,Screening,2024-02-15,09:42,HDL Cholesterol,50.24,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0017,Screening,2024-02-15,10:25,Triglycerides,82.02,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0017,Baseline,2024-03-14,08:36,Total Cholesterol,158.39,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0017,Baseline,2024-03-14,09:06,LDL Cholesterol,52.46,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0017,Baseline,2024-03-14,11:47,HDL Cholesterol,42.17,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0017,Baseline,2024-03-14,10:56,Triglycerides,83.74,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0017,Week 4,2024-04-11,08:02,Total Cholesterol,157.93,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0017,Week 4,2024-04-11,09:19,LDL Cholesterol,63.07,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0017,Week 4,2024-04-11,11:10,HDL Cholesterol,46.15,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0017,Week 4,2024-04-11,09:05,Triglycerides,84.44,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0017,Week 8,2024-05-09,10:56,Total Cholesterol,169.23,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0017,Week 8,2024-05-09,08:07,LDL Cholesterol,63.07,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0017,Week 8,2024-05-09,09:23,HDL Cholesterol,48.05,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0017,Week 8,2024-05-09,11:14,Triglycerides,91.56,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0017,Week 12,2024-06-06,08:29,Total Cholesterol,156.04,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0017,Week 12,2024-06-06,10:48,LDL Cholesterol,54.94,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0017,Week 12,2024-06-06,11:44,HDL Cholesterol,39.74,mg/dL,40.0,60.0,Low,Clinically significant,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0017,Week 12,2024-06-06,11:55,Triglycerides,90.88,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0017,End of Study,2024-07-04,10:51,Total Cholesterol,155.91,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0017,End of Study,2024-07-04,09:07,LDL Cholesterol,64.07,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0017,End of Study,2024-07-04,10:47,HDL Cholesterol,39.0,mg/dL,40.0,60.0,Low,Clinically significant,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0017,End of Study,2024-07-04,08:46,Triglycerides,82.8,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0018,Screening,2024-02-15,08:50,Total Cholesterol,134.38,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0018,Screening,2024-02-15,11:01,LDL Cholesterol,23.37,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0018,Screening,2024-02-15,08:12,HDL Cholesterol,43.33,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0018,Screening,2024-02-15,10:17,Triglycerides,30.86,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0018,Baseline,2024-03-14,11:18,Total Cholesterol,154.81,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0018,Baseline,2024-03-14,08:44,LDL Cholesterol,23.82,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0018,Baseline,2024-03-14,10:41,HDL Cholesterol,45.37,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0018,Baseline,2024-03-14,08:34,Triglycerides,35.36,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0018,Week 4,2024-04-11,09:42,Total Cholesterol,139.24,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0018,Week 4,2024-04-11,09:16,LDL Cholesterol,20.16,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0018,Week 4,2024-04-11,08:21,HDL Cholesterol,42.99,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0018,Week 4,2024-04-11,10:59,Triglycerides,31.48,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0018,Week 8,2024-05-09,11:16,Total Cholesterol,123.01,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0018,Week 8,2024-05-09,08:50,LDL Cholesterol,21.09,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0018,Week 8,2024-05-09,08:47,HDL Cholesterol,37.27,mg/dL,40.0,60.0,Low,Clinically significant,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0018,Week 8,2024-05-09,08:04,Triglycerides,27.28,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0018,Week 12,2024-06-06,10:26,Total Cholesterol,128.18,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0018,Week 12,2024-06-06,09:47,LDL Cholesterol,24.58,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0018,Week 12,2024-06-06,08:59,HDL Cholesterol,45.3,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0018,Week 12,2024-06-06,11:49,Triglycerides,33.75,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0018,End of Study,2024-07-04,10:26,Total Cholesterol,146.69,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0018,End of Study,2024-07-04,09:08,LDL Cholesterol,22.2,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0018,End of Study,2024-07-04,10:15,HDL Cholesterol,38.82,mg/dL,40.0,60.0,Low,Not clinically significant,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0018,End of Study,2024-07-04,10:36,Triglycerides,35.3,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0019,Screening,2024-02-15,10:42,Total Cholesterol,115.55,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0019,Screening,2024-02-15,09:12,LDL Cholesterol,35.85,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0019,Screening,2024-02-15,11:18,HDL Cholesterol,55.29,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0019,Screening,2024-02-15,10:25,Triglycerides,121.06,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0019,Baseline,2024-03-14,08:29,Total Cholesterol,120.33,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0019,Baseline,2024-03-14,11:19,LDL Cholesterol,40.92,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0019,Baseline,2024-03-14,08:51,HDL Cholesterol,48.69,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0019,Baseline,2024-03-14,11:37,Triglycerides,125.73,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0019,Week 4,2024-04-11,08:04,Total Cholesterol,123.0,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0019,Week 4,2024-04-11,10:06,LDL Cholesterol,41.53,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0019,Week 4,2024-04-11,10:29,HDL Cholesterol,44.89,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0019,Week 4,2024-04-11,10:19,Triglycerides,137.47,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0019,Week 8,2024-05-09,09:16,Total Cholesterol,131.4,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0019,Week 8,2024-05-09,08:49,LDL Cholesterol,40.97,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0019,Week 8,2024-05-09,11:26,HDL Cholesterol,47.19,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0019,Week 8,2024-05-09,09:08,Triglycerides,133.09,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0019,Week 12,2024-06-06,08:01,Total Cholesterol,114.1,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0019,Week 12,2024-06-06,10:18,LDL Cholesterol,38.45,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0019,Week 12,2024-06-06,11:39,HDL Cholesterol,58.34,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0019,Week 12,2024-06-06,08:41,Triglycerides,124.37,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0019,End of Study,2024-07-04,10:41,Total Cholesterol,117.3,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0019,End of Study,2024-07-04,09:30,LDL Cholesterol,35.65,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0019,End of Study,2024-07-04,08:58,HDL Cholesterol,54.45,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0019,End of Study,2024-07-04,11:13,Triglycerides,130.33,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0020,Screening,2024-02-15,08:08,Total Cholesterol,142.92,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0020,Screening,2024-02-15,10:15,LDL Cholesterol,15.77,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0020,Screening,2024-02-15,09:26,HDL Cholesterol,58.88,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0020,Screening,2024-02-15,08:17,Triglycerides,121.6,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0020,Baseline,2024-03-14,11:11,Total Cholesterol,186.32,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0020,Baseline,2024-03-14,10:19,LDL Cholesterol,14.36,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0020,Baseline,2024-03-14,08:14,HDL Cholesterol,56.67,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0020,Baseline,2024-03-14,08:09,Triglycerides,106.58,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0020,Week 4,2024-04-11,08:06,Total Cholesterol,145.48,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0020,Week 4,2024-04-11,11:46,LDL Cholesterol,12.98,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0020,Week 4,2024-04-11,09:15,HDL Cholesterol,51.61,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0020,Week 4,2024-04-11,11:12,Triglycerides,137.38,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0020,Week 8,2024-05-09,10:18,Total Cholesterol,145.49,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0020,Week 8,2024-05-09,11:19,LDL Cholesterol,13.4,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0020,Week 8,2024-05-09,08:11,HDL Cholesterol,48.81,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0020,Week 8,2024-05-09,08:42,Triglycerides,122.79,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0020,Week 12,2024-06-06,11:47,Total Cholesterol,145.2,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0020,Week 12,2024-06-06,09:15,LDL Cholesterol,12.04,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0020,Week 12,2024-06-06,11:13,HDL Cholesterol,50.39,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0020,Week 12,2024-06-06,10:38,Triglycerides,107.31,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0020,End of Study,2024-07-04,10:45,Total Cholesterol,159.13,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0020,End of Study,2024-07-04,09:03,LDL Cholesterol,15.41,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0020,End of Study,2024-07-04,09:24,HDL Cholesterol,52.69,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0020,End of Study,2024-07-04,10:12,Triglycerides,110.79,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0021,Screening,2024-02-15,09:45,Total Cholesterol,182.7,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0021,Screening,2024-02-15,08:12,LDL Cholesterol,71.84,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0021,Screening,2024-02-15,09:50,HDL Cholesterol,54.52,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0021,Screening,2024-02-15,10:20,Triglycerides,88.15,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0021,Baseline,2024-03-14,08:22,Total Cholesterol,186.98,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0021,Baseline,2024-03-14,11:35,LDL Cholesterol,89.55,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0021,Baseline,2024-03-14,10:30,HDL Cholesterol,52.41,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0021,Baseline,2024-03-14,08:33,Triglycerides,77.55,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0021,Week 4,2024-04-11,09:18,Total Cholesterol,141.74,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0021,Week 4,2024-04-11,11:27,LDL Cholesterol,91.47,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0021,Week 4,2024-04-11,10:20,HDL Cholesterol,52.91,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0021,Week 4,2024-04-11,09:10,Triglycerides,85.93,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0021,Week 8,2024-05-09,10:24,Total Cholesterol,158.87,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0021,Week 8,2024-05-09,10:07,LDL Cholesterol,77.53,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0021,Week 8,2024-05-09,08:43,HDL Cholesterol,48.63,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0021,Week 8,2024-05-09,09:35,Triglycerides,85.59,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0021,Week 12,2024-06-06,09:49,Total Cholesterol,140.85,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0021,Week 12,2024-06-06,11:35,LDL Cholesterol,77.98,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0021,Week 12,2024-06-06,09:49,HDL Cholesterol,48.69,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0021,Week 12,2024-06-06,09:23,Triglycerides,79.75,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0021,End of Study,2024-07-04,11:16,Total Cholesterol,177.47,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0021,End of Study,2024-07-04,10:26,LDL Cholesterol,84.47,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0021,End of Study,2024-07-04,11:03,HDL Cholesterol,59.02,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0021,End of Study,2024-07-04,10:18,Triglycerides,91.32,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0022,Screening,2024-02-15,09:07,Total Cholesterol,136.35,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0022,Screening,2024-02-15,09:16,LDL Cholesterol,84.8,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0022,Screening,2024-02-15,11:26,HDL Cholesterol,53.11,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0022,Screening,2024-02-15,08:45,Triglycerides,44.4,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0022,Baseline,2024-03-14,10:27,Total Cholesterol,133.85,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0022,Baseline,2024-03-14,09:15,LDL Cholesterol,92.21,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0022,Baseline,2024-03-14,10:16,HDL Cholesterol,44.79,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0022,Baseline,2024-03-14,09:42,Triglycerides,49.12,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0022,Week 4,2024-04-11,10:35,Total Cholesterol,133.52,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0022,Week 4,2024-04-11,08:59,LDL Cholesterol,108.12,mg/dL,0.0,100.0,High,Clinically significant,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0022,Week 4,2024-04-11,08:55,HDL Cholesterol,48.89,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0022,Week 4,2024-04-11,08:41,Triglycerides,46.88,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0022,Week 8,2024-05-09,10:09,Total Cholesterol,117.97,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0022,Week 8,2024-05-09,11:44,LDL Cholesterol,96.5,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0022,Week 8,2024-05-09,11:56,HDL Cholesterol,46.59,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0022,Week 8,2024-05-09,11:21,Triglycerides,51.18,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0022,Week 12,2024-06-06,10:11,Total Cholesterol,123.59,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0022,Week 12,2024-06-06,10:43,LDL Cholesterol,97.82,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0022,Week 12,2024-06-06,10:03,HDL Cholesterol,40.12,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0022,Week 12,2024-06-06,09:43,Triglycerides,50.05,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0022,End of Study,2024-07-04,11:55,Total Cholesterol,129.31,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0022,End of Study,2024-07-04,09:33,LDL Cholesterol,92.58,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0022,End of Study,2024-07-04,11:07,HDL Cholesterol,48.5,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0022,End of Study,2024-07-04,10:19,Triglycerides,42.1,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0023,Screening,2024-02-15,08:59,Total Cholesterol,217.18,mg/dL,100.0,200.0,High,Clinically significant,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0023,Screening,2024-02-15,11:58,LDL Cholesterol,68.77,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0023,Screening,2024-02-15,09:34,HDL Cholesterol,54.64,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0023,Screening,2024-02-15,08:36,Triglycerides,12.44,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0023,Baseline,2024-03-14,09:22,Total Cholesterol,196.14,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0023,Baseline,2024-03-14,08:08,LDL Cholesterol,78.71,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0023,Baseline,2024-03-14,11:39,HDL Cholesterol,54.34,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0023,Baseline,2024-03-14,11:12,Triglycerides,13.2,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0023,Week 4,2024-04-11,09:14,Total Cholesterol,182.59,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0023,Week 4,2024-04-11,10:10,LDL Cholesterol,72.24,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0023,Week 4,2024-04-11,11:38,HDL Cholesterol,65.51,mg/dL,40.0,60.0,High,Not clinically significant,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0023,Week 4,2024-04-11,08:09,Triglycerides,14.08,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0023,Week 8,2024-05-09,10:32,Total Cholesterol,218.71,mg/dL,100.0,200.0,High,Clinically significant,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0023,Week 8,2024-05-09,11:36,LDL Cholesterol,67.52,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0023,Week 8,2024-05-09,08:29,HDL Cholesterol,55.56,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0023,Week 8,2024-05-09,10:13,Triglycerides,13.28,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0023,Week 12,2024-06-06,10:32,Total Cholesterol,218.57,mg/dL,100.0,200.0,High,Clinically significant,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0023,Week 12,2024-06-06,09:00,LDL Cholesterol,74.81,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0023,Week 12,2024-06-06,11:29,HDL Cholesterol,57.18,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0023,Week 12,2024-06-06,09:34,Triglycerides,11.5,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0023,End of Study,2024-07-04,09:23,Total Cholesterol,198.87,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0023,End of Study,2024-07-04,10:07,LDL Cholesterol,79.8,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0023,End of Study,2024-07-04,08:11,HDL Cholesterol,59.16,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0023,End of Study,2024-07-04,11:33,Triglycerides,13.44,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0024,Screening,2024-02-15,09:00,Total Cholesterol,117.32,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0024,Screening,2024-02-15,08:09,LDL Cholesterol,41.86,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0024,Screening,2024-02-15,08:59,HDL Cholesterol,53.65,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0024,Screening,2024-02-15,08:28,Triglycerides,93.96,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0024,Baseline,2024-03-14,08:16,Total Cholesterol,102.71,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0024,Baseline,2024-03-14,10:24,LDL Cholesterol,47.42,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0024,Baseline,2024-03-14,10:14,HDL Cholesterol,59.82,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0024,Baseline,2024-03-14,09:13,Triglycerides,94.53,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0024,Week 4,2024-04-11,08:27,Total Cholesterol,116.56,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0024,Week 4,2024-04-11,09:12,LDL Cholesterol,41.46,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0024,Week 4,2024-04-11,09:04,HDL Cholesterol,67.64,mg/dL,40.0,60.0,High,Not clinically significant,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0024,Week 4,2024-04-11,08:37,Triglycerides,95.12,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0024,Week 8,2024-05-09,10:09,Total Cholesterol,116.81,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0024,Week 8,2024-05-09,09:03,LDL Cholesterol,38.45,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0024,Week 8,2024-05-09,11:58,HDL Cholesterol,58.63,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0024,Week 8,2024-05-09,09:00,Triglycerides,89.38,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0024,Week 12,2024-06-06,08:10,Total Cholesterol,110.58,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0024,Week 12,2024-06-06,10:20,LDL Cholesterol,47.67,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0024,Week 12,2024-06-06,08:04,HDL Cholesterol,66.71,mg/dL,40.0,60.0,High,Not clinically significant,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0024,Week 12,2024-06-06,11:27,Triglycerides,82.04,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0024,End of Study,2024-07-04,09:11,Total Cholesterol,104.0,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0024,End of Study,2024-07-04,11:10,LDL Cholesterol,40.03,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0024,End of Study,2024-07-04,09:46,HDL Cholesterol,68.19,mg/dL,40.0,60.0,High,Clinically significant,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0024,End of Study,2024-07-04,08:06,Triglycerides,73.47,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0025,Screening,2024-02-15,10:21,Total Cholesterol,186.14,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0025,Screening,2024-02-15,11:17,LDL Cholesterol,54.07,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0025,Screening,2024-02-15,08:27,HDL Cholesterol,53.2,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0025,Screening,2024-02-15,08:38,Triglycerides,140.02,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0025,Baseline,2024-03-14,08:04,Total Cholesterol,159.09,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0025,Baseline,2024-03-14,10:24,LDL Cholesterol,62.96,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0025,Baseline,2024-03-14,09:52,HDL Cholesterol,55.32,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0025,Baseline,2024-03-14,11:05,Triglycerides,128.62,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0025,Week 4,2024-04-11,08:44,Total Cholesterol,166.13,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0025,Week 4,2024-04-11,10:34,LDL Cholesterol,63.79,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0025,Week 4,2024-04-11,11:55,HDL Cholesterol,53.93,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0025,Week 4,2024-04-11,10:28,Triglycerides,136.39,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0025,Week 8,2024-05-09,08:11,Total Cholesterol,180.29,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0025,Week 8,2024-05-09,09:47,LDL Cholesterol,53.37,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0025,Week 8,2024-05-09,08:55,HDL Cholesterol,52.94,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0025,Week 8,2024-05-09,09:44,Triglycerides,149.07,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0025,Week 12,2024-06-06,08:43,Total Cholesterol,177.27,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0025,Week 12,2024-06-06,09:06,LDL Cholesterol,60.87,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0025,Week 12,2024-06-06,10:35,HDL Cholesterol,68.05,mg/dL,40.0,60.0,High,Not clinically significant,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0025,Week 12,2024-06-06,09:18,Triglycerides,148.44,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0025,End of Study,2024-07-04,11:29,Total Cholesterol,204.53,mg/dL,100.0,200.0,High,Clinically significant,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0025,End of Study,2024-07-04,09:23,LDL Cholesterol,65.98,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0025,End of Study,2024-07-04,09:11,HDL Cholesterol,53.0,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0025,End of Study,2024-07-04,10:35,Triglycerides,124.61,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0026,Screening,2024-02-15,10:36,Total Cholesterol,124.43,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0026,Screening,2024-02-15,09:57,LDL Cholesterol,42.48,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0026,Screening,2024-02-15,08:08,HDL Cholesterol,58.89,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0026,Screening,2024-02-15,10:09,Triglycerides,29.19,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0026,Baseline,2024-03-14,10:22,Total Cholesterol,116.87,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0026,Baseline,2024-03-14,11:58,LDL Cholesterol,34.75,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0026,Baseline,2024-03-14,08:58,HDL Cholesterol,53.23,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0026,Baseline,2024-03-14,11:50,Triglycerides,36.65,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0026,Week 4,2024-04-11,09:26,Total Cholesterol,128.1,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0026,Week 4,2024-04-11,08:31,LDL Cholesterol,43.57,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0026,Week 4,2024-04-11,10:13,HDL Cholesterol,53.62,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0026,Week 4,2024-04-11,09:59,Triglycerides,27.34,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0026,Week 8,2024-05-09,10:11,Total Cholesterol,139.65,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0026,Week 8,2024-05-09,08:47,LDL Cholesterol,45.96,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0026,Week 8,2024-05-09,08:55,HDL Cholesterol,62.98,mg/dL,40.0,60.0,High,Clinically significant,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0026,Week 8,2024-05-09,10:02,Triglycerides,33.52,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0026,Week 12,2024-06-06,09:03,Total Cholesterol,128.84,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0026,Week 12,2024-06-06,09:44,LDL Cholesterol,45.51,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0026,Week 12,2024-06-06,11:46,HDL Cholesterol,49.42,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0026,Week 12,2024-06-06,11:48,Triglycerides,30.48,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0026,End of Study,2024-07-04,08:37,Total Cholesterol,132.83,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0026,End of Study,2024-07-04,09:20,LDL Cholesterol,38.15,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0026,End of Study,2024-07-04,10:12,HDL Cholesterol,51.28,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0026,End of Study,2024-07-04,08:03,Triglycerides,32.3,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0027,Screening,2024-02-15,08:21,Total Cholesterol,148.35,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0027,Screening,2024-02-15,09:30,LDL Cholesterol,80.83,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0027,Screening,2024-02-15,09:44,HDL Cholesterol,48.87,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0027,Screening,2024-02-15,09:58,Triglycerides,61.91,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0027,Baseline,2024-03-14,08:03,Total Cholesterol,163.8,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0027,Baseline,2024-03-14,11:53,LDL Cholesterol,63.71,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0027,Baseline,2024-03-14,08:26,HDL Cholesterol,46.67,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0027,Baseline,2024-03-14,08:11,Triglycerides,66.27,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0027,Week 4,2024-04-11,11:28,Total Cholesterol,159.49,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0027,Week 4,2024-04-11,11:32,LDL Cholesterol,70.0,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0027,Week 4,2024-04-11,09:34,HDL Cholesterol,45.74,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0027,Week 4,2024-04-11,11:52,Triglycerides,62.24,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0027,Week 8,2024-05-09,10:36,Total Cholesterol,185.28,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0027,Week 8,2024-05-09,11:03,LDL Cholesterol,75.19,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0027,Week 8,2024-05-09,08:47,HDL Cholesterol,51.98,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0027,Week 8,2024-05-09,09:37,Triglycerides,60.51,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0027,Week 12,2024-06-06,10:32,Total Cholesterol,176.09,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0027,Week 12,2024-06-06,09:47,LDL Cholesterol,79.66,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0027,Week 12,2024-06-06,09:23,HDL Cholesterol,48.7,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0027,Week 12,2024-06-06,09:41,Triglycerides,65.57,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0027,End of Study,2024-07-04,11:16,Total Cholesterol,158.77,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0027,End of Study,2024-07-04,11:34,LDL Cholesterol,83.22,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0027,End of Study,2024-07-04,08:54,HDL Cholesterol,51.62,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0027,End of Study,2024-07-04,10:42,Triglycerides,80.55,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0028,Screening,2024-02-15,10:39,Total Cholesterol,167.77,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0028,Screening,2024-02-15,11:08,LDL Cholesterol,1.91,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0028,Screening,2024-02-15,08:39,HDL Cholesterol,48.29,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0028,Screening,2024-02-15,08:30,Triglycerides,48.05,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0028,Baseline,2024-03-14,08:49,Total Cholesterol,139.4,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0028,Baseline,2024-03-14,08:52,LDL Cholesterol,1.99,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0028,Baseline,2024-03-14,11:58,HDL Cholesterol,56.06,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0028,Baseline,2024-03-14,09:29,Triglycerides,43.16,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0028,Week 4,2024-04-11,08:24,Total Cholesterol,181.68,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0028,Week 4,2024-04-11,08:29,LDL Cholesterol,2.22,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0028,Week 4,2024-04-11,10:42,HDL Cholesterol,52.73,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0028,Week 4,2024-04-11,09:03,Triglycerides,49.03,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0028,Week 8,2024-05-09,08:40,Total Cholesterol,144.22,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0028,Week 8,2024-05-09,09:47,LDL Cholesterol,1.79,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0028,Week 8,2024-05-09,11:03,HDL Cholesterol,47.16,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0028,Week 8,2024-05-09,11:41,Triglycerides,52.28,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0028,Week 12,2024-06-06,10:51,Total Cholesterol,172.54,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0028,Week 12,2024-06-06,09:33,LDL Cholesterol,1.83,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0028,Week 12,2024-06-06,10:53,HDL Cholesterol,56.04,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0028,Week 12,2024-06-06,09:39,Triglycerides,50.11,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0028,End of Study,2024-07-04,11:47,Total Cholesterol,166.2,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0028,End of Study,2024-07-04,09:25,LDL Cholesterol,1.96,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0028,End of Study,2024-07-04,10:00,HDL Cholesterol,60.36,mg/dL,40.0,60.0,High,Not clinically significant,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0028,End of Study,2024-07-04,10:15,Triglycerides,43.63,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0029,Screening,2024-02-15,11:13,Total Cholesterol,143.24,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0029,Screening,2024-02-15,11:36,LDL Cholesterol,26.44,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0029,Screening,2024-02-15,09:19,HDL Cholesterol,45.79,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0029,Screening,2024-02-15,11:45,Triglycerides,68.74,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0029,Baseline,2024-03-14,10:00,Total Cholesterol,119.47,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0029,Baseline,2024-03-14,10:25,LDL Cholesterol,29.43,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0029,Baseline,2024-03-14,09:46,HDL Cholesterol,55.95,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0029,Baseline,2024-03-14,09:28,Triglycerides,74.68,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0029,Week 4,2024-04-11,08:59,Total Cholesterol,131.67,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0029,Week 4,2024-04-11,11:12,LDL Cholesterol,28.37,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0029,Week 4,2024-04-11,09:41,HDL Cholesterol,57.34,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0029,Week 4,2024-04-11,10:46,Triglycerides,65.48,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0029,Week 8,2024-05-09,09:00,Total Cholesterol,125.28,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0029,Week 8,2024-05-09,11:11,LDL Cholesterol,29.28,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0029,Week 8,2024-05-09,11:30,HDL Cholesterol,50.95,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0029,Week 8,2024-05-09,10:03,Triglycerides,62.98,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0029,Week 12,2024-06-06,09:45,Total Cholesterol,134.39,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0029,Week 12,2024-06-06,09:14,LDL Cholesterol,26.06,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0029,Week 12,2024-06-06,08:41,HDL Cholesterol,46.29,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0029,Week 12,2024-06-06,08:53,Triglycerides,72.2,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0029,End of Study,2024-07-04,09:04,Total Cholesterol,136.12,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0029,End of Study,2024-07-04,11:20,LDL Cholesterol,29.45,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0029,End of Study,2024-07-04,08:14,HDL Cholesterol,43.65,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0029,End of Study,2024-07-04,10:31,Triglycerides,64.52,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0030,Screening,2024-02-15,11:04,Total Cholesterol,203.04,mg/dL,100.0,200.0,High,Not clinically significant,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0030,Screening,2024-02-15,09:21,LDL Cholesterol,3.83,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0030,Screening,2024-02-15,11:09,HDL Cholesterol,40.95,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0030,Screening,2024-02-15,10:52,Triglycerides,108.08,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0030,Baseline,2024-03-14,08:11,Total Cholesterol,155.96,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0030,Baseline,2024-03-14,10:15,LDL Cholesterol,3.69,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0030,Baseline,2024-03-14,11:18,HDL Cholesterol,39.34,mg/dL,40.0,60.0,Low,Clinically significant,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0030,Baseline,2024-03-14,09:25,Triglycerides,100.33,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0030,Week 4,2024-04-11,11:17,Total Cholesterol,168.48,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0030,Week 4,2024-04-11,09:04,LDL Cholesterol,3.23,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0030,Week 4,2024-04-11,10:44,HDL Cholesterol,36.52,mg/dL,40.0,60.0,Low,Clinically significant,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0030,Week 4,2024-04-11,10:02,Triglycerides,126.58,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0030,Week 8,2024-05-09,09:23,Total Cholesterol,171.73,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0030,Week 8,2024-05-09,10:05,LDL Cholesterol,3.11,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0030,Week 8,2024-05-09,08:08,HDL Cholesterol,40.83,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0030,Week 8,2024-05-09,11:12,Triglycerides,114.56,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0030,Week 12,2024-06-06,09:35,Total Cholesterol,157.07,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0030,Week 12,2024-06-06,08:21,LDL Cholesterol,3.48,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0030,Week 12,2024-06-06,11:32,HDL Cholesterol,36.28,mg/dL,40.0,60.0,Low,Not clinically significant,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0030,Week 12,2024-06-06,10:18,Triglycerides,129.83,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0030,End of Study,2024-07-04,08:54,Total Cholesterol,202.76,mg/dL,100.0,200.0,High,Not clinically significant,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0030,End of Study,2024-07-04,08:31,LDL Cholesterol,2.99,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0030,End of Study,2024-07-04,11:13,HDL Cholesterol,37.78,mg/dL,40.0,60.0,Low,Clinically significant,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0030,End of Study,2024-07-04,11:51,Triglycerides,125.1,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0031,Screening,2024-02-15,11:08,Total Cholesterol,116.23,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0031,Screening,2024-02-15,09:23,LDL Cholesterol,12.81,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0031,Screening,2024-02-15,08:01,HDL Cholesterol,39.7,mg/dL,40.0,60.0,Low,Not clinically significant,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0031,Screening,2024-02-15,08:02,Triglycerides,0.19,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0031,Baseline,2024-03-14,10:30,Total Cholesterol,115.0,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0031,Baseline,2024-03-14,09:50,LDL Cholesterol,12.42,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0031,Baseline,2024-03-14,10:08,HDL Cholesterol,40.21,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0031,Baseline,2024-03-14,08:09,Triglycerides,0.2,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0031,Week 4,2024-04-11,10:30,Total Cholesterol,124.36,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0031,Week 4,2024-04-11,11:28,LDL Cholesterol,11.9,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0031,Week 4,2024-04-11,08:54,HDL Cholesterol,45.95,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0031,Week 4,2024-04-11,11:46,Triglycerides,0.21,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0031,Week 8,2024-05-09,10:45,Total Cholesterol,140.4,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0031,Week 8,2024-05-09,09:31,LDL Cholesterol,13.58,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0031,Week 8,2024-05-09,09:58,HDL Cholesterol,39.59,mg/dL,40.0,60.0,Low,Clinically significant,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0031,Week 8,2024-05-09,08:42,Triglycerides,0.21,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0031,Week 12,2024-06-06,10:10,Total Cholesterol,148.49,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0031,Week 12,2024-06-06,11:04,LDL Cholesterol,12.32,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0031,Week 12,2024-06-06,08:43,HDL Cholesterol,52.2,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0031,Week 12,2024-06-06,08:41,Triglycerides,0.22,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0031,End of Study,2024-07-04,11:16,Total Cholesterol,136.83,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0031,End of Study,2024-07-04,09:06,LDL Cholesterol,13.23,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0031,End of Study,2024-07-04,09:10,HDL Cholesterol,46.54,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0031,End of Study,2024-07-04,10:56,Triglycerides,0.19,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0032,Screening,2024-02-15,08:51,Total Cholesterol,206.07,mg/dL,100.0,200.0,High,Not clinically significant,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0032,Screening,2024-02-15,11:46,LDL Cholesterol,33.8,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0032,Screening,2024-02-15,08:57,HDL Cholesterol,55.07,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0032,Screening,2024-02-15,11:39,Triglycerides,54.0,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0032,Baseline,2024-03-14,10:03,Total Cholesterol,188.15,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0032,Baseline,2024-03-14,09:59,LDL Cholesterol,27.36,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0032,Baseline,2024-03-14,08:20,HDL Cholesterol,56.15,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0032,Baseline,2024-03-14,09:41,Triglycerides,65.35,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0032,Week 4,2024-04-11,10:42,Total Cholesterol,201.1,mg/dL,100.0,200.0,High,Clinically significant,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0032,Week 4,2024-04-11,09:38,LDL Cholesterol,30.65,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0032,Week 4,2024-04-11,09:07,HDL Cholesterol,45.71,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0032,Week 4,2024-04-11,08:36,Triglycerides,66.96,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0032,Week 8,2024-05-09,10:41,Total Cholesterol,167.31,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0032,Week 8,2024-05-09,08:30,LDL Cholesterol,34.29,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0032,Week 8,2024-05-09,10:23,HDL Cholesterol,45.52,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0032,Week 8,2024-05-09,09:41,Triglycerides,56.13,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0032,Week 12,2024-06-06,08:51,Total Cholesterol,197.47,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0032,Week 12,2024-06-06,10:29,LDL Cholesterol,28.48,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0032,Week 12,2024-06-06,09:54,HDL Cholesterol,55.95,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0032,Week 12,2024-06-06,11:24,Triglycerides,60.69,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0032,End of Study,2024-07-04,09:43,Total Cholesterol,156.99,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0032,End of Study,2024-07-04,08:37,LDL Cholesterol,27.86,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0032,End of Study,2024-07-04,10:32,HDL Cholesterol,43.86,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0032,End of Study,2024-07-04,08:46,Triglycerides,66.97,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0033,Screening,2024-02-15,11:06,Total Cholesterol,152.02,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0033,Screening,2024-02-15,10:30,LDL Cholesterol,77.31,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0033,Screening,2024-02-15,08:14,HDL Cholesterol,40.98,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0033,Screening,2024-02-15,09:21,Triglycerides,8.42,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0033,Baseline,2024-03-14,08:32,Total Cholesterol,135.78,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0033,Baseline,2024-03-14,09:02,LDL Cholesterol,76.58,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0033,Baseline,2024-03-14,10:24,HDL Cholesterol,43.87,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0033,Baseline,2024-03-14,11:48,Triglycerides,9.56,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0033,Week 4,2024-04-11,10:29,Total Cholesterol,146.86,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0033,Week 4,2024-04-11,08:10,LDL Cholesterol,76.31,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0033,Week 4,2024-04-11,10:25,HDL Cholesterol,52.46,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0033,Week 4,2024-04-11,09:44,Triglycerides,8.46,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0033,Week 8,2024-05-09,08:39,Total Cholesterol,123.29,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0033,Week 8,2024-05-09,11:53,LDL Cholesterol,78.85,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0033,Week 8,2024-05-09,08:34,HDL Cholesterol,49.91,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0033,Week 8,2024-05-09,11:29,Triglycerides,9.46,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0033,Week 12,2024-06-06,08:15,Total Cholesterol,140.81,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0033,Week 12,2024-06-06,11:43,LDL Cholesterol,73.36,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0033,Week 12,2024-06-06,11:51,HDL Cholesterol,48.57,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0033,Week 12,2024-06-06,10:30,Triglycerides,7.93,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0033,End of Study,2024-07-04,08:56,Total Cholesterol,147.61,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0033,End of Study,2024-07-04,09:52,LDL Cholesterol,65.6,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0033,End of Study,2024-07-04,09:59,HDL Cholesterol,40.6,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0033,End of Study,2024-07-04,11:23,Triglycerides,9.16,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0034,Screening,2024-02-15,10:30,Total Cholesterol,167.84,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0034,Screening,2024-02-15,08:45,LDL Cholesterol,19.25,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0034,Screening,2024-02-15,11:32,HDL Cholesterol,45.72,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0034,Screening,2024-02-15,10:38,Triglycerides,56.5,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0034,Baseline,2024-03-14,11:36,Total Cholesterol,179.13,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0034,Baseline,2024-03-14,08:07,LDL Cholesterol,20.22,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0034,Baseline,2024-03-14,09:42,HDL Cholesterol,48.58,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0034,Baseline,2024-03-14,10:41,Triglycerides,59.12,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0034,Week 4,2024-04-11,09:36,Total Cholesterol,156.62,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0034,Week 4,2024-04-11,11:34,LDL Cholesterol,21.62,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0034,Week 4,2024-04-11,11:07,HDL Cholesterol,47.58,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0034,Week 4,2024-04-11,08:50,Triglycerides,46.88,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0034,Week 8,2024-05-09,09:35,Total Cholesterol,172.06,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0034,Week 8,2024-05-09,10:01,LDL Cholesterol,19.01,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0034,Week 8,2024-05-09,09:04,HDL Cholesterol,38.54,mg/dL,40.0,60.0,Low,Clinically significant,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0034,Week 8,2024-05-09,09:22,Triglycerides,51.69,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0034,Week 12,2024-06-06,08:08,Total Cholesterol,194.06,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0034,Week 12,2024-06-06,08:18,LDL Cholesterol,25.43,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0034,Week 12,2024-06-06,11:50,HDL Cholesterol,42.89,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0034,Week 12,2024-06-06,08:35,Triglycerides,46.34,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0034,End of Study,2024-07-04,10:24,Total Cholesterol,195.58,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0034,End of Study,2024-07-04,09:32,LDL Cholesterol,23.04,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0034,End of Study,2024-07-04,08:41,HDL Cholesterol,47.98,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0034,End of Study,2024-07-04,11:06,Triglycerides,48.42,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0035,Screening,2024-02-15,09:58,Total Cholesterol,142.94,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0035,Screening,2024-02-15,09:53,LDL Cholesterol,0.11,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0035,Screening,2024-02-15,08:47,HDL Cholesterol,37.72,mg/dL,40.0,60.0,Low,Not clinically significant,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0035,Screening,2024-02-15,10:43,Triglycerides,94.94,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0035,Baseline,2024-03-14,08:34,Total Cholesterol,139.68,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0035,Baseline,2024-03-14,08:55,LDL Cholesterol,0.12,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0035,Baseline,2024-03-14,10:05,HDL Cholesterol,45.28,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0035,Baseline,2024-03-14,11:33,Triglycerides,88.78,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0035,Week 4,2024-04-11,09:47,Total Cholesterol,136.96,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0035,Week 4,2024-04-11,11:39,LDL Cholesterol,0.1,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0035,Week 4,2024-04-11,08:18,HDL Cholesterol,43.95,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0035,Week 4,2024-04-11,09:04,Triglycerides,77.61,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0035,Week 8,2024-05-09,10:29,Total Cholesterol,144.32,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0035,Week 8,2024-05-09,10:45,LDL Cholesterol,0.12,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0035,Week 8,2024-05-09,09:58,HDL Cholesterol,42.12,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0035,Week 8,2024-05-09,10:33,Triglycerides,90.91,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0035,Week 12,2024-06-06,10:18,Total Cholesterol,159.15,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0035,Week 12,2024-06-06,09:03,LDL Cholesterol,0.11,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0035,Week 12,2024-06-06,11:34,HDL Cholesterol,44.21,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0035,Week 12,2024-06-06,08:28,Triglycerides,87.75,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0035,End of Study,2024-07-04,09:03,Total Cholesterol,154.36,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0035,End of Study,2024-07-04,11:11,LDL Cholesterol,0.11,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0035,End of Study,2024-07-04,09:48,HDL Cholesterol,35.31,mg/dL,40.0,60.0,Low,Clinically significant,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0035,End of Study,2024-07-04,10:19,Triglycerides,90.99,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0036,Screening,2024-02-15,11:02,Total Cholesterol,145.54,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0036,Screening,2024-02-15,10:57,LDL Cholesterol,4.82,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0036,Screening,2024-02-15,11:56,HDL Cholesterol,45.03,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0036,Screening,2024-02-15,11:05,Triglycerides,108.27,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0036,Baseline,2024-03-14,08:52,Total Cholesterol,142.03,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0036,Baseline,2024-03-14,10:31,LDL Cholesterol,5.9,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0036,Baseline,2024-03-14,09:17,HDL Cholesterol,49.27,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0036,Baseline,2024-03-14,09:27,Triglycerides,97.88,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0036,Week 4,2024-04-11,10:32,Total Cholesterol,125.99,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0036,Week 4,2024-04-11,08:56,LDL Cholesterol,6.21,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0036,Week 4,2024-04-11,11:09,HDL Cholesterol,42.85,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0036,Week 4,2024-04-11,09:11,Triglycerides,120.28,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0036,Week 8,2024-05-09,08:39,Total Cholesterol,145.48,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0036,Week 8,2024-05-09,09:18,LDL Cholesterol,4.87,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0036,Week 8,2024-05-09,09:42,HDL Cholesterol,49.1,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0036,Week 8,2024-05-09,10:23,Triglycerides,119.19,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0036,Week 12,2024-06-06,11:11,Total Cholesterol,131.6,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0036,Week 12,2024-06-06,09:43,LDL Cholesterol,5.87,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0036,Week 12,2024-06-06,11:01,HDL Cholesterol,38.43,mg/dL,40.0,60.0,Low,Not clinically significant,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0036,Week 12,2024-06-06,11:24,Triglycerides,104.55,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0036,End of Study,2024-07-04,10:22,Total Cholesterol,140.81,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0036,End of Study,2024-07-04,09:30,LDL Cholesterol,6.16,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0036,End of Study,2024-07-04,10:55,HDL Cholesterol,42.82,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0036,End of Study,2024-07-04,11:22,Triglycerides,107.64,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0037,Screening,2024-02-15,11:46,Total Cholesterol,161.36,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0037,Screening,2024-02-15,09:56,LDL Cholesterol,84.62,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0037,Screening,2024-02-15,10:40,HDL Cholesterol,44.14,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0037,Screening,2024-02-15,10:54,Triglycerides,30.29,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0037,Baseline,2024-03-14,11:24,Total Cholesterol,164.51,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0037,Baseline,2024-03-14,10:36,LDL Cholesterol,83.5,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0037,Baseline,2024-03-14,08:01,HDL Cholesterol,55.26,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0037,Baseline,2024-03-14,09:55,Triglycerides,28.86,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0037,Week 4,2024-04-11,11:34,Total Cholesterol,167.62,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0037,Week 4,2024-04-11,11:05,LDL Cholesterol,93.06,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0037,Week 4,2024-04-11,08:43,HDL Cholesterol,44.93,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0037,Week 4,2024-04-11,11:08,Triglycerides,33.57,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0037,Week 8,2024-05-09,08:50,Total Cholesterol,150.58,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0037,Week 8,2024-05-09,08:35,LDL Cholesterol,79.0,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0037,Week 8,2024-05-09,08:54,HDL Cholesterol,47.23,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0037,Week 8,2024-05-09,08:54,Triglycerides,32.03,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0037,Week 12,2024-06-06,09:23,Total Cholesterol,169.1,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0037,Week 12,2024-06-06,09:15,LDL Cholesterol,74.62,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0037,Week 12,2024-06-06,08:00,HDL Cholesterol,50.4,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0037,Week 12,2024-06-06,08:11,Triglycerides,31.57,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0037,End of Study,2024-07-04,10:46,Total Cholesterol,177.9,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0037,End of Study,2024-07-04,11:55,LDL Cholesterol,86.81,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0037,End of Study,2024-07-04,11:21,HDL Cholesterol,48.65,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0037,End of Study,2024-07-04,08:22,Triglycerides,31.85,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0038,Screening,2024-02-15,08:23,Total Cholesterol,170.35,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0038,Screening,2024-02-15,08:14,LDL Cholesterol,70.94,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0038,Screening,2024-02-15,11:09,HDL Cholesterol,39.85,mg/dL,40.0,60.0,Low,Not clinically significant,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0038,Screening,2024-02-15,10:56,Triglycerides,21.79,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0038,Baseline,2024-03-14,10:01,Total Cholesterol,185.94,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0038,Baseline,2024-03-14,10:57,LDL Cholesterol,65.37,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0038,Baseline,2024-03-14,08:45,HDL Cholesterol,49.28,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0038,Baseline,2024-03-14,11:21,Triglycerides,22.03,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0038,Week 4,2024-04-11,10:41,Total Cholesterol,160.81,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0038,Week 4,2024-04-11,09:16,LDL Cholesterol,70.12,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0038,Week 4,2024-04-11,08:13,HDL Cholesterol,49.95,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0038,Week 4,2024-04-11,11:46,Triglycerides,18.98,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0038,Week 8,2024-05-09,09:27,Total Cholesterol,183.68,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0038,Week 8,2024-05-09,09:39,LDL Cholesterol,61.61,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0038,Week 8,2024-05-09,09:18,HDL Cholesterol,50.09,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0038,Week 8,2024-05-09,08:40,Triglycerides,19.61,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0038,Week 12,2024-06-06,10:26,Total Cholesterol,147.57,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0038,Week 12,2024-06-06,08:44,LDL Cholesterol,58.22,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0038,Week 12,2024-06-06,09:05,HDL Cholesterol,47.83,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0038,Week 12,2024-06-06,08:12,Triglycerides,18.32,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0038,End of Study,2024-07-04,09:53,Total Cholesterol,166.39,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0038,End of Study,2024-07-04,09:50,LDL Cholesterol,62.93,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0038,End of Study,2024-07-04,10:27,HDL Cholesterol,46.48,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0038,End of Study,2024-07-04,11:39,Triglycerides,22.49,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0039,Screening,2024-02-15,11:24,Total Cholesterol,174.1,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0039,Screening,2024-02-15,11:08,LDL Cholesterol,52.71,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0039,Screening,2024-02-15,10:25,HDL Cholesterol,42.62,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0039,Screening,2024-02-15,08:01,Triglycerides,118.34,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0039,Baseline,2024-03-14,09:57,Total Cholesterol,176.16,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0039,Baseline,2024-03-14,09:37,LDL Cholesterol,48.22,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0039,Baseline,2024-03-14,08:36,HDL Cholesterol,42.35,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0039,Baseline,2024-03-14,11:36,Triglycerides,149.73,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0039,Week 4,2024-04-11,08:25,Total Cholesterol,204.25,mg/dL,100.0,200.0,High,Not clinically significant,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0039,Week 4,2024-04-11,10:53,LDL Cholesterol,55.89,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0039,Week 4,2024-04-11,10:58,HDL Cholesterol,45.76,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0039,Week 4,2024-04-11,08:08,Triglycerides,143.33,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0039,Week 8,2024-05-09,09:20,Total Cholesterol,171.4,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0039,Week 8,2024-05-09,11:17,LDL Cholesterol,47.63,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0039,Week 8,2024-05-09,08:14,HDL Cholesterol,35.9,mg/dL,40.0,60.0,Low,Not clinically significant,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0039,Week 8,2024-05-09,09:12,Triglycerides,140.85,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0039,Week 12,2024-06-06,11:16,Total Cholesterol,154.09,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0039,Week 12,2024-06-06,09:08,LDL Cholesterol,48.9,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0039,Week 12,2024-06-06,11:12,HDL Cholesterol,42.13,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0039,Week 12,2024-06-06,09:19,Triglycerides,153.4,mg/dL,0.0,150.0,High,Clinically significant,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0039,End of Study,2024-07-04,09:59,Total Cholesterol,157.29,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0039,End of Study,2024-07-04,11:41,LDL Cholesterol,46.15,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0039,End of Study,2024-07-04,08:42,HDL Cholesterol,38.46,mg/dL,40.0,60.0,Low,Not clinically significant,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0039,End of Study,2024-07-04,10:27,Triglycerides,119.65,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0040,Screening,2024-02-15,10:05,Total Cholesterol,147.44,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0040,Screening,2024-02-15,11:39,LDL Cholesterol,54.96,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0040,Screening,2024-02-15,10:30,HDL Cholesterol,44.17,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0040,Screening,2024-02-15,09:02,Triglycerides,18.05,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0040,Baseline,2024-03-14,08:14,Total Cholesterol,169.44,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0040,Baseline,2024-03-14,10:27,LDL Cholesterol,59.41,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0040,Baseline,2024-03-14,08:35,HDL Cholesterol,35.81,mg/dL,40.0,60.0,Low,Not clinically significant,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0040,Baseline,2024-03-14,10:26,Triglycerides,17.44,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0040,Week 4,2024-04-11,11:09,Total Cholesterol,173.08,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0040,Week 4,2024-04-11,09:54,LDL Cholesterol,64.44,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0040,Week 4,2024-04-11,10:51,HDL Cholesterol,44.74,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0040,Week 4,2024-04-11,08:23,Triglycerides,22.24,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0040,Week 8,2024-05-09,08:36,Total Cholesterol,142.84,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0040,Week 8,2024-05-09,09:17,LDL Cholesterol,67.87,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0040,Week 8,2024-05-09,09:56,HDL Cholesterol,40.83,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0040,Week 8,2024-05-09,08:03,Triglycerides,21.37,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0040,Week 12,2024-06-06,09:41,Total Cholesterol,156.28,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0040,Week 12,2024-06-06,11:29,LDL Cholesterol,64.25,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0040,Week 12,2024-06-06,08:44,HDL Cholesterol,46.4,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0040,Week 12,2024-06-06,08:13,Triglycerides,21.74,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0040,End of Study,2024-07-04,10:15,Total Cholesterol,157.93,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0040,End of Study,2024-07-04,09:55,LDL Cholesterol,57.07,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0040,End of Study,2024-07-04,09:18,HDL Cholesterol,37.44,mg/dL,40.0,60.0,Low,Not clinically significant,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0040,End of Study,2024-07-04,09:05,Triglycerides,20.81,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0041,Screening,2024-02-15,11:45,Total Cholesterol,133.88,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0041,Screening,2024-02-15,10:56,LDL Cholesterol,16.67,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0041,Screening,2024-02-15,11:40,HDL Cholesterol,62.49,mg/dL,40.0,60.0,High,Clinically significant,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0041,Screening,2024-02-15,11:50,Triglycerides,30.25,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0041,Baseline,2024-03-14,10:39,Total Cholesterol,118.43,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0041,Baseline,2024-03-14,11:12,LDL Cholesterol,16.17,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0041,Baseline,2024-03-14,08:06,HDL Cholesterol,48.94,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0041,Baseline,2024-03-14,08:57,Triglycerides,25.84,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0041,Week 4,2024-04-11,09:20,Total Cholesterol,106.13,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0041,Week 4,2024-04-11,08:17,LDL Cholesterol,16.71,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0041,Week 4,2024-04-11,08:26,HDL Cholesterol,47.26,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0041,Week 4,2024-04-11,09:00,Triglycerides,28.23,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0041,Week 8,2024-05-09,10:05,Total Cholesterol,112.85,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0041,Week 8,2024-05-09,08:51,LDL Cholesterol,18.47,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0041,Week 8,2024-05-09,09:40,HDL Cholesterol,53.19,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0041,Week 8,2024-05-09,08:57,Triglycerides,28.97,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0041,Week 12,2024-06-06,10:39,Total Cholesterol,131.37,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0041,Week 12,2024-06-06,08:14,LDL Cholesterol,18.83,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0041,Week 12,2024-06-06,10:57,HDL Cholesterol,62.22,mg/dL,40.0,60.0,High,Not clinically significant,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0041,Week 12,2024-06-06,10:07,Triglycerides,24.49,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0041,End of Study,2024-07-04,11:48,Total Cholesterol,123.4,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0041,End of Study,2024-07-04,11:34,LDL Cholesterol,14.95,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0041,End of Study,2024-07-04,08:09,HDL Cholesterol,59.5,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0041,End of Study,2024-07-04,09:50,Triglycerides,25.33,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0042,Screening,2024-02-15,10:56,Total Cholesterol,160.59,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0042,Screening,2024-02-15,10:03,LDL Cholesterol,36.38,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0042,Screening,2024-02-15,09:02,HDL Cholesterol,47.54,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0042,Screening,2024-02-15,08:51,Triglycerides,18.01,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0042,Baseline,2024-03-14,10:41,Total Cholesterol,199.84,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0042,Baseline,2024-03-14,09:20,LDL Cholesterol,45.03,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0042,Baseline,2024-03-14,10:35,HDL Cholesterol,52.71,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0042,Baseline,2024-03-14,09:34,Triglycerides,16.98,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0042,Week 4,2024-04-11,11:59,Total Cholesterol,174.53,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0042,Week 4,2024-04-11,10:01,LDL Cholesterol,40.3,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0042,Week 4,2024-04-11,10:49,HDL Cholesterol,47.35,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0042,Week 4,2024-04-11,11:58,Triglycerides,18.06,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0042,Week 8,2024-05-09,10:22,Total Cholesterol,194.92,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0042,Week 8,2024-05-09,10:41,LDL Cholesterol,37.19,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0042,Week 8,2024-05-09,10:48,HDL Cholesterol,46.0,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0042,Week 8,2024-05-09,10:56,Triglycerides,18.22,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0042,Week 12,2024-06-06,08:35,Total Cholesterol,174.39,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0042,Week 12,2024-06-06,08:08,LDL Cholesterol,41.38,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0042,Week 12,2024-06-06,10:29,HDL Cholesterol,50.81,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0042,Week 12,2024-06-06,09:10,Triglycerides,19.66,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0042,End of Study,2024-07-04,11:43,Total Cholesterol,184.48,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0042,End of Study,2024-07-04,09:45,LDL Cholesterol,42.18,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0042,End of Study,2024-07-04,09:37,HDL Cholesterol,41.79,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0042,End of Study,2024-07-04,09:08,Triglycerides,15.55,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0043,Screening,2024-02-15,09:04,Total Cholesterol,96.25,mg/dL,100.0,200.0,Low,Clinically significant,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0043,Screening,2024-02-15,10:57,LDL Cholesterol,5.44,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0043,Screening,2024-02-15,11:49,HDL Cholesterol,39.89,mg/dL,40.0,60.0,Low,Not clinically significant,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0043,Screening,2024-02-15,08:17,Triglycerides,65.97,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0043,Baseline,2024-03-14,11:00,Total Cholesterol,100.05,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0043,Baseline,2024-03-14,10:19,LDL Cholesterol,5.63,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0043,Baseline,2024-03-14,08:14,HDL Cholesterol,42.61,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0043,Baseline,2024-03-14,08:51,Triglycerides,65.36,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0043,Week 4,2024-04-11,10:57,Total Cholesterol,103.38,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0043,Week 4,2024-04-11,09:11,LDL Cholesterol,5.24,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0043,Week 4,2024-04-11,11:54,HDL Cholesterol,43.01,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0043,Week 4,2024-04-11,09:24,Triglycerides,53.2,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0043,Week 8,2024-05-09,08:03,Total Cholesterol,110.95,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0043,Week 8,2024-05-09,09:58,LDL Cholesterol,5.13,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0043,Week 8,2024-05-09,08:56,HDL Cholesterol,34.57,mg/dL,40.0,60.0,Low,Not clinically significant,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0043,Week 8,2024-05-09,08:02,Triglycerides,68.09,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0043,Week 12,2024-06-06,09:13,Total Cholesterol,103.77,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0043,Week 12,2024-06-06,11:39,LDL Cholesterol,6.04,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0043,Week 12,2024-06-06,09:28,HDL Cholesterol,41.12,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0043,Week 12,2024-06-06,09:08,Triglycerides,66.54,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0043,End of Study,2024-07-04,10:31,Total Cholesterol,104.72,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0043,End of Study,2024-07-04,08:05,LDL Cholesterol,5.13,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0043,End of Study,2024-07-04,08:47,HDL Cholesterol,34.07,mg/dL,40.0,60.0,Low,Clinically significant,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0043,End of Study,2024-07-04,08:58,Triglycerides,62.78,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0044,Screening,2024-02-15,11:36,Total Cholesterol,133.13,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0044,Screening,2024-02-15,10:17,LDL Cholesterol,30.61,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0044,Screening,2024-02-15,11:42,HDL Cholesterol,48.82,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0044,Screening,2024-02-15,10:01,Triglycerides,61.28,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0044,Baseline,2024-03-14,10:26,Total Cholesterol,132.02,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0044,Baseline,2024-03-14,09:00,LDL Cholesterol,28.81,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0044,Baseline,2024-03-14,11:47,HDL Cholesterol,42.01,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0044,Baseline,2024-03-14,11:48,Triglycerides,53.22,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0044,Week 4,2024-04-11,08:12,Total Cholesterol,130.17,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0044,Week 4,2024-04-11,10:09,LDL Cholesterol,33.16,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0044,Week 4,2024-04-11,11:33,HDL Cholesterol,37.37,mg/dL,40.0,60.0,Low,Clinically significant,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0044,Week 4,2024-04-11,08:39,Triglycerides,55.35,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0044,Week 8,2024-05-09,09:00,Total Cholesterol,125.16,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0044,Week 8,2024-05-09,11:47,LDL Cholesterol,30.32,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0044,Week 8,2024-05-09,08:14,HDL Cholesterol,46.67,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0044,Week 8,2024-05-09,11:03,Triglycerides,67.18,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0044,Week 12,2024-06-06,11:32,Total Cholesterol,138.88,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0044,Week 12,2024-06-06,10:36,LDL Cholesterol,30.55,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0044,Week 12,2024-06-06,10:50,HDL Cholesterol,48.48,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0044,Week 12,2024-06-06,08:25,Triglycerides,53.87,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0044,End of Study,2024-07-04,09:25,Total Cholesterol,137.45,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0044,End of Study,2024-07-04,11:33,LDL Cholesterol,26.4,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0044,End of Study,2024-07-04,09:40,HDL Cholesterol,39.16,mg/dL,40.0,60.0,Low,Not clinically significant,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0044,End of Study,2024-07-04,09:10,Triglycerides,60.12,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0045,Screening,2024-02-15,10:18,Total Cholesterol,133.91,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0045,Screening,2024-02-15,09:07,LDL Cholesterol,57.77,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0045,Screening,2024-02-15,11:21,HDL Cholesterol,63.17,mg/dL,40.0,60.0,High,Not clinically significant,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0045,Screening,2024-02-15,10:04,Triglycerides,128.1,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0045,Baseline,2024-03-14,11:59,Total Cholesterol,118.55,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0045,Baseline,2024-03-14,11:02,LDL Cholesterol,59.39,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0045,Baseline,2024-03-14,10:41,HDL Cholesterol,53.24,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0045,Baseline,2024-03-14,11:25,Triglycerides,144.56,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0045,Week 4,2024-04-11,08:36,Total Cholesterol,129.98,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0045,Week 4,2024-04-11,09:08,LDL Cholesterol,58.7,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0045,Week 4,2024-04-11,08:46,HDL Cholesterol,58.78,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0045,Week 4,2024-04-11,11:56,Triglycerides,117.49,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0045,Week 8,2024-05-09,09:57,Total Cholesterol,103.13,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0045,Week 8,2024-05-09,10:16,LDL Cholesterol,76.35,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0045,Week 8,2024-05-09,09:08,HDL Cholesterol,54.69,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0045,Week 8,2024-05-09,10:35,Triglycerides,131.27,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0045,Week 12,2024-06-06,08:44,Total Cholesterol,127.66,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0045,Week 12,2024-06-06,11:52,LDL Cholesterol,63.16,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0045,Week 12,2024-06-06,10:49,HDL Cholesterol,63.03,mg/dL,40.0,60.0,High,Clinically significant,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0045,Week 12,2024-06-06,10:09,Triglycerides,147.97,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0045,End of Study,2024-07-04,09:51,Total Cholesterol,125.13,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0045,End of Study,2024-07-04,08:53,LDL Cholesterol,58.39,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0045,End of Study,2024-07-04,08:47,HDL Cholesterol,61.38,mg/dL,40.0,60.0,High,Not clinically significant,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0045,End of Study,2024-07-04,11:23,Triglycerides,144.29,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0046,Screening,2024-02-15,09:01,Total Cholesterol,179.96,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0046,Screening,2024-02-15,10:28,LDL Cholesterol,20.53,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0046,Screening,2024-02-15,09:13,HDL Cholesterol,57.42,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0046,Screening,2024-02-15,08:02,Triglycerides,61.08,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0046,Baseline,2024-03-14,09:24,Total Cholesterol,155.83,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0046,Baseline,2024-03-14,08:19,LDL Cholesterol,26.1,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0046,Baseline,2024-03-14,10:49,HDL Cholesterol,64.32,mg/dL,40.0,60.0,High,Not clinically significant,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0046,Baseline,2024-03-14,08:33,Triglycerides,54.8,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0046,Week 4,2024-04-11,08:00,Total Cholesterol,151.21,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0046,Week 4,2024-04-11,08:04,LDL Cholesterol,20.87,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0046,Week 4,2024-04-11,11:04,HDL Cholesterol,62.21,mg/dL,40.0,60.0,High,Not clinically significant,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0046,Week 4,2024-04-11,10:38,Triglycerides,66.73,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0046,Week 8,2024-05-09,11:26,Total Cholesterol,182.79,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0046,Week 8,2024-05-09,08:43,LDL Cholesterol,22.72,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0046,Week 8,2024-05-09,08:29,HDL Cholesterol,50.99,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0046,Week 8,2024-05-09,09:44,Triglycerides,63.39,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0046,Week 12,2024-06-06,09:12,Total Cholesterol,192.28,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0046,Week 12,2024-06-06,11:51,LDL Cholesterol,25.77,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0046,Week 12,2024-06-06,10:07,HDL Cholesterol,67.53,mg/dL,40.0,60.0,High,Clinically significant,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0046,Week 12,2024-06-06,08:19,Triglycerides,53.98,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0046,End of Study,2024-07-04,11:44,Total Cholesterol,153.74,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0046,End of Study,2024-07-04,09:04,LDL Cholesterol,20.04,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0046,End of Study,2024-07-04,10:29,HDL Cholesterol,51.17,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0046,End of Study,2024-07-04,08:56,Triglycerides,58.67,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0047,Screening,2024-02-15,08:31,Total Cholesterol,132.23,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0047,Screening,2024-02-15,08:46,LDL Cholesterol,2.82,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0047,Screening,2024-02-15,10:27,HDL Cholesterol,50.2,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0047,Screening,2024-02-15,11:46,Triglycerides,54.18,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0047,Baseline,2024-03-14,08:23,Total Cholesterol,133.76,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0047,Baseline,2024-03-14,10:06,LDL Cholesterol,2.93,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0047,Baseline,2024-03-14,10:00,HDL Cholesterol,59.05,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0047,Baseline,2024-03-14,10:35,Triglycerides,63.15,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0047,Week 4,2024-04-11,10:32,Total Cholesterol,130.04,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0047,Week 4,2024-04-11,11:15,LDL Cholesterol,2.96,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0047,Week 4,2024-04-11,10:12,HDL Cholesterol,45.08,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0047,Week 4,2024-04-11,10:24,Triglycerides,65.31,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0047,Week 8,2024-05-09,11:22,Total Cholesterol,147.41,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0047,Week 8,2024-05-09,09:21,LDL Cholesterol,3.11,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0047,Week 8,2024-05-09,08:41,HDL Cholesterol,52.28,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0047,Week 8,2024-05-09,09:45,Triglycerides,54.15,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0047,Week 12,2024-06-06,08:44,Total Cholesterol,119.67,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0047,Week 12,2024-06-06,09:07,LDL Cholesterol,3.0,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0047,Week 12,2024-06-06,08:46,HDL Cholesterol,59.42,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0047,Week 12,2024-06-06,08:04,Triglycerides,64.04,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0047,End of Study,2024-07-04,08:07,Total Cholesterol,120.39,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0047,End of Study,2024-07-04,11:30,LDL Cholesterol,3.34,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0047,End of Study,2024-07-04,09:06,HDL Cholesterol,53.94,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0047,End of Study,2024-07-04,08:31,Triglycerides,54.26,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0048,Screening,2024-02-15,09:41,Total Cholesterol,145.88,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0048,Screening,2024-02-15,09:13,LDL Cholesterol,1.77,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0048,Screening,2024-02-15,08:42,HDL Cholesterol,60.06,mg/dL,40.0,60.0,High,Not clinically significant,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0048,Screening,2024-02-15,11:32,Triglycerides,39.12,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0048,Baseline,2024-03-14,09:26,Total Cholesterol,191.33,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0048,Baseline,2024-03-14,08:13,LDL Cholesterol,1.68,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0048,Baseline,2024-03-14,09:30,HDL Cholesterol,49.61,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0048,Baseline,2024-03-14,10:57,Triglycerides,36.84,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0048,Week 4,2024-04-11,09:48,Total Cholesterol,157.68,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0048,Week 4,2024-04-11,11:22,LDL Cholesterol,1.58,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0048,Week 4,2024-04-11,09:23,HDL Cholesterol,45.15,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0048,Week 4,2024-04-11,08:38,Triglycerides,33.94,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0048,Week 8,2024-05-09,09:33,Total Cholesterol,192.37,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0048,Week 8,2024-05-09,08:05,LDL Cholesterol,1.55,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0048,Week 8,2024-05-09,08:45,HDL Cholesterol,57.29,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0048,Week 8,2024-05-09,09:50,Triglycerides,36.52,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0048,Week 12,2024-06-06,09:37,Total Cholesterol,167.73,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0048,Week 12,2024-06-06,08:34,LDL Cholesterol,1.65,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0048,Week 12,2024-06-06,11:54,HDL Cholesterol,49.54,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0048,Week 12,2024-06-06,11:05,Triglycerides,35.59,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0048,End of Study,2024-07-04,08:38,Total Cholesterol,164.38,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0048,End of Study,2024-07-04,10:13,LDL Cholesterol,1.54,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0048,End of Study,2024-07-04,11:37,HDL Cholesterol,52.31,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0048,End of Study,2024-07-04,11:19,Triglycerides,32.85,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0049,Screening,2024-02-15,09:28,Total Cholesterol,153.48,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0049,Screening,2024-02-15,08:36,LDL Cholesterol,50.38,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0049,Screening,2024-02-15,09:02,HDL Cholesterol,60.52,mg/dL,40.0,60.0,High,Clinically significant,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0049,Screening,2024-02-15,10:41,Triglycerides,99.87,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0049,Baseline,2024-03-14,09:44,Total Cholesterol,143.1,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0049,Baseline,2024-03-14,10:14,LDL Cholesterol,61.68,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0049,Baseline,2024-03-14,10:20,HDL Cholesterol,57.81,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0049,Baseline,2024-03-14,11:15,Triglycerides,99.41,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0049,Week 4,2024-04-11,10:34,Total Cholesterol,166.91,mg/dL,100.0,200.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0049,Week 4,2024-04-11,11:24,LDL Cholesterol,53.65,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0049,Week 4,2024-04-11,11:38,HDL Cholesterol,58.34,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0049,Week 4,2024-04-11,10:14,Triglycerides,103.21,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0049,Week 8,2024-05-09,10:08,Total Cholesterol,183.96,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0049,Week 8,2024-05-09,09:57,LDL Cholesterol,56.63,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0049,Week 8,2024-05-09,09:05,HDL Cholesterol,50.6,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0049,Week 8,2024-05-09,11:35,Triglycerides,96.51,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0049,Week 12,2024-06-06,08:47,Total Cholesterol,184.82,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0049,Week 12,2024-06-06,09:57,LDL Cholesterol,52.41,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0049,Week 12,2024-06-06,11:59,HDL Cholesterol,57.71,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0049,Week 12,2024-06-06,10:22,Triglycerides,77.47,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0049,End of Study,2024-07-04,09:18,Total Cholesterol,145.28,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab A,TECH002,rawlb3
+STUDY001,SUB0049,End of Study,2024-07-04,09:22,LDL Cholesterol,46.98,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0049,End of Study,2024-07-04,08:13,HDL Cholesterol,64.66,mg/dL,40.0,60.0,High,Not clinically significant,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0049,End of Study,2024-07-04,08:45,Triglycerides,86.42,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0050,Screening,2024-02-15,11:06,Total Cholesterol,117.43,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0050,Screening,2024-02-15,09:28,LDL Cholesterol,14.01,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0050,Screening,2024-02-15,09:29,HDL Cholesterol,40.4,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0050,Screening,2024-02-15,10:20,Triglycerides,82.76,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0050,Baseline,2024-03-14,11:04,Total Cholesterol,97.76,mg/dL,100.0,200.0,Low,Clinically significant,Fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0050,Baseline,2024-03-14,11:38,LDL Cholesterol,11.26,mg/dL,0.0,100.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0050,Baseline,2024-03-14,10:58,HDL Cholesterol,38.67,mg/dL,40.0,60.0,Low,Not clinically significant,Non-fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0050,Baseline,2024-03-14,09:00,Triglycerides,104.96,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0050,Week 4,2024-04-11,11:45,Total Cholesterol,99.08,mg/dL,100.0,200.0,Low,Clinically significant,Fasting,Central Lab A,TECH003,rawlb3
+STUDY001,SUB0050,Week 4,2024-04-11,11:55,LDL Cholesterol,14.01,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0050,Week 4,2024-04-11,08:43,HDL Cholesterol,42.61,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0050,Week 4,2024-04-11,08:49,Triglycerides,101.58,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0050,Week 8,2024-05-09,10:04,Total Cholesterol,92.25,mg/dL,100.0,200.0,Low,Not clinically significant,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0050,Week 8,2024-05-09,08:06,LDL Cholesterol,11.17,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Local Lab,TECH003,rawlb3
+STUDY001,SUB0050,Week 8,2024-05-09,09:55,HDL Cholesterol,41.48,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0050,Week 8,2024-05-09,09:46,Triglycerides,88.83,mg/dL,0.0,150.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0050,Week 12,2024-06-06,11:09,Total Cholesterol,111.25,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Local Lab,TECH001,rawlb3
+STUDY001,SUB0050,Week 12,2024-06-06,08:48,LDL Cholesterol,13.47,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Central Lab B,TECH003,rawlb3
+STUDY001,SUB0050,Week 12,2024-06-06,10:11,HDL Cholesterol,50.58,mg/dL,40.0,60.0,Normal,Not applicable,Non-fasting,Central Lab A,TECH001,rawlb3
+STUDY001,SUB0050,Week 12,2024-06-06,11:21,Triglycerides,80.11,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab B,TECH002,rawlb3
+STUDY001,SUB0050,End of Study,2024-07-04,10:32,Total Cholesterol,100.03,mg/dL,100.0,200.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0050,End of Study,2024-07-04,11:36,LDL Cholesterol,13.1,mg/dL,0.0,100.0,Normal,Not applicable,Non-fasting,Local Lab,TECH002,rawlb3
+STUDY001,SUB0050,End of Study,2024-07-04,09:02,HDL Cholesterol,42.92,mg/dL,40.0,60.0,Normal,Not applicable,Fasting,Central Lab B,TECH001,rawlb3
+STUDY001,SUB0050,End of Study,2024-07-04,08:29,Triglycerides,83.6,mg/dL,0.0,150.0,Normal,Not applicable,Fasting,Central Lab A,TECH001,rawlb3
