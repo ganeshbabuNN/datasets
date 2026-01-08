@@ -1,0 +1,34 @@
+2026-01-08 13:58:06,751 - INFO - === File Conversion Started ===
+2026-01-08 13:58:06,751 - INFO - Input Folder: C:\Users\ganes\Documents\Kriyababa\GitHub\datasets\clinical_datasets\sdtm\daibetes\csv
+2026-01-08 13:58:06,751 - INFO - Output Folder: C:\Users\ganes\Documents\Kriyababa\GitHub\datasets\clinical_datasets\sdtm\daibetes\csv\excel
+2026-01-08 13:58:07,007 - INFO - Converted: ae.csv \u2192 excel/ae.xlsx
+2026-01-08 13:58:07,007 - INFO - Skipped directory: archive
+2026-01-08 13:58:07,072 - INFO - Converted: cm.csv \u2192 excel/cm.xlsx
+2026-01-08 13:58:07,114 - INFO - Converted: co.csv \u2192 excel/co.xlsx
+2026-01-08 13:58:07,128 - INFO - Converted: conversion_log.txt \u2192 excel/conversion_log.xlsx
+2026-01-08 13:58:07,129 - ERROR - Error processing da.csv: No columns to parse from file
+2026-01-08 13:58:07,146 - INFO - Converted: dd.csv \u2192 excel/dd.xlsx
+2026-01-08 13:58:07,191 - INFO - Converted: dm.csv \u2192 excel/dm.xlsx
+2026-01-08 13:58:07,284 - INFO - Converted: ds.csv \u2192 excel/ds.xlsx
+2026-01-08 13:58:07,894 - INFO - Converted: eg.csv \u2192 excel/eg.xlsx
+2026-01-08 13:58:08,017 - INFO - Converted: ex.csv \u2192 excel/ex.xlsx
+2026-01-08 13:58:08,017 - INFO - Skipped directory: excel
+2026-01-08 13:58:08,049 - INFO - Converted: fa.csv \u2192 excel/fa.xlsx
+2026-01-08 13:58:08,067 - INFO - Converted: ho.csv \u2192 excel/ho.xlsx
+2026-01-08 13:58:08,088 - INFO - Converted: ie.csv \u2192 excel/ie.xlsx
+2026-01-08 13:58:12,195 - INFO - Converted: lb.csv \u2192 excel/lb.xlsx
+2026-01-08 13:58:16,492 - INFO - Converted: lb1.csv \u2192 excel/lb1.xlsx
+2026-01-08 13:58:16,548 - INFO - Converted: mb.csv \u2192 excel/mb.xlsx
+2026-01-08 13:58:16,633 - INFO - Converted: mh.csv \u2192 excel/mh.xlsx
+2026-01-08 13:58:16,634 - ERROR - Error processing pd.csv: No columns to parse from file
+2026-01-08 13:58:18,656 - INFO - Converted: pe.csv \u2192 excel/pe.xlsx
+2026-01-08 13:58:18,657 - ERROR - Error processing pk.csv: No columns to parse from file
+2026-01-08 13:58:18,751 - INFO - Converted: pr.csv \u2192 excel/pr.xlsx
+2026-01-08 13:58:20,385 - INFO - Converted: qs.csv \u2192 excel/qs.xlsx
+2026-01-08 13:58:20,493 - INFO - Converted: se.csv \u2192 excel/se.xlsx
+2026-01-08 13:58:20,494 - ERROR - Error processing ss.csv: No columns to parse from file
+2026-01-08 13:58:20,766 - INFO - Converted: sv.csv \u2192 excel/sv.xlsx
+2026-01-08 13:58:20,939 - INFO - Converted: tr.csv \u2192 excel/tr.xlsx
+2026-01-08 13:58:20,982 - INFO - Converted: tu.csv \u2192 excel/tu.xlsx
+2026-01-08 13:58:22,428 - INFO - Converted: vs.csv \u2192 excel/vs.xlsx
+2026-01-08 13:58:22,428 - INFO - === File Conversion Completed ===

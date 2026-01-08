@@ -1,0 +1,34 @@
+2026-01-08 14:14:41,017 - INFO - === File Conversion Started ===
+2026-01-08 14:14:41,018 - INFO - Input Folder: C:\Users\ganes\Documents\Kriyababa\GitHub\datasets\clinical_datasets\sdtm\daibetes\csv
+2026-01-08 14:14:41,018 - INFO - Output Folder: C:\Users\ganes\Documents\Kriyababa\GitHub\datasets\clinical_datasets\sdtm\daibetes\csv\excel
+2026-01-08 14:14:41,022 - INFO - Skipped (already exists): C:\Users\ganes\Documents\Kriyababa\GitHub\datasets\clinical_datasets\sdtm\daibetes\csv\excel\ae.xlsx
+2026-01-08 14:14:41,022 - INFO - Skipped directory: archive
+2026-01-08 14:14:41,024 - INFO - Skipped (already exists): C:\Users\ganes\Documents\Kriyababa\GitHub\datasets\clinical_datasets\sdtm\daibetes\csv\excel\cm.xlsx
+2026-01-08 14:14:41,036 - INFO - Skipped (already exists): C:\Users\ganes\Documents\Kriyababa\GitHub\datasets\clinical_datasets\sdtm\daibetes\csv\excel\co.xlsx
+2026-01-08 14:14:41,038 - INFO - Skipped (already exists): C:\Users\ganes\Documents\Kriyababa\GitHub\datasets\clinical_datasets\sdtm\daibetes\csv\excel\conversion_log.xlsx
+2026-01-08 14:14:41,039 - ERROR - Error processing da.csv: No columns to parse from file
+2026-01-08 14:14:41,041 - INFO - Skipped (already exists): C:\Users\ganes\Documents\Kriyababa\GitHub\datasets\clinical_datasets\sdtm\daibetes\csv\excel\dd.xlsx
+2026-01-08 14:14:41,044 - INFO - Skipped (already exists): C:\Users\ganes\Documents\Kriyababa\GitHub\datasets\clinical_datasets\sdtm\daibetes\csv\excel\dm.xlsx
+2026-01-08 14:14:41,049 - INFO - Skipped (already exists): C:\Users\ganes\Documents\Kriyababa\GitHub\datasets\clinical_datasets\sdtm\daibetes\csv\excel\ds.xlsx
+2026-01-08 14:14:41,056 - INFO - Skipped (already exists): C:\Users\ganes\Documents\Kriyababa\GitHub\datasets\clinical_datasets\sdtm\daibetes\csv\excel\eg.xlsx
+2026-01-08 14:14:41,060 - INFO - Skipped (already exists): C:\Users\ganes\Documents\Kriyababa\GitHub\datasets\clinical_datasets\sdtm\daibetes\csv\excel\ex.xlsx
+2026-01-08 14:14:41,061 - INFO - Skipped directory: excel
+2026-01-08 14:14:41,063 - INFO - Skipped (already exists): C:\Users\ganes\Documents\Kriyababa\GitHub\datasets\clinical_datasets\sdtm\daibetes\csv\excel\fa.xlsx
+2026-01-08 14:14:41,066 - INFO - Skipped (already exists): C:\Users\ganes\Documents\Kriyababa\GitHub\datasets\clinical_datasets\sdtm\daibetes\csv\excel\ho.xlsx
+2026-01-08 14:14:41,067 - INFO - Skipped (already exists): C:\Users\ganes\Documents\Kriyababa\GitHub\datasets\clinical_datasets\sdtm\daibetes\csv\excel\ie.xlsx
+2026-01-08 14:14:41,087 - INFO - Skipped (already exists): C:\Users\ganes\Documents\Kriyababa\GitHub\datasets\clinical_datasets\sdtm\daibetes\csv\excel\lb.xlsx
+2026-01-08 14:14:41,107 - INFO - Skipped (already exists): C:\Users\ganes\Documents\Kriyababa\GitHub\datasets\clinical_datasets\sdtm\daibetes\csv\excel\lb1.xlsx
+2026-01-08 14:14:41,111 - INFO - Skipped (already exists): C:\Users\ganes\Documents\Kriyababa\GitHub\datasets\clinical_datasets\sdtm\daibetes\csv\excel\mb.xlsx
+2026-01-08 14:14:41,113 - INFO - Skipped (already exists): C:\Users\ganes\Documents\Kriyababa\GitHub\datasets\clinical_datasets\sdtm\daibetes\csv\excel\mh.xlsx
+2026-01-08 14:14:41,114 - ERROR - Error processing pd.csv: No columns to parse from file
+2026-01-08 14:14:41,125 - INFO - Skipped (already exists): C:\Users\ganes\Documents\Kriyababa\GitHub\datasets\clinical_datasets\sdtm\daibetes\csv\excel\pe.xlsx
+2026-01-08 14:14:41,126 - ERROR - Error processing pk.csv: No columns to parse from file
+2026-01-08 14:14:41,129 - INFO - Skipped (already exists): C:\Users\ganes\Documents\Kriyababa\GitHub\datasets\clinical_datasets\sdtm\daibetes\csv\excel\pr.xlsx
+2026-01-08 14:14:41,137 - INFO - Skipped (already exists): C:\Users\ganes\Documents\Kriyababa\GitHub\datasets\clinical_datasets\sdtm\daibetes\csv\excel\qs.xlsx
+2026-01-08 14:14:41,140 - INFO - Skipped (already exists): C:\Users\ganes\Documents\Kriyababa\GitHub\datasets\clinical_datasets\sdtm\daibetes\csv\excel\se.xlsx
+2026-01-08 14:14:41,141 - ERROR - Error processing ss.csv: No columns to parse from file
+2026-01-08 14:14:41,144 - INFO - Skipped (already exists): C:\Users\ganes\Documents\Kriyababa\GitHub\datasets\clinical_datasets\sdtm\daibetes\csv\excel\sv.xlsx
+2026-01-08 14:14:41,147 - INFO - Skipped (already exists): C:\Users\ganes\Documents\Kriyababa\GitHub\datasets\clinical_datasets\sdtm\daibetes\csv\excel\tr.xlsx
+2026-01-08 14:14:41,149 - INFO - Skipped (already exists): C:\Users\ganes\Documents\Kriyababa\GitHub\datasets\clinical_datasets\sdtm\daibetes\csv\excel\tu.xlsx
+2026-01-08 14:14:41,157 - INFO - Skipped (already exists): C:\Users\ganes\Documents\Kriyababa\GitHub\datasets\clinical_datasets\sdtm\daibetes\csv\excel\vs.xlsx
+2026-01-08 14:14:41,157 - INFO - === File Conversion Completed ===
