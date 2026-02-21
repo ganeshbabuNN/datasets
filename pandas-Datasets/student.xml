@@ -1,23 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<students>
-    <student id="S001">
-        <name>Arun</name>
-        <age>22</age>
-        <course>Data Science</course>
-        <score>85</score>
+<data>
+    <student name="John">
+        <email>john@mail.com</email>
+        <grade>A</grade>
+        <age>16</age>
     </student>
-
-    <student id="S002">
-        <name>Meena</name>
-        <age>24</age>
-        <course>Statistics</course>
-        <score>92</score>
+    <student name="Alice">
+        <email>alice@mail.com</email>
+        <grade>B</grade>
+        <age>17</age>
     </student>
-
-    <student id="S003">
-        <name>Ravi</name>
-        <age>23</age>
-        <course>Computer Science</course>
-        <score>88</score>
+    <student name="Bob">
+        <email>bob@mail.com</email>
+        <grade>C</grade>
+        <age>16</age>
     </student>
-</students>
+    <student name="Hannah">
+        <email>hannah@mail.com</email>
+        <grade>A</grade>
+        <age>17</age>
+    </student>
+</data>
